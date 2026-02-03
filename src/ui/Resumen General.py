@@ -3,6 +3,15 @@ import pandas as pd
 import plotly.graph_objects as go
 from pathlib import Path
 import sys
+
+# ... (después de todos los imports)
+
+# --- DEBUG TEMPORAL (BORRAR LUEGO) ---
+if "GROQ_API_KEY" in st.secrets:
+    st.success(f"✅ ¡CLAVE DETECTADA! Empieza por: {st.secrets['GROQ_API_KEY'][:5]}...")
+else:
+    st.error("❌ CLAVE NO DETECTADA: Streamlit no ve 'GROQ_API_KEY' en los secrets.")
+# -------------------------------------
 # --- 1. MAGIC PATH FIX (EL GPS) ---
 # ¡ESTO TIENE QUE IR LO PRIMERO DE TODO!
 # Antes de importar nada de 'src', le decimos a Python dónde buscar.
