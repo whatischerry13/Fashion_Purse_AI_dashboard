@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#0F172A"        # Navy Blue Profundo (Color de Acento)
+backgroundColor = "#FFFFFF"     # Blanco Puro
+secondaryBackgroundColor = "#F8FAFC" # Gris Hielo (Sidebar)
+textColor = "#1E293B"           # Slate Dark (Texto)
+font = "sans serif"
+
+[server]
+headless = true
+runOnSave = true
