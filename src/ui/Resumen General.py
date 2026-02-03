@@ -4,14 +4,36 @@ import plotly.graph_objects as go
 from pathlib import Path
 import sys
 
-# ... (después de todos los imports)
+# --- ZONA DE DIAGNÓSTICO PROFUNDO (Copiar y Pegar) ---
+st.divider()
+st.subheader("🕵️‍♂️ Diagnóstico Técnico de Aura")
 
-# --- DEBUG TEMPORAL (BORRAR LUEGO) ---
-if "GROQ_API_KEY" in st.secrets:
-    st.success(f"✅ ¡CLAVE DETECTADA! Empieza por: {st.secrets['GROQ_API_KEY'][:5]}...")
-else:
-    st.error("❌ CLAVE NO DETECTADA: Streamlit no ve 'GROQ_API_KEY' en los secrets.")
-# -------------------------------------
+try:
+    # 1. Intentamos importar el cerebro
+    from src.rag.engine import LuxuryAssistant
+    st.write("✅ Importación del módulo: CORRECTA")
+    
+    # 2. Intentamos iniciar el cerebro (Aquí es donde suele explotar)
+    st.write("⏳ Intentando iniciar LuxuryAssistant...")
+    test_aura = LuxuryAssistant()
+    
+    # 3. Verificamos si se crearon las piezas internas
+    if hasattr(test_aura, 'vector_db'):
+        st.success("✅ Base de Datos Vectorial: CARGADA")
+    else:
+        st.error("❌ Base de Datos: FALLÓ (No se creó self.vector_db)")
+
+    if hasattr(test_aura, 'chain'):
+        st.success("✅ Cadena de Razonamiento: CARGADA")
+    else:
+        st.error("❌ Cadena: FALLÓ (No se creó self.chain)")
+        
+except Exception as e:
+    st.error("💥 ERROR CRÍTICO DETECTADO:")
+    st.code(str(e)) # Esto nos dirá la causa exacta
+    import traceback
+    st.code(traceback.format_exc()) # Esto nos dirá la línea exacta
+# -----------------------------------------------------
 # --- 1. MAGIC PATH FIX (EL GPS) ---
 # ¡ESTO TIENE QUE IR LO PRIMERO DE TODO!
 # Antes de importar nada de 'src', le decimos a Python dónde buscar.
