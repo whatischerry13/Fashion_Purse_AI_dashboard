@@ -1,19 +1,26 @@
 import os
 import streamlit as st
 import sys
-
-# --- IMPORTACIONES DE LANGCHAIN Y GROQ ---
-from langchain_groq import ChatGroq
-from langchain_community.vectorstores import Chroma
-from langchain_community.embeddings import HuggingFaceEmbeddings
-from langchain.prompts import PromptTemplate
-from langchain.chains import ConversationalRetrievalChain
-from langchain.memory import ConversationBufferWindowMemory
 from pathlib import Path
 from dotenv import load_dotenv
 
-# --- IMPORTACIONES PARA RERANKER (Ajustadas a versiones modernas) ---
-# En las versiones nuevas de LangChain (>=0.1.16), este es el camino correcto:
+# --- IMPORTACIONES MODERNAS (Ajustadas a LangChain v0.2+) ---
+
+# 1. El Cerebro (LLM)
+from langchain_groq import ChatGroq
+
+# 2. Componentes Core (Aquí estaba el error)
+from langchain_core.prompts import PromptTemplate  # <--- CAMBIO CLAVE
+
+# 3. Memoria y Cadenas (Siguen en langchain main)
+from langchain.chains import ConversationalRetrievalChain
+from langchain.memory import ConversationBufferWindowMemory
+
+# 4. Base de Datos y Embeddings (Desde Community)
+from langchain_community.vectorstores import Chroma
+from langchain_community.embeddings import HuggingFaceEmbeddings
+
+# 5. Reranker (Desde Community y Retriever)
 from langchain.retrievers import ContextualCompressionRetriever
 from langchain.retrievers.document_compressors import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
@@ -38,12 +45,11 @@ class LuxuryAssistant:
             try: 
                 api_key = st.secrets["GROQ_API_KEY"]
             except: 
-                print("⚠️ Error: No se encontró GROQ_API_KEY en entorno ni secrets.")
+                # Fallo silencioso para no romper la UI si no hay clave aún
                 return
 
         # 2. LLM (El Cerebro)
-        # Nota: Al usar groq>=0.18.0 y langchain-groq actualizado, 
-        # ya no hay conflicto con 'proxies'.
+        # Usamos la configuración compatible con versiones nuevas
         self.llm = ChatGroq(
             temperature=0.0, 
             model_name="llama-3.3-70b-versatile",
@@ -53,21 +59,29 @@ class LuxuryAssistant:
         # 3. EMBEDDINGS Y BASE DE DATOS
         if not db_path.exists(): 
             print(f"⚠️ AVISO: La ruta de la base de datos no existe: {db_path}")
-            # No lanzamos error fatal aquí para permitir que la UI cargue y muestre el aviso
         
         self.embedding_model = HuggingFaceEmbeddings(model_name=EMBEDDING_MODEL_NAME)
         
-        # Intentamos cargar la DB solo si existe la carpeta
-        if db_path.exists():
-            self.vector_db = Chroma(persist_directory=str(db_path), embedding_function=self.embedding_model)
+        # Carga defensiva de la base de datos
+        if db_path.exists() and any(db_path.iterdir()):
+            try:
+                self.vector_db = Chroma(persist_directory=str(db_path), embedding_function=self.embedding_model)
+            except Exception as e:
+                print(f"⚠️ Error cargando Chroma: {e}")
+                self.vector_db = None
         else:
             self.vector_db = None
         
         # 4. RERANKER (El Juez de Relevancia)
-        self.reranker_model = HuggingFaceCrossEncoder(model_name="cross-encoder/ms-marco-MiniLM-L-6-v2")
-        self.compressor = CrossEncoderReranker(model=self.reranker_model, top_n=5)
+        try:
+            self.reranker_model = HuggingFaceCrossEncoder(model_name="cross-encoder/ms-marco-MiniLM-L-6-v2")
+            self.compressor = CrossEncoderReranker(model=self.reranker_model, top_n=5)
+        except Exception as e:
+            print(f"⚠️ Error cargando Reranker: {e}")
+            self.compressor = None
         
         # 5. PROMPT (La Personalidad)
+        # Usamos PromptTemplate importado desde langchain_core
         self.qa_prompt = PromptTemplate(
             template="""Eres Aura, Consultora Senior de 'Fashion Purse AI'.
             
@@ -100,10 +114,10 @@ class LuxuryAssistant:
         )
 
         # 7. CONSTRUCCIÓN DE LA CADENA
-        if self.vector_db:
+        if self.vector_db and self.compressor:
             self.chain = self._build_chain()
         else:
-            print("⚠️ AVISO: No se pudo construir la cadena (Falta VectorDB)")
+            self.chain = None
 
     def _build_chain(self):
         """Construye la cadena lógica (Buscador -> Reranker -> LLM)"""
@@ -133,9 +147,9 @@ class LuxuryAssistant:
         """
         try:
             # Verificación de seguridad antes de invocar
-            if not hasattr(self, 'chain'):
+            if not hasattr(self, 'chain') or self.chain is None:
                 return {
-                    "answer": "⚠️ *Error de Inicialización:* No puedo acceder a mi base de datos de conocimiento. Verifica que los archivos 'chroma_db' estén subidos al repositorio.", 
+                    "answer": "⚠️ *Aura no está 100% operativa.* (Base de datos o Reranker no iniciados). Revisa que los archivos en 'data/chroma_db' existan.", 
                     "source_documents": []
                 }
 
