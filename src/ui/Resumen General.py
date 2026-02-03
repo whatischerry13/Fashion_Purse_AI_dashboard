@@ -3,6 +3,14 @@ import pandas as pd
 import plotly.graph_objects as go
 from pathlib import Path
 import sys
+# --- 1. MAGIC PATH FIX (EL GPS) ---
+# ¡ESTO TIENE QUE IR LO PRIMERO DE TODO!
+# Antes de importar nada de 'src', le decimos a Python dónde buscar.
+current_dir = Path(__file__).resolve().parent
+project_root = current_dir.parent.parent
+if str(project_root) not in sys.path:
+    sys.path.append(str(project_root))
+# ----------------------------------
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
