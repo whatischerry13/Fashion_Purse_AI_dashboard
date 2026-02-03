@@ -1,0 +1,932 @@
+Fecha,Marca,Net_Revenue,Status,Cluster,Client_ID,Tier,City,Economic_Index,Luxury_Hype,Modelo,Material,Color,Estado_General,Año_Fabricacion,Has_Box,Has_Papers,Antiguedad
+2024-01-22 14:20:00.765372,Louis Vuitton,2307.0,Completed,Standard,CL-694722,VIC (Top 1%),Marbella,,,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2024-01-22 14:20:00.765372,Celine,1986.0,Completed,Standard,CL-997950,VIC (Top 1%),Palma,,,Ava Bag,Triomphe Canvas,Gold,N - Nuevo,2025,False,False,0
+2024-01-22 14:20:00.765372,Louis Vuitton,2488.0,Completed,Standard,CL-175121,VIC (Top 1%),Marbella,,,Pochette Métis,Monogram Reverse,Etoupe,A - Excelente,2023,False,True,1
+2024-01-22 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-462764,Gold (Recurrente),Getxo,,,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,2
+2024-01-22 14:20:00.765372,Louis Vuitton,2083.0,Completed,Standard,CL-503912,Gold (Recurrente),Madrid,,,Multi Pochette Accessoires,Monogram,Beige Trench,A - Excelente,2022,True,True,2
+2024-01-23 14:20:00.765372,Chanel,5095.0,Completed,High_End,CL-121115,Gold (Recurrente),Madrid,0.9865011177585492,0.9009619514358912,Wallet on Chain (WOC),Caviar,Gold,N - Nuevo,2025,True,True,0
+2024-01-23 14:20:00.765372,Prada,3770.0,Completed,Standard,CL-324850,VIC (Top 1%),Palma,0.9865011177585492,0.9009619514358912,Galleria Saffiano Small,Saffiano,Craie,N - Nuevo,2019,True,False,5
+2024-01-24 14:20:00.765372,Celine,4892.0,Completed,Standard,CL-709211,VIC (Top 1%),Palma,0.9885403025559212,1.003228315530221,Triomphe Classique,Shiny Calf,Negro,N - Nuevo,2024,False,True,0
+2024-01-24 14:20:00.765372,Louis Vuitton,5542.0,Completed,Standard,CL-959784,VIC (Top 1%),Marbella,0.9885403025559212,1.003228315530221,Capucines BB,Taurillon,Negro,A - Excelente,2021,True,False,3
+2024-01-26 14:20:00.765372,Prada,1969.0,Completed,Standard,CL-201348,VIC (Top 1%),Marbella,0.9541127301244507,1.0527043758289616,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2021,False,True,3
+2024-01-27 14:20:00.765372,Louis Vuitton,1984.0,Completed,Standard,CL-197935,VIC (Top 1%),Marbella,1.0039450889456578,1.035565859935962,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,3
+2024-01-27 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-510622,VIC (Top 1%),Marbella,1.0039450889456578,1.035565859935962,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,4
+2024-01-27 14:20:00.765372,Louis Vuitton,2803.0,Completed,Standard,CL-267618,VIP Platinum (Alto Valor),Alcobendas,1.0039450889456578,1.035565859935962,Pochette Métis,Monogram Reverse,Negro,N - Nuevo,2020,False,False,4
+2024-01-28 14:20:00.765372,Celine,4896.0,Completed,Standard,CL-690837,Gold (Recurrente),Oleiros,1.0375145376888806,0.9600421168196775,Triomphe Classique,Shiny Calf,Negro,N - Nuevo,2025,False,False,0
+2024-01-29 14:20:00.765372,Louis Vuitton,1767.0,Completed,Standard,CL-455011,VIC (Top 1%),Alcobendas,1.0304216141730798,0.9270143665348805,Speedy 25 Bandoulière,Damier Ebene,Craie,A - Excelente,2020,False,True,4
+2024-01-30 14:20:00.765372,Louis Vuitton,1804.0,Completed,Standard,CL-834275,VIC (Top 1%),Palma,1.0390672380579713,0.814465980370984,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,1
+2024-01-30 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-500687,VIC (Top 1%),Palma,1.0390672380579713,0.814465980370984,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,4
+2024-01-30 14:20:00.765372,Chanel,4785.0,Completed,High_End,CL-472914,Gold (Recurrente),Oleiros,1.0390672380579713,0.814465980370984,Chanel 19 Large,Goatskin,Gris Asfalto,B - Buen estado,2018,True,False,6
+2024-01-31 14:20:00.765372,Gucci,3221.0,Completed,Standard,CL-912804,Gold (Recurrente),Madrid,1.0347200157727665,0.7656529852614673,Horsebit 1955,GG Supreme,Craie,N - Nuevo,2023,False,True,1
+2024-01-31 14:20:00.765372,Fendi,2818.0,Completed,Standard,CL-949808,VIC (Top 1%),Marbella,1.0347200157727665,0.7656529852614673,Baguette 1997,Zucca Canvas,Gris Asfalto,A - Excelente,2018,False,False,6
+2024-02-01 14:20:00.765372,Hermès,3570.0,Completed,High_End,CL-515294,VIC (Top 1%),Marbella,0.9925249471132708,0.701722991472806,Evelyne III PM,Clemence,Craie,A - Excelente,2023,True,False,1
+2024-02-02 14:20:00.765372,Louis Vuitton,5542.0,Completed,Standard,CL-560406,VIC (Top 1%),Marbella,0.9939224295489412,0.6,Capucines BB,Taurillon,Verde,A - Excelente,2024,False,False,0
+2024-02-02 14:20:00.765372,Fendi,5241.0,Completed,Standard,CL-422266,VIC (Top 1%),Marbella,0.9939224295489412,0.6,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2025,False,False,0
+2024-02-02 14:20:00.765372,Prada,1825.0,Completed,Standard,CL-253304,VIC (Top 1%),Palma,0.9939224295489412,0.6,Re-Edition 2005,Re-Nylon,Gold,AB - Muy bueno,2019,True,False,5
+2024-02-02 14:20:00.765372,Louis Vuitton,1600.0,Completed,Standard,CL-605532,Gold (Recurrente),Oleiros,0.9939224295489412,0.6,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2024,False,False,0
+2024-02-05 14:20:00.765372,Louis Vuitton,3108.0,Completed,Standard,CL-368118,Gold (Recurrente),Madrid,0.9976278831972024,0.6,Onthego GM,Giant Monogram,Beige Trench,AB - Muy bueno,2025,True,True,0
+2024-02-05 14:20:00.765372,Louis Vuitton,2234.0,Completed,Standard,CL-855745,VIC (Top 1%),Palma,0.9976278831972024,0.6,Onthego GM,Giant Monogram,Gold,B - Buen estado,2021,True,True,3
+2024-02-05 14:20:00.765372,Louis Vuitton,7046.0,Completed,Standard,CL-481210,VIC (Top 1%),Marbella,0.9976278831972024,0.6,Capucines BB,Taurillon,Gris Asfalto,N - Nuevo,2021,True,False,3
+2024-02-06 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-309478,VIP Platinum (Alto Valor),Madrid,1.018791771814037,0.6,Neverfull MM,Monogram,Gold,AB - Muy bueno,2021,False,False,3
+2024-02-06 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-172813,VIC (Top 1%),Palma,1.018791771814037,0.6,Pochette Métis,Monogram Reverse,Negro,B - Buen estado,2025,True,True,0
+2024-02-06 14:20:00.765372,Hermès,3339.0,Completed,High_End,CL-102166,VIC (Top 1%),Marbella,1.018791771814037,0.6,Picotin Lock 18,Clemence,Gris Asfalto,A - Excelente,2024,False,False,0
+2024-02-07 14:20:00.765372,Dior,2695.0,Completed,High_End,CL-243562,VIC (Top 1%),Marbella,0.9749258825526343,0.6,Book Tote Medium,Toile de Jouy,Negro,B - Buen estado,2023,False,True,1
+2024-02-07 14:20:00.765372,Louis Vuitton,2039.0,Completed,Standard,CL-106080,VIC (Top 1%),Marbella,0.9749258825526343,0.6,Alma BB,Epi Leather,Azul Marino,A - Excelente,2018,True,False,6
+2024-02-07 14:20:00.765372,Louis Vuitton,5604.0,Completed,Standard,CL-968303,VIC (Top 1%),Marbella,0.9749258825526343,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2018,False,False,6
+2024-02-07 14:20:00.765372,Fendi,4852.0,Completed,Standard,CL-337215,VIC (Top 1%),Palma,0.9749258825526343,0.6,Peekaboo ISeeU Small,Selleria,Etoupe,AB - Muy bueno,2022,True,True,2
+2024-02-08 14:20:00.765372,Louis Vuitton,5612.0,Completed,Standard,CL-301180,VIC (Top 1%),Alcobendas,1.005024691980268,0.6,Capucines BB,Taurillon,Gris Asfalto,A - Excelente,2021,True,True,3
+2024-02-08 14:20:00.765372,Prada,1382.0,Completed,Standard,CL-374175,VIC (Top 1%),Marbella,1.005024691980268,0.6,Re-Edition 2005,Re-Nylon,Verde,B - Buen estado,2023,False,False,1
+2024-02-10 14:20:00.765372,Louis Vuitton,1609.0,Completed,Standard,CL-428578,VIC (Top 1%),Marbella,1.025505291711723,0.6,Speedy 25 Bandoulière,Damier Ebene,Verde,B - Buen estado,2018,True,True,6
+2024-02-11 14:20:00.765372,Prada,4267.0,Completed,Standard,CL-563908,Gold (Recurrente),Alcorcón,1.0239785232149188,0.6,Galleria Saffiano Small,Saffiano,Gris Asfalto,A - Excelente,2024,True,False,0
+2024-02-12 14:20:00.765372,Louis Vuitton,5384.0,Completed,Standard,CL-401993,VIC (Top 1%),Marbella,1.0142883514025476,0.6,Capucines BB,Taurillon,Etoupe,B - Buen estado,2020,True,False,4
+2024-02-12 14:20:00.765372,Louis Vuitton,2803.0,Completed,Standard,CL-939142,VIC (Top 1%),Marbella,1.0142883514025476,0.6,Pochette Métis,Monogram Reverse,Craie,A - Excelente,2023,False,False,1
+2024-02-12 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-482521,Gold (Recurrente),Madrid,1.0142883514025476,0.6,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,2
+2024-02-12 14:20:00.765372,Louis Vuitton,5880.0,Completed,Standard,CL-774026,VIC (Top 1%),Palma,1.0142883514025476,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2018,False,False,6
+2024-02-13 14:20:00.765372,Celine,3672.0,Completed,Standard,CL-453076,Gold (Recurrente),Oleiros,1.0457324373350678,0.6,Triomphe Classique,Shiny Calf,Azul Marino,AB - Muy bueno,2021,False,True,3
+2024-02-14 14:20:00.765372,Louis Vuitton,1541.0,Completed,Standard,CL-529762,VIC (Top 1%),Marbella,1.060456954010626,0.6120086739307391,Neverfull MM,Monogram,Verde,B - Buen estado,2021,True,True,3
+2024-02-14 14:20:00.765372,Fendi,5324.0,Completed,Standard,CL-965080,VIC (Top 1%),Marbella,1.060456954010626,0.6120086739307391,Peekaboo ISeeU Small,Selleria,Azul Marino,A - Excelente,2021,True,True,3
+2024-02-15 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-575381,Gold (Recurrente),Altea,1.027640690510249,0.6,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,5
+2024-02-15 14:20:00.765372,Louis Vuitton,1467.0,Completed,Standard,CL-983770,VIC (Top 1%),Palma,1.027640690510249,0.6,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,1
+2024-02-15 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-452016,VIC (Top 1%),Palma,1.027640690510249,0.6,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-02-16 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-422266,VIC (Top 1%),Marbella,1.0292450316413162,0.6,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2024,True,True,0
+2024-02-16 14:20:00.765372,Hermès,10900.0,Completed,High_End,CL-527788,Gold (Recurrente),Alcobendas,1.0292450316413162,0.6,Constance 18,Evercolor,Gris Asfalto,N - Nuevo,2023,False,True,1
+2024-02-18 14:20:00.765372,Fendi,3525.0,Completed,Standard,CL-883497,Gold (Recurrente),Madrid,0.9872370122380278,0.6,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,0
+2024-02-18 14:20:00.765372,Louis Vuitton,7108.0,Completed,Standard,CL-206903,VIC (Top 1%),Palma,0.9872370122380278,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2024-02-18 14:20:00.765372,Fendi,5009.0,Completed,Standard,CL-463065,VIC (Top 1%),Palma,0.9872370122380278,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,True,1
+2024-02-18 14:20:00.765372,Prada,2059.0,Completed,Standard,CL-565868,Gold (Recurrente),Barcelona,0.9872370122380278,0.6,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2024,True,True,0
+2024-02-19 14:20:00.765372,Gucci,2534.0,Completed,Standard,CL-301180,VIC (Top 1%),Alcobendas,0.9924692939484896,0.6,Dionysus Small,GG Supreme,Rouge H,AB - Muy bueno,2025,True,True,0
+2024-02-19 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-478825,VIC (Top 1%),Palma,0.9924692939484896,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-02-19 14:20:00.765372,Gucci,2093.0,Completed,Standard,CL-625915,VIC (Top 1%),Marbella,0.9924692939484896,0.6,Marmont Matelassé Small,Leather,Rouge H,AB - Muy bueno,2025,False,False,0
+2024-02-19 14:20:00.765372,Fendi,4479.0,Completed,Standard,CL-764894,VIC (Top 1%),Palma,0.9924692939484896,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-02-22 14:20:00.765372,Hermès,10719.0,Completed,High_End,CL-806288,Gold (Recurrente),Marbella,1.0470462909977634,0.6,Constance 18,Evercolor,Beige Trench,A - Excelente,2022,True,True,2
+2024-02-24 14:20:00.765372,Fendi,4376.0,Completed,Standard,CL-740657,VIC (Top 1%),Palma,1.027797123345095,0.6,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2024-02-26 14:20:00.765372,Louis Vuitton,6126.0,Completed,Standard,CL-241142,VIC (Top 1%),Marbella,1.0302904230987768,0.6,Capucines BB,Taurillon,Verde,A - Excelente,2022,True,False,2
+2024-02-27 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-715949,Gold (Recurrente),Barcelona,1.0610897593034692,0.6,Neverfull MM,Monogram,Gold,AB - Muy bueno,2021,False,False,3
+2024-02-28 14:20:00.765372,Prada,3005.0,Completed,Standard,CL-307464,Gold (Recurrente),Barcelona,1.0236333854353172,0.6,Cleo Brushed,Spazzolato,Rouge H,A - Excelente,2021,True,False,3
+2024-02-28 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-902551,VIC (Top 1%),Marbella,1.0236333854353172,0.6,Fendi First Small,Nappa,Gris Asfalto,N - Nuevo,2022,False,False,2
+2024-02-28 14:20:00.765372,Louis Vuitton,1844.0,Completed,Standard,CL-834812,VIP Platinum (Alto Valor),Marbella,1.0236333854353172,0.6,Alma BB,Epi Leather,Etoupe,A - Excelente,2018,True,False,6
+2024-02-28 14:20:00.765372,Gucci,2848.0,Completed,Standard,CL-273435,VIC (Top 1%),Marbella,1.0236333854353172,0.6,Horsebit 1955,GG Supreme,Etoupe,AB - Muy bueno,2021,False,False,3
+2024-02-29 14:20:00.765372,Gucci,2700.0,Completed,Standard,CL-136372,VIC (Top 1%),Marbella,1.066731405731122,0.6,Horsebit 1955,GG Supreme,Beige Trench,AB - Muy bueno,2025,False,False,0
+2024-02-29 14:20:00.765372,Gucci,3768.0,Completed,Standard,CL-159583,VIC (Top 1%),Marbella,1.066731405731122,0.6,Jackie 1961 Small,GG Supreme,Beige Trench,N - Nuevo,2019,False,False,5
+2024-03-01 14:20:00.765372,Louis Vuitton,7108.0,Completed,Standard,CL-321968,VIC (Top 1%),Marbella,1.0584899014389235,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2024-03-02 14:20:00.765372,Celine,2151.0,Completed,Standard,CL-603468,Gold (Recurrente),Oleiros,1.015891887659229,0.6,Belt Bag Nano,Grained Calf,Azul Marino,AB - Muy bueno,2020,False,True,4
+2024-03-02 14:20:00.765372,Fendi,6454.0,Completed,Standard,CL-369261,VIC (Top 1%),Palma,1.015891887659229,0.6,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2019,True,True,5
+2024-03-03 14:20:00.765372,Louis Vuitton,2611.0,Completed,Standard,CL-975360,VIC (Top 1%),Palma,1.0433721484766338,0.6,Pochette Métis,Monogram Reverse,Beige Trench,A - Excelente,2023,False,True,1
+2024-03-03 14:20:00.765372,Gucci,2353.0,Completed,Standard,CL-990521,VIC (Top 1%),Marbella,1.0433721484766338,0.6,Marmont Matelassé Small,Leather,Gold,A - Excelente,2024,True,True,0
+2024-03-03 14:20:00.765372,Louis Vuitton,3081.0,Completed,Standard,CL-302591,VIC (Top 1%),Marbella,1.0433721484766338,0.6,Multi Pochette Accessoires,Monogram,Etoupe,N - Nuevo,2022,False,False,2
+2024-03-03 14:20:00.765372,Prada,2462.0,Completed,Standard,CL-132213,VIC (Top 1%),Palma,1.0433721484766338,0.6,Cleo Brushed,Spazzolato,Azul Marino,AB - Muy bueno,2022,False,True,2
+2024-03-05 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-646624,VIC (Top 1%),Palma,1.042671640846207,0.6,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2024-03-05 14:20:00.765372,Louis Vuitton,3724.0,Completed,Standard,CL-135432,VIC (Top 1%),Marbella,1.042671640846207,0.6,Pochette Métis,Monogram Reverse,Craie,N - Nuevo,2021,True,True,3
+2024-03-06 14:20:00.765372,Celine,2151.0,Completed,Standard,CL-555433,VIC (Top 1%),Marbella,1.0517297969010813,0.6,Ava Bag,Triomphe Canvas,Gold,N - Nuevo,2025,False,False,0
+2024-03-06 14:20:00.765372,Chanel,6767.0,Completed,High_End,CL-877277,VIC (Top 1%),Marbella,1.0517297969010813,0.6,Boy Bag Old Medium,Calfskin,Azul Marino,A - Excelente,2022,True,True,2
+2024-03-06 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-211886,VIP Platinum (Alto Valor),Alcobendas,1.0517297969010813,0.6,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,2
+2024-03-07 14:20:00.765372,Louis Vuitton,5384.0,Completed,Standard,CL-170942,VIC (Top 1%),Palma,1.043099475393165,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,False,0
+2024-03-08 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-412338,VIC (Top 1%),Palma,1.0463956777100991,0.6408655500673397,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-03-08 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-380609,Gold (Recurrente),Madrid,1.0463956777100991,0.6408655500673397,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,False,2
+2024-03-08 14:20:00.765372,Fendi,2336.0,Completed,Standard,CL-545226,VIC (Top 1%),Marbella,1.0463956777100991,0.6408655500673397,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,4
+2024-03-09 14:20:00.765372,Hermès,3120.0,Completed,High_End,CL-223019,VIC (Top 1%),Palma,1.0550402699088428,0.6437917681627164,Evelyne III PM,Clemence,Craie,AB - Muy bueno,2023,False,True,1
+2024-03-10 14:20:00.765372,Gucci,2777.0,Completed,Standard,CL-896833,VIC (Top 1%),Marbella,1.0266848478501942,0.7458826330887305,Dionysus Small,GG Supreme,Rouge H,AB - Muy bueno,2025,True,True,0
+2024-03-10 14:20:00.765372,Celine,2169.0,Completed,Standard,CL-239742,VIC (Top 1%),Palma,1.0266848478501942,0.7458826330887305,Belt Bag Nano,Grained Calf,Rouge H,AB - Muy bueno,2024,False,True,0
+2024-03-10 14:20:00.765372,Louis Vuitton,2544.0,Completed,Standard,CL-285174,VIC (Top 1%),Palma,1.0266848478501942,0.7458826330887305,Pochette Métis,Monogram Reverse,Beige Trench,AB - Muy bueno,2021,False,True,3
+2024-03-10 14:20:00.765372,Fendi,3525.0,Completed,Standard,CL-637501,Gold (Recurrente),Valencia,1.0266848478501942,0.7458826330887305,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,0
+2024-03-11 14:20:00.765372,Prada,2061.0,Completed,Standard,CL-993469,VIC (Top 1%),Palma,1.0314821702891075,0.7129480352778128,Cleo Brushed,Spazzolato,Verde,B - Buen estado,2018,True,False,6
+2024-03-11 14:20:00.765372,Louis Vuitton,1617.0,Completed,Standard,CL-893803,VIC (Top 1%),Marbella,1.0314821702891075,0.7129480352778128,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,False,True,0
+2024-03-12 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-342465,VIC (Top 1%),Palma,1.0369681389824497,0.642319289413082,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2024-03-12 14:20:00.765372,Celine,1954.0,Completed,Standard,CL-267770,Gold (Recurrente),Madrid,1.0369681389824497,0.642319289413082,Belt Bag Nano,Grained Calf,Gris Asfalto,A - Excelente,2024,True,False,0
+2024-03-13 14:20:00.765372,Hermès,3043.0,Completed,High_End,CL-276613,Gold (Recurrente),Barcelona,1.0560716397365189,0.7151446032256479,Evelyne III PM,Clemence,Craie,AB - Muy bueno,2023,False,True,1
+2024-03-13 14:20:00.765372,Fendi,3142.0,Completed,Standard,CL-878493,VIC (Top 1%),Marbella,1.0560716397365189,0.7151446032256479,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2021,False,True,3
+2024-03-14 14:20:00.765372,Prada,3374.0,Completed,Standard,CL-898735,Gold (Recurrente),Oleiros,1.0197524632069828,0.8030060645953746,Cleo Brushed,Spazzolato,Negro,A - Excelente,2025,False,False,0
+2024-03-15 14:20:00.765372,Louis Vuitton,3152.0,Completed,Standard,CL-136274,VIC (Top 1%),Palma,1.0501808406993105,0.754451015799325,Onthego GM,Giant Monogram,Rouge H,AB - Muy bueno,2025,True,True,0
+2024-03-15 14:20:00.765372,Louis Vuitton,6280.0,Completed,Standard,CL-606475,VIC (Top 1%),Palma,1.0501808406993105,0.754451015799325,Capucines BB,Taurillon,Craie,A - Excelente,2018,False,False,6
+2024-03-16 14:20:00.765372,Chanel,7242.0,Completed,High_End,CL-886603,VIC (Top 1%),Palma,1.0828527632245262,0.7659735355228506,Chanel 19 Large,Goatskin,Gold,A - Excelente,2021,False,False,3
+2024-03-17 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-870671,VIC (Top 1%),Marbella,1.0460305708711248,0.766950214529631,Alma BB,Epi Leather,Verde,AB - Muy bueno,2018,False,True,6
+2024-03-17 14:20:00.765372,Dior,5165.0,Completed,High_End,CL-419409,VIC (Top 1%),Marbella,1.0460305708711248,0.766950214529631,Lady Dior ABC (Small),Lambskin,Gris Asfalto,A - Excelente,2024,False,True,0
+2024-03-17 14:20:00.765372,Louis Vuitton,3152.0,Completed,Standard,CL-232887,Gold (Recurrente),Ourense,1.0460305708711248,0.766950214529631,Onthego GM,Giant Monogram,Negro,A - Excelente,2023,True,False,1
+2024-03-17 14:20:00.765372,Hermès,3339.0,Completed,High_End,CL-773892,VIC (Top 1%),Palma,1.0460305708711248,0.766950214529631,Picotin Lock 18,Clemence,Gold,AB - Muy bueno,2021,False,True,3
+2024-03-17 14:20:00.765372,Louis Vuitton,3698.0,Completed,Standard,CL-565868,Gold (Recurrente),Barcelona,1.0460305708711248,0.766950214529631,Onthego GM,Giant Monogram,Rouge H,AB - Muy bueno,2025,True,True,0
+2024-03-19 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-278780,VIC (Top 1%),Marbella,1.0745059761128155,0.7215622003306847,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,0
+2024-03-19 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-374359,Gold (Recurrente),Valencia,1.0745059761128155,0.7215622003306847,Multi Pochette Accessoires,Monogram,Azul Marino,AB - Muy bueno,2025,False,False,0
+2024-03-20 14:20:00.765372,Louis Vuitton,5578.0,Completed,Standard,CL-635485,VIC (Top 1%),Palma,1.0456770116401362,0.7422711070679457,Capucines BB,Taurillon,Gold,A - Excelente,2021,True,False,3
+2024-03-20 14:20:00.765372,Louis Vuitton,1807.0,Completed,Standard,CL-267017,VIC (Top 1%),Marbella,1.0456770116401362,0.7422711070679457,Alma BB,Epi Leather,Azul Marino,A - Excelente,2024,False,True,0
+2024-03-22 14:20:00.765372,Louis Vuitton,5604.0,Completed,Standard,CL-686129,VIC (Top 1%),Marbella,1.0408758970762269,0.6604779201602007,Capucines BB,Taurillon,Verde,A - Excelente,2022,True,False,2
+2024-03-22 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-987869,VIC (Top 1%),Marbella,1.0408758970762269,0.6604779201602007,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-03-23 14:20:00.765372,Hermès,3467.0,Completed,High_End,CL-285174,VIC (Top 1%),Palma,1.0529989388716177,0.7302484641958293,Evelyne III PM,Clemence,Etoupe,AB - Muy bueno,2024,True,False,0
+2024-03-23 14:20:00.765372,Gucci,3323.0,Completed,Standard,CL-596969,VIC (Top 1%),Palma,1.0529989388716177,0.7302484641958293,Jackie 1961 Small,GG Supreme,Azul Marino,A - Excelente,2024,False,False,0
+2024-03-23 14:20:00.765372,Celine,3895.0,Completed,Standard,CL-657006,VIC (Top 1%),Palma,1.0529989388716177,0.7302484641958293,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2019,False,True,5
+2024-03-23 14:20:00.765372,Louis Vuitton,5612.0,Completed,Standard,CL-901039,VIC (Top 1%),Palma,1.0529989388716177,0.7302484641958293,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2024-03-23 14:20:00.765372,Louis Vuitton,6310.0,Completed,Standard,CL-627419,VIC (Top 1%),Palma,1.0529989388716177,0.7302484641958293,Capucines BB,Taurillon,Gris Asfalto,A - Excelente,2021,True,True,3
+2024-03-24 14:20:00.765372,Fendi,7857.0,Completed,Standard,CL-836295,VIC (Top 1%),Marbella,1.0847930252789797,0.8248513328663792,Peekaboo ISeeU Small,Selleria,Etoupe,N - Nuevo,2018,True,True,6
+2024-03-25 14:20:00.765372,Celine,2091.0,Completed,Standard,CL-420839,Gold (Recurrente),Barcelona,1.073314117076397,0.8149681163941692,Luggage Nano,Drummed Calf,Gold,A - Excelente,2023,True,True,1
+2024-03-25 14:20:00.765372,Gucci,3332.0,Completed,Standard,CL-995318,VIC (Top 1%),Palma,1.073314117076397,0.8149681163941692,Dionysus Small,GG Supreme,Beige Trench,N - Nuevo,2023,False,False,1
+2024-03-25 14:20:00.765372,Hermès,10072.0,Completed,High_End,CL-582596,VIC (Top 1%),Marbella,1.073314117076397,0.8149681163941692,Constance 18,Evercolor,Azul Marino,N - Nuevo,2018,True,False,6
+2024-03-25 14:20:00.765372,Louis Vuitton,1769.0,Completed,Standard,CL-387725,Gold (Recurrente),Oviedo,1.073314117076397,0.8149681163941692,Alma BB,Epi Leather,Verde,AB - Muy bueno,2018,False,True,6
+2024-03-26 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-839725,VIC (Top 1%),Marbella,1.029776125562572,0.9099172615244256,Baguette 1997,Zucca Canvas,Gris Asfalto,A - Excelente,2018,False,False,6
+2024-03-26 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-953879,VIC (Top 1%),Marbella,1.029776125562572,0.9099172615244256,Fendi First Small,Nappa,Azul Marino,N - Nuevo,2022,False,False,2
+2024-03-26 14:20:00.765372,Gucci,2645.0,Completed,Standard,CL-364761,Gold (Recurrente),Altea,1.029776125562572,0.9099172615244256,Marmont Matelassé Small,Leather,Craie,AB - Muy bueno,2021,False,True,3
+2024-03-27 14:20:00.765372,Celine,3380.0,Completed,Standard,CL-545716,VIC (Top 1%),Marbella,1.084556305640191,0.9163276792433908,Triomphe Classique,Shiny Calf,Verde,B - Buen estado,2018,False,True,6
+2024-03-28 14:20:00.765372,Louis Vuitton,5381.0,Completed,Standard,CL-686417,Gold (Recurrente),Madrid,1.022971537768543,0.9899787164675712,Capucines BB,Taurillon,Verde,A - Excelente,2024,False,False,0
+2024-03-28 14:20:00.765372,Chanel,3160.0,Completed,High_End,CL-422266,VIC (Top 1%),Marbella,1.022971537768543,0.9899787164675712,Wallet on Chain (WOC),Caviar,Etoupe,B - Buen estado,2022,True,True,2
+2024-03-29 14:20:00.765372,Hermès,12299.0,Completed,High_End,CL-591081,VIC (Top 1%),Marbella,1.0361770090503948,0.966655824026936,Kelly 25 Retourne,Swift,Gold,A - Excelente,2022,False,True,2
+2024-03-29 14:20:00.765372,Fendi,6454.0,Completed,Standard,CL-581714,Gold (Recurrente),Madrid,1.0361770090503948,0.966655824026936,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,4
+2024-03-30 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-445566,VIC (Top 1%),Marbella,1.0641572059242137,0.8836192173847435,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2021,False,False,3
+2024-03-30 14:20:00.765372,Louis Vuitton,2952.0,Completed,Standard,CL-883497,Gold (Recurrente),Madrid,1.0641572059242137,0.8836192173847435,Pochette Métis,Monogram Reverse,Verde,A - Excelente,2019,True,True,5
+2024-03-30 14:20:00.765372,Gucci,3028.0,Completed,Standard,CL-483012,VIC (Top 1%),Marbella,1.0641572059242137,0.8836192173847435,Horsebit 1955,GG Supreme,Negro,A - Excelente,2023,False,True,1
+2024-04-01 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-225714,VIC (Top 1%),Marbella,1.0494159365511784,0.9620537291941008,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,4
+2024-04-01 14:20:00.765372,Louis Vuitton,3069.0,Completed,Standard,CL-983770,VIC (Top 1%),Palma,1.0494159365511784,0.9620537291941008,Pochette Métis,Monogram Reverse,Verde,A - Excelente,2019,True,True,5
+2024-04-01 14:20:00.765372,Chanel,7521.0,Completed,High_End,CL-214997,VIC (Top 1%),Alcobendas,1.0494159365511784,0.9620537291941008,2.55 Reissue 226,Aged Calfskin,Beige Trench,AB - Muy bueno,2024,True,False,0
+2024-04-02 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-718923,VIC (Top 1%),Marbella,1.0340141187856602,0.9759564989990202,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,4
+2024-04-03 14:20:00.765372,Celine,2380.0,Completed,Standard,CL-592791,Gold (Recurrente),Alcorcón,1.0573614319811244,1.047168998506787,Belt Bag Nano,Grained Calf,Gold,AB - Muy bueno,2023,False,False,1
+2024-04-03 14:20:00.765372,Prada,2719.0,Completed,Standard,CL-916060,VIC (Top 1%),Palma,1.0573614319811244,1.047168998506787,Galleria Saffiano Small,Saffiano,Etoupe,B - Buen estado,2023,True,False,1
+2024-04-04 14:20:00.765372,Louis Vuitton,2702.0,Completed,Standard,CL-431934,VIC (Top 1%),Palma,1.080924009573081,1.09617762095293,Pochette Métis,Monogram Reverse,Beige Trench,A - Excelente,2023,False,True,1
+2024-04-04 14:20:00.765372,Chanel,10461.0,Completed,High_End,CL-551841,VIC (Top 1%),Marbella,1.080924009573081,1.09617762095293,Classic Flap Medium,Caviar,Negro,A - Excelente,2024,True,False,0
+2024-04-04 14:20:00.765372,Louis Vuitton,2410.0,Completed,Standard,CL-234707,VIC (Top 1%),Palma,1.080924009573081,1.09617762095293,Multi Pochette Accessoires,Monogram,Beige Trench,A - Excelente,2022,True,True,2
+2024-04-04 14:20:00.765372,Louis Vuitton,1469.0,Completed,Standard,CL-219646,VIC (Top 1%),Palma,1.080924009573081,1.09617762095293,Neverfull MM,Monogram,Verde,B - Buen estado,2021,True,True,3
+2024-04-06 14:20:00.765372,Louis Vuitton,1989.0,Completed,Standard,CL-368118,Gold (Recurrente),Madrid,1.0779028923948613,1.0995730913867934,Neverfull MM,Monogram,Gold,AB - Muy bueno,2021,False,False,3
+2024-04-07 14:20:00.765372,Louis Vuitton,3001.0,Completed,Standard,CL-783860,VIC (Top 1%),Marbella,1.1001039758041893,0.9815313852274896,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2021,True,False,3
+2024-04-09 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-874572,Gold (Recurrente),Madrid,1.062222737435332,0.8366056520893478,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,2
+2024-04-09 14:20:00.765372,Louis Vuitton,1989.0,Completed,Standard,CL-882552,VIC (Top 1%),Marbella,1.062222737435332,0.8366056520893478,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,True,False,0
+2024-04-09 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-802648,Gold (Recurrente),Altea,1.062222737435332,0.8366056520893478,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,1
+2024-04-10 14:20:00.765372,Fendi,7857.0,Completed,Standard,CL-817968,VIC (Top 1%),Marbella,1.0801879096255935,0.7728771374748368,Peekaboo ISeeU Small,Selleria,Etoupe,N - Nuevo,2018,True,True,6
+2024-04-10 14:20:00.765372,Hermès,3396.0,Completed,High_End,CL-240793,Gold (Recurrente),Madrid,1.0801879096255935,0.7728771374748368,Evelyne III PM,Clemence,Etoupe,AB - Muy bueno,2024,True,False,0
+2024-04-10 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-895041,Gold (Recurrente),Getxo,1.0801879096255935,0.7728771374748368,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,3
+2024-04-11 14:20:00.765372,Louis Vuitton,5542.0,Completed,Standard,CL-251538,VIC (Top 1%),Palma,1.0623639938537663,0.7189552049115234,Capucines BB,Taurillon,Verde,AB - Muy bueno,2022,True,False,2
+2024-04-11 14:20:00.765372,Louis Vuitton,3081.0,Completed,Standard,CL-544702,VIC (Top 1%),Palma,1.0623639938537663,0.7189552049115234,Pochette Métis,Monogram Reverse,Azul Marino,N - Nuevo,2021,False,True,3
+2024-04-11 14:20:00.765372,Louis Vuitton,1837.0,Completed,Standard,CL-353983,VIP Platinum (Alto Valor),Palma,1.0623639938537663,0.7189552049115234,Alma BB,Epi Leather,Verde,AB - Muy bueno,2018,False,True,6
+2024-04-11 14:20:00.765372,Fendi,4213.0,Completed,Standard,CL-657586,VIC (Top 1%),Palma,1.0623639938537663,0.7189552049115234,Fendi First Small,Nappa,Verde,A - Excelente,2018,True,True,6
+2024-04-12 14:20:00.765372,Hermès,4274.0,Completed,High_End,CL-314334,VIC (Top 1%),Marbella,1.066615559858957,0.7609777710264708,Picotin Lock 18,Clemence,Etoupe,N - Nuevo,2023,False,True,1
+2024-04-12 14:20:00.765372,Louis Vuitton,4272.0,Completed,Standard,CL-828646,VIC (Top 1%),Palma,1.066615559858957,0.7609777710264708,Capucines BB,Taurillon,Etoupe,B - Buen estado,2019,True,False,5
+2024-04-13 14:20:00.765372,Loewe,2558.0,Completed,Standard,CL-882552,VIC (Top 1%),Marbella,1.0920692913348151,0.8040000128953088,Puzzle Small,Classic Calf,Craie,AB - Muy bueno,2024,False,True,0
+2024-04-14 14:20:00.765372,Fendi,7857.0,Completed,Standard,CL-724478,VIC (Top 1%),Palma,1.0533179780630382,0.7556562849631578,Peekaboo ISeeU Small,Selleria,Etoupe,N - Nuevo,2018,True,True,6
+2024-04-15 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-753993,VIC (Top 1%),Palma,1.0652194850277013,0.8033475491616576,Fendi First Small,Nappa,Verde,A - Excelente,2018,True,True,6
+2024-04-16 14:20:00.765372,Gucci,2720.0,Completed,Standard,CL-432150,VIC (Top 1%),Marbella,1.0810415365709778,0.756703135081699,Dionysus Small,GG Supreme,Craie,AB - Muy bueno,2022,True,False,2
+2024-04-16 14:20:00.765372,Gucci,2833.0,Completed,Standard,CL-563787,VIC (Top 1%),Marbella,1.0810415365709778,0.756703135081699,Marmont Matelassé Small,Leather,Negro,N - Nuevo,2022,True,False,2
+2024-04-17 14:20:00.765372,Fendi,6001.0,Completed,Standard,CL-875722,VIC (Top 1%),Marbella,1.0956274304529794,0.8069308690355482,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2024,True,True,0
+2024-04-17 14:20:00.765372,Prada,2059.0,Completed,Standard,CL-761537,VIC (Top 1%),Marbella,1.0956274304529794,0.8069308690355482,Re-Edition 2005,Re-Nylon,Gold,A - Excelente,2025,False,False,0
+2024-04-17 14:20:00.765372,Louis Vuitton,2952.0,Completed,Standard,CL-305478,VIP Platinum (Alto Valor),Marbella,1.0956274304529794,0.8069308690355482,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2023,False,False,1
+2024-04-19 14:20:00.765372,Louis Vuitton,1769.0,Completed,Standard,CL-376625,VIC (Top 1%),Marbella,1.0904291212644035,0.7024961591813043,Neverfull MM,Monogram,Verde,A - Excelente,2022,True,False,2
+2024-04-20 14:20:00.765372,Louis Vuitton,2494.0,Completed,Standard,CL-896254,VIC (Top 1%),Palma,1.057935446258294,0.8431593810761977,Neverfull MM,Monogram,Rouge H,N - Nuevo,2025,False,True,0
+2024-04-20 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-205446,VIC (Top 1%),Palma,1.057935446258294,0.8431593810761977,Peekaboo ISeeU Small,Selleria,Verde,AB - Muy bueno,2019,False,True,5
+2024-04-23 14:20:00.765372,Hermès,3487.0,Completed,High_End,CL-575247,Gold (Recurrente),Getxo,1.0554752559142004,0.9180963327005184,Picotin Lock 18,Clemence,Verde,AB - Muy bueno,2024,True,False,0
+2024-04-26 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-408663,VIC (Top 1%),Marbella,1.084988796680196,0.8505178592022679,Fendi First Small,Nappa,Negro,N - Nuevo,2020,True,True,4
+2024-04-26 14:20:00.765372,Louis Vuitton,2402.0,Completed,Standard,CL-555571,VIC (Top 1%),Marbella,1.084988796680196,0.8505178592022679,Neverfull MM,Monogram,Gris Asfalto,N - Nuevo,2025,False,True,0
+2024-04-27 14:20:00.765372,Fendi,5007.0,Completed,Standard,CL-945675,VIC (Top 1%),Palma,1.0651433186114418,0.8784333265441702,Peekaboo ISeeU Small,Selleria,Azul Marino,A - Excelente,2021,True,True,3
+2024-04-27 14:20:00.765372,Fendi,3824.0,Completed,Standard,CL-208067,VIC (Top 1%),Palma,1.0651433186114418,0.8784333265441702,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,6
+2024-04-28 14:20:00.765372,Celine,2402.0,Completed,Standard,CL-706511,VIC (Top 1%),Marbella,1.076165769725348,0.9041428402177404,Luggage Nano,Drummed Calf,Negro,AB - Muy bueno,2019,True,False,5
+2024-04-28 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-345506,VIC (Top 1%),Marbella,1.076165769725348,0.9041428402177404,Baguette 1997,Zucca Canvas,Beige Trench,AB - Muy bueno,2023,False,True,1
+2024-04-28 14:20:00.765372,Louis Vuitton,2410.0,Completed,Standard,CL-529762,VIC (Top 1%),Marbella,1.076165769725348,0.9041428402177404,Neverfull MM,Monogram,Rouge H,N - Nuevo,2025,False,True,0
+2024-04-29 14:20:00.765372,Celine,4014.0,Completed,Standard,CL-821457,VIC (Top 1%),Marbella,1.1114969446110332,0.8426088056572708,Triomphe Classique,Shiny Calf,Verde,A - Excelente,2025,True,True,0
+2024-04-29 14:20:00.765372,Prada,2719.0,Completed,Standard,CL-978284,VIC (Top 1%),Marbella,1.1114969446110332,0.8426088056572708,Cleo Brushed,Spazzolato,Beige Trench,A - Excelente,2021,True,False,3
+2024-04-29 14:20:00.765372,Fendi,3408.0,Completed,Standard,CL-389806,VIC (Top 1%),Marbella,1.1114969446110332,0.8426088056572708,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2024,False,False,0
+2024-04-29 14:20:00.765372,Louis Vuitton,3106.0,Completed,Standard,CL-553026,Gold (Recurrente),Oleiros,1.1114969446110332,0.8426088056572708,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2021,True,False,3
+2024-05-01 14:20:00.765372,Louis Vuitton,1767.0,Completed,Standard,CL-647884,VIC (Top 1%),Marbella,1.0613092403138094,0.6858064051854709,Neverfull MM,Monogram,Gold,AB - Muy bueno,2021,False,False,3
+2024-05-03 14:20:00.765372,Hermès,8482.0,Completed,High_End,CL-144456,VIC (Top 1%),Palma,1.0600793582883403,0.6864022205668113,Birkin 25,Togo,Verde,AB - Muy bueno,2019,False,False,5
+2024-05-05 14:20:00.765372,Louis Vuitton,1844.0,Completed,Standard,CL-893803,VIC (Top 1%),Marbella,1.0735930747173883,0.6618528456619001,Pochette Métis,Monogram Reverse,Gold,B - Buen estado,2024,True,False,0
+2024-05-06 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-551530,VIC (Top 1%),Palma,1.0772644841522172,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,1
+2024-05-06 14:20:00.765372,Prada,1981.0,Completed,Standard,CL-529762,VIC (Top 1%),Marbella,1.0772644841522172,0.6,Re-Edition 2005,Re-Nylon,Etoupe,A - Excelente,2024,True,True,0
+2024-05-06 14:20:00.765372,Louis Vuitton,5598.0,Completed,Standard,CL-413619,VIP Platinum (Alto Valor),Alcobendas,1.0772644841522172,0.6,Capucines BB,Taurillon,Negro,A - Excelente,2021,True,False,3
+2024-05-06 14:20:00.765372,Hermès,3320.0,Completed,High_End,CL-879163,VIC (Top 1%),Marbella,1.0772644841522172,0.6,Picotin Lock 18,Clemence,Beige Trench,A - Excelente,2022,True,False,2
+2024-05-06 14:20:00.765372,Louis Vuitton,3698.0,Completed,Standard,CL-177322,VIC (Top 1%),Palma,1.0772644841522172,0.6,Onthego GM,Giant Monogram,Verde,N - Nuevo,2018,False,True,6
+2024-05-07 14:20:00.765372,Celine,3895.0,Completed,Standard,CL-229386,VIC (Top 1%),Palma,1.0927575256707984,0.6010491574042021,Triomphe Classique,Shiny Calf,Azul Marino,AB - Muy bueno,2021,False,True,3
+2024-05-09 14:20:00.765372,Louis Vuitton,1474.0,Completed,Standard,CL-770865,VIC (Top 1%),Alcobendas,1.0849572371194902,0.6,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2019,False,False,5
+2024-05-09 14:20:00.765372,Chanel,9508.0,Completed,High_End,CL-848184,VIC (Top 1%),Marbella,1.0849572371194902,0.6,Classic Flap Jumbo,Caviar,Craie,A - Excelente,2021,False,True,3
+2024-05-10 14:20:00.765372,Louis Vuitton,5604.0,Completed,Standard,CL-339172,VIP Platinum (Alto Valor),Alcobendas,1.0831284577140756,0.6,Capucines BB,Taurillon,Craie,AB - Muy bueno,2021,False,True,3
+2024-05-10 14:20:00.765372,Chanel,8304.0,Completed,High_End,CL-285855,VIC (Top 1%),Marbella,1.0831284577140756,0.6,2.55 Reissue 226,Aged Calfskin,Beige Trench,A - Excelente,2025,False,False,0
+2024-05-11 14:20:00.765372,Celine,2380.0,Completed,Standard,CL-158041,VIC (Top 1%),Palma,1.0734319134944623,0.6364064300688085,Ava Bag,Triomphe Canvas,Gold,N - Nuevo,2025,False,False,0
+2024-05-11 14:20:00.765372,Louis Vuitton,5895.0,Completed,Standard,CL-371452,Gold (Recurrente),Madrid,1.0734319134944623,0.6364064300688085,Capucines BB,Taurillon,Verde,A - Excelente,2022,True,False,2
+2024-05-11 14:20:00.765372,Fendi,5243.0,Completed,Standard,CL-420481,VIC (Top 1%),Marbella,1.0734319134944623,0.6364064300688085,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,True,1
+2024-05-13 14:20:00.765372,Hermès,5966.0,Completed,High_End,CL-622438,Gold (Recurrente),Valencia,1.0848902987654825,0.6539674686855275,Constance 18,Evercolor,Gris Asfalto,B - Buen estado,2022,False,True,2
+2024-05-14 14:20:00.765372,Prada,3110.0,Completed,Standard,CL-508679,VIC (Top 1%),Palma,1.0989961664561865,0.6198889709873369,Galleria Saffiano Small,Saffiano,Rouge H,A - Excelente,2023,False,False,1
+2024-05-17 14:20:00.765372,Louis Vuitton,2390.0,Completed,Standard,CL-612312,VIC (Top 1%),Palma,1.0913830711339467,0.6,Onthego GM,Giant Monogram,Craie,AB - Muy bueno,2018,True,False,6
+2024-05-17 14:20:00.765372,Louis Vuitton,1989.0,Completed,Standard,CL-535869,VIC (Top 1%),Alcobendas,1.0913830711339467,0.6,Alma BB,Epi Leather,Verde,A - Excelente,2019,False,False,5
+2024-05-17 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-547828,VIC (Top 1%),Palma,1.0913830711339467,0.6,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2024,True,True,0
+2024-05-17 14:20:00.765372,Louis Vuitton,1884.0,Completed,Standard,CL-850907,VIC (Top 1%),Palma,1.0913830711339467,0.6,Alma BB,Epi Leather,Verde,A - Excelente,2023,False,True,1
+2024-05-18 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-926188,VIC (Top 1%),Alcobendas,1.088185158380598,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,1
+2024-05-20 14:20:00.765372,Prada,3119.0,Completed,Standard,CL-419037,VIC (Top 1%),Marbella,1.0801727245651085,0.6,Galleria Saffiano Small,Saffiano,Craie,AB - Muy bueno,2020,True,True,4
+2024-05-21 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-461677,VIC (Top 1%),Palma,1.082616312989794,0.6,Baguette 1997,Zucca Canvas,Beige Trench,AB - Muy bueno,2023,False,True,1
+2024-05-22 14:20:00.765372,Chanel,4824.0,Completed,High_End,CL-437333,VIC (Top 1%),Palma,1.0735808320508209,0.6,Wallet on Chain (WOC),Caviar,Rouge H,N - Nuevo,2018,False,True,6
+2024-05-23 14:20:00.765372,Fendi,5243.0,Completed,Standard,CL-725271,VIC (Top 1%),Palma,1.0904349746714386,0.6,Peekaboo ISeeU Small,Selleria,Beige Trench,A - Excelente,2018,True,False,6
+2024-05-23 14:20:00.765372,Louis Vuitton,5612.0,Completed,Standard,CL-115230,Gold (Recurrente),Madrid,1.0904349746714386,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,False,0
+2024-05-24 14:20:00.765372,Celine,1593.0,Completed,Standard,CL-886026,VIC (Top 1%),Marbella,1.0867505764435246,0.6,Ava Bag,Triomphe Canvas,Gold,A - Excelente,2024,False,True,0
+2024-05-25 14:20:00.765372,Louis Vuitton,5505.0,Completed,Standard,CL-686688,VIC (Top 1%),Marbella,1.0825532143613257,0.6,Capucines BB,Taurillon,Gris Asfalto,A - Excelente,2021,True,True,3
+2024-05-25 14:20:00.765372,Chanel,6767.0,Completed,High_End,CL-178879,VIC (Top 1%),Alcobendas,1.0825532143613257,0.6,Chanel 19 Large,Goatskin,Negro,A - Excelente,2021,False,False,3
+2024-05-26 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-828766,VIC (Top 1%),Palma,1.1208081425966754,0.6,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,2
+2024-05-26 14:20:00.765372,Fendi,3114.0,Completed,Standard,CL-165053,VIP Platinum (Alto Valor),Marbella,1.1208081425966754,0.6,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2024-05-27 14:20:00.765372,Louis Vuitton,5604.0,Completed,Standard,CL-443975,Gold (Recurrente),Oleiros,1.1067544630810655,0.6,Capucines BB,Taurillon,Verde,AB - Muy bueno,2023,True,True,1
+2024-05-27 14:20:00.765372,Louis Vuitton,6280.0,Completed,Standard,CL-804561,VIC (Top 1%),Marbella,1.1067544630810655,0.6,Capucines BB,Taurillon,Beige Trench,AB - Muy bueno,2021,False,False,3
+2024-05-28 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-782443,VIC (Top 1%),Palma,1.1007989131776548,0.6,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,0
+2024-05-29 14:20:00.765372,Gucci,2093.0,Completed,Standard,CL-530689,VIC (Top 1%),Palma,1.142730626307233,0.6,Marmont Matelassé Small,Leather,Craie,AB - Muy bueno,2021,False,True,3
+2024-05-29 14:20:00.765372,Chanel,7201.0,Completed,High_End,CL-468438,VIC (Top 1%),Palma,1.142730626307233,0.6,Boy Bag Old Medium,Calfskin,Gold,A - Excelente,2021,True,True,3
+2024-05-29 14:20:00.765372,Loewe,2176.0,Completed,Standard,CL-180909,VIC (Top 1%),Marbella,1.142730626307233,0.6,Puzzle Mini,Satin Calf,Etoupe,AB - Muy bueno,2023,True,False,1
+2024-05-29 14:20:00.765372,Louis Vuitton,2322.0,Completed,Standard,CL-214997,VIC (Top 1%),Alcobendas,1.142730626307233,0.6,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,3
+2024-05-29 14:20:00.765372,Celine,1869.0,Completed,Standard,CL-201348,VIC (Top 1%),Marbella,1.142730626307233,0.6,Luggage Nano,Drummed Calf,Craie,B - Buen estado,2019,True,False,5
+2024-05-31 14:20:00.765372,Hermès,9601.0,Completed,High_End,CL-136274,VIC (Top 1%),Palma,1.1187507217196997,0.6,Kelly 25 Retourne,Swift,Verde,AB - Muy bueno,2025,False,True,0
+2024-06-01 14:20:00.765372,Chanel,13542.0,Completed,High_End,CL-567534,VIC (Top 1%),Marbella,1.0782105819006658,0.6,Classic Flap Medium,Caviar,Negro,N - Nuevo,2024,False,False,0
+2024-06-01 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-164911,VIC (Top 1%),Marbella,1.0782105819006658,0.6,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2024-06-04 14:20:00.765372,Chanel,3160.0,Completed,High_End,CL-136673,VIP Platinum (Alto Valor),Palma,1.1277783404304462,0.6,Wallet on Chain (WOC),Caviar,Etoupe,AB - Muy bueno,2023,True,False,1
+2024-06-05 14:20:00.765372,Celine,2764.0,Completed,Standard,CL-558804,VIC (Top 1%),Marbella,1.081828943827579,0.6,Triomphe Classique,Shiny Calf,Verde,B - Buen estado,2018,False,True,6
+2024-06-06 14:20:00.765372,Louis Vuitton,2562.0,Completed,Standard,CL-308681,VIC (Top 1%),Palma,1.0907233536190215,0.6,Multi Pochette Accessoires,Monogram,Azul Marino,AB - Muy bueno,2025,False,False,0
+2024-06-07 14:20:00.765372,Louis Vuitton,1609.0,Completed,Standard,CL-932599,VIC (Top 1%),Marbella,1.1077442172363854,0.6,Neverfull MM,Monogram,Rouge H,AB - Muy bueno,2023,True,True,1
+2024-06-08 14:20:00.765372,Chanel,3209.0,Completed,High_End,CL-433649,VIC (Top 1%),Marbella,1.118367871025966,0.6,Wallet on Chain (WOC),Caviar,Etoupe,B - Buen estado,2022,True,True,2
+2024-06-08 14:20:00.765372,Gucci,2051.0,Completed,Standard,CL-102611,VIC (Top 1%),Palma,1.118367871025966,0.6,Marmont Matelassé Small,Leather,Rouge H,AB - Muy bueno,2025,False,False,0
+2024-06-09 14:20:00.765372,Hermès,4191.0,Completed,High_End,CL-285174,VIC (Top 1%),Palma,1.1485019538419314,0.6,Evelyne III PM,Clemence,Gold,A - Excelente,2020,False,True,4
+2024-06-10 14:20:00.765372,Celine,2300.0,Completed,Standard,CL-115230,Gold (Recurrente),Madrid,1.1053548968301792,0.6440683947863102,Belt Bag Nano,Grained Calf,Gris Asfalto,A - Excelente,2024,True,False,0
+2024-06-12 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-111412,VIC (Top 1%),Marbella,1.1094533681420442,0.6,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-06-12 14:20:00.765372,Fendi,3114.0,Completed,Standard,CL-211886,VIP Platinum (Alto Valor),Alcobendas,1.1094533681420442,0.6,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2021,False,False,3
+2024-06-13 14:20:00.765372,Louis Vuitton,1844.0,Completed,Standard,CL-453202,VIC (Top 1%),Marbella,1.1142047154054502,0.6,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2019,True,False,5
+2024-06-13 14:20:00.765372,Fendi,5324.0,Completed,Standard,CL-856514,VIC (Top 1%),Marbella,1.1142047154054502,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-06-15 14:20:00.765372,Loewe,1775.0,Completed,Standard,CL-798905,VIC (Top 1%),Palma,1.1134076532184347,0.6669277194515489,Gate Dual Mini,Soft Calf,Craie,A - Excelente,2024,False,True,0
+2024-06-18 14:20:00.765372,Louis Vuitton,6126.0,Completed,Standard,CL-109877,VIC (Top 1%),Marbella,1.157434243714975,0.7553416671461124,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2024-06-19 14:20:00.765372,Prada,1798.0,Completed,Standard,CL-843115,VIC (Top 1%),Palma,1.0759837180088507,0.7165554985296128,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2022,False,False,2
+2024-06-19 14:20:00.765372,Fendi,7857.0,Completed,Standard,CL-738813,Gold (Recurrente),Ourense,1.0759837180088507,0.7165554985296128,Peekaboo ISeeU Small,Selleria,Etoupe,N - Nuevo,2018,True,True,6
+2024-06-21 14:20:00.765372,Hermès,3120.0,Completed,High_End,CL-343506,Gold (Recurrente),Alcobendas,1.1240194111019126,0.742414326742231,Evelyne III PM,Clemence,Craie,AB - Muy bueno,2022,True,False,2
+2024-06-22 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-413619,VIP Platinum (Alto Valor),Alcobendas,1.1256820434521613,0.791375685699619,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2019,True,True,5
+2024-06-22 14:20:00.765372,Louis Vuitton,2579.0,Completed,Standard,CL-655671,VIC (Top 1%),Marbella,1.1256820434521613,0.791375685699619,Neverfull MM,Monogram,Gris Asfalto,N - Nuevo,2025,False,True,0
+2024-06-22 14:20:00.765372,Hermès,3530.0,Completed,High_End,CL-359903,Gold (Recurrente),Altea,1.1256820434521613,0.791375685699619,Picotin Lock 18,Clemence,Gris Asfalto,A - Excelente,2023,True,True,1
+2024-06-24 14:20:00.765372,Prada,2719.0,Completed,Standard,CL-281624,VIC (Top 1%),Palma,1.1144393001601052,0.8087382528814788,Galleria Saffiano Small,Saffiano,Verde,AB - Muy bueno,2023,False,True,1
+2024-06-24 14:20:00.765372,Louis Vuitton,4208.0,Completed,Standard,CL-631198,Gold (Recurrente),Madrid,1.1144393001601052,0.8087382528814788,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2024,True,True,0
+2024-06-24 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-358026,VIC (Top 1%),Marbella,1.1144393001601052,0.8087382528814788,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,2
+2024-06-24 14:20:00.765372,Gucci,3716.0,Completed,Standard,CL-575381,Gold (Recurrente),Altea,1.1144393001601052,0.8087382528814788,Diana Bamboo Small,Leather,Gris Asfalto,A - Excelente,2018,True,False,6
+2024-06-24 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-450529,VIC (Top 1%),Palma,1.1144393001601052,0.8087382528814788,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,0
+2024-06-25 14:20:00.765372,Prada,2885.0,Completed,Standard,CL-686129,VIC (Top 1%),Marbella,1.109701941193512,0.783552608670185,Cleo Brushed,Spazzolato,Verde,A - Excelente,2021,False,True,3
+2024-06-25 14:20:00.765372,Chanel,3441.0,Completed,High_End,CL-402647,VIC (Top 1%),Marbella,1.109701941193512,0.783552608670185,Wallet on Chain (WOC),Caviar,Rouge H,A - Excelente,2019,False,False,5
+2024-06-26 14:20:00.765372,Louis Vuitton,3094.0,Completed,Standard,CL-240268,VIC (Top 1%),Marbella,1.1354349442701288,0.6934676412614623,Multi Pochette Accessoires,Monogram,Gold,N - Nuevo,2021,True,False,3
+2024-06-26 14:20:00.765372,Louis Vuitton,1467.0,Completed,Standard,CL-772457,VIC (Top 1%),Palma,1.1354349442701288,0.6934676412614623,Alma BB,Epi Leather,Gold,B - Buen estado,2020,False,True,4
+2024-06-27 14:20:00.765372,Prada,2655.0,Completed,Standard,CL-105999,VIC (Top 1%),Palma,1.1146194895637245,0.6730537073823467,Galleria Saffiano Small,Saffiano,Azul Marino,AB - Muy bueno,2018,True,False,6
+2024-06-28 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-172857,VIC (Top 1%),Marbella,1.1517715759488136,0.6473593626944273,Onthego GM,Giant Monogram,Verde,N - Nuevo,2018,False,True,6
+2024-06-29 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-675345,VIC (Top 1%),Marbella,1.1151075286081529,0.6765599644013655,Peekaboo ISeeU Small,Selleria,Gold,AB - Muy bueno,2024,False,True,0
+2024-06-29 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-373511,Gold (Recurrente),Alcorcón,1.1151075286081529,0.6765599644013655,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,2
+2024-06-30 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-933568,VIP Platinum (Alto Valor),Alcobendas,1.141713177461248,0.7008376792710991,Fendi First Small,Nappa,Azul Marino,A - Excelente,2020,False,False,4
+2024-07-01 14:20:00.765372,Fendi,4852.0,Completed,Standard,CL-334415,Gold (Recurrente),Madrid,1.1092961997176602,0.7423316555724024,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2018,False,True,6
+2024-07-02 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-912804,Gold (Recurrente),Madrid,1.1220233023087716,0.7773515033776474,Alma BB,Epi Leather,Etoupe,A - Excelente,2018,True,False,6
+2024-07-02 14:20:00.765372,Fendi,4394.0,Completed,Standard,CL-585851,VIC (Top 1%),Palma,1.1220233023087716,0.7773515033776474,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2024-07-02 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-928007,VIC (Top 1%),Marbella,1.1220233023087716,0.7773515033776474,Peekaboo ISeeU Small,Selleria,Craie,AB - Muy bueno,2018,False,True,6
+2024-07-03 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-151384,VIC (Top 1%),Marbella,1.083238833384237,0.8245208862115897,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,4
+2024-07-04 14:20:00.765372,Gucci,2465.0,Completed,Standard,CL-940671,VIC (Top 1%),Marbella,1.1196406273773456,0.8064154844510194,Marmont Matelassé Small,Leather,Craie,A - Excelente,2018,True,True,6
+2024-07-05 14:20:00.765372,Louis Vuitton,3222.0,Completed,Standard,CL-723870,VIC (Top 1%),Marbella,1.1542092017294503,0.9056480051376008,Onthego GM,Giant Monogram,Verde,AB - Muy bueno,2018,True,False,6
+2024-07-07 14:20:00.765372,Louis Vuitton,3134.0,Completed,Standard,CL-239742,VIC (Top 1%),Palma,1.1135853574639845,0.851631448315799,Multi Pochette Accessoires,Monogram,Etoupe,N - Nuevo,2022,False,False,2
+2024-07-07 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-981580,VIC (Top 1%),Palma,1.1135853574639845,0.851631448315799,Baguette 1997,Zucca Canvas,Verde,AB - Muy bueno,2022,False,True,2
+2024-07-09 14:20:00.765372,Louis Vuitton,1541.0,Completed,Standard,CL-369261,VIC (Top 1%),Palma,1.1048331292273756,0.8135930920494908,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,1
+2024-07-09 14:20:00.765372,Hermès,8773.0,Completed,High_End,CL-967382,Gold (Recurrente),Oleiros,1.1048331292273756,0.8135930920494908,Constance 18,Evercolor,Azul Marino,AB - Muy bueno,2025,True,False,0
+2024-07-10 14:20:00.765372,Louis Vuitton,5384.0,Completed,Standard,CL-399050,VIC (Top 1%),Alcobendas,1.1086925166700836,0.8906394125971697,Capucines BB,Taurillon,Rouge H,A - Excelente,2024,False,False,0
+2024-07-12 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-470237,VIC (Top 1%),Marbella,1.1346664830068909,0.9629101327566018,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,True,False,0
+2024-07-13 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-445288,VIC (Top 1%),Marbella,1.1200314390582249,1.0075442048087684,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,2
+2024-07-14 14:20:00.765372,Louis Vuitton,1898.0,Completed,Standard,CL-723870,VIC (Top 1%),Marbella,1.1117654935988972,0.950735718462472,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2024-07-15 14:20:00.765372,Louis Vuitton,1909.0,Completed,Standard,CL-299048,Gold (Recurrente),Ourense,1.1379994097903705,0.9704755733637463,Alma BB,Epi Leather,Gris Asfalto,AB - Muy bueno,2021,True,False,3
+2024-07-16 14:20:00.765372,Hermès,16131.0,Completed,High_End,CL-272713,VIP Platinum (Alto Valor),Alcobendas,1.1129466993576405,0.9839653583701796,Kelly 28 Sellier,Box Calf,Rouge H,N - Nuevo,2023,True,True,1
+2024-07-16 14:20:00.765372,Fendi,6001.0,Completed,Standard,CL-381072,VIC (Top 1%),Marbella,1.1129466993576405,0.9839653583701796,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,1
+2024-07-16 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-631418,VIC (Top 1%),Palma,1.1129466993576405,0.9839653583701796,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-07-17 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-760739,Gold (Recurrente),Altea,1.1531538533915715,1.001414978358829,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,4
+2024-07-18 14:20:00.765372,Louis Vuitton,3123.0,Completed,Standard,CL-877277,VIC (Top 1%),Marbella,1.1424246777530047,1.0116095315440532,Multi Pochette Accessoires,Monogram,Etoupe,N - Nuevo,2022,False,False,2
+2024-07-19 14:20:00.765372,Louis Vuitton,2083.0,Completed,Standard,CL-234496,VIC (Top 1%),Marbella,1.099538182179782,0.95110884641028,Alma BB,Epi Leather,Etoupe,A - Excelente,2018,True,False,6
+2024-07-19 14:20:00.765372,Prada,3034.0,Completed,Standard,CL-241917,VIC (Top 1%),Palma,1.099538182179782,0.95110884641028,Galleria Saffiano Small,Saffiano,Negro,B - Buen estado,2025,True,True,0
+2024-07-20 14:20:00.765372,Chanel,9249.0,Completed,High_End,CL-405072,Gold (Recurrente),Altea,1.1244098080083162,0.9469734463897056,Boy Bag Old Medium,Calfskin,Negro,N - Nuevo,2020,False,False,4
+2024-07-20 14:20:00.765372,Louis Vuitton,1933.0,Completed,Standard,CL-286339,VIC (Top 1%),Marbella,1.1244098080083162,0.9469734463897056,Alma BB,Epi Leather,Azul Marino,A - Excelente,2024,False,True,0
+2024-07-21 14:20:00.765372,Chanel,3622.0,Completed,High_End,CL-107122,VIC (Top 1%),Palma,1.1205607448556216,1.0645707563634486,Wallet on Chain (WOC),Caviar,Gris Asfalto,AB - Muy bueno,2023,True,False,1
+2024-07-21 14:20:00.765372,Prada,1798.0,Completed,Standard,CL-867518,Gold (Recurrente),Madrid,1.1205607448556216,1.0645707563634486,Re-Edition 2005,Re-Nylon,Gold,A - Excelente,2020,True,False,4
+2024-07-22 14:20:00.765372,Louis Vuitton,1860.0,Completed,Standard,CL-928531,VIC (Top 1%),Palma,1.1067330380175822,1.0933771596421036,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,True,False,0
+2024-07-23 14:20:00.765372,Prada,2688.0,Completed,Standard,CL-547196,VIC (Top 1%),Marbella,1.1204497821073092,0.958292640785466,Cleo Brushed,Spazzolato,Beige Trench,A - Excelente,2021,True,False,3
+2024-07-25 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-278611,VIC (Top 1%),Alcobendas,1.0934449612755437,0.7945849132566069,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2024,False,False,0
+2024-07-25 14:20:00.765372,Louis Vuitton,1469.0,Completed,Standard,CL-540685,VIC (Top 1%),Palma,1.0934449612755437,0.7945849132566069,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,1
+2024-07-26 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-916017,VIC (Top 1%),Marbella,1.1495235074878134,0.8225430957683386,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2023,False,False,1
+2024-07-26 14:20:00.765372,Louis Vuitton,2083.0,Completed,Standard,CL-624738,Gold (Recurrente),Palma,1.1495235074878134,0.8225430957683386,Alma BB,Epi Leather,Gris Asfalto,AB - Muy bueno,2021,True,False,3
+2024-07-26 14:20:00.765372,Louis Vuitton,5431.0,Completed,Standard,CL-596969,VIC (Top 1%),Palma,1.1495235074878134,0.8225430957683386,Capucines BB,Taurillon,Verde,AB - Muy bueno,2023,True,True,1
+2024-07-27 14:20:00.765372,Prada,4386.0,Completed,Standard,CL-498235,VIC (Top 1%),Marbella,1.0815655441056693,0.7174922430990075,Galleria Saffiano Small,Saffiano,Craie,N - Nuevo,2019,True,False,5
+2024-07-27 14:20:00.765372,Gucci,2645.0,Completed,Standard,CL-945675,VIC (Top 1%),Palma,1.0815655441056693,0.7174922430990075,Marmont Matelassé Small,Leather,Beige Trench,A - Excelente,2023,False,False,1
+2024-07-28 14:20:00.765372,Fendi,4213.0,Completed,Standard,CL-301180,VIC (Top 1%),Alcobendas,1.1135331052788948,0.750828180554346,Fendi First Small,Nappa,Verde,N - Nuevo,2024,False,True,0
+2024-07-28 14:20:00.765372,Louis Vuitton,2234.0,Completed,Standard,CL-110749,VIC (Top 1%),Marbella,1.1135331052788948,0.750828180554346,Alma BB,Epi Leather,Negro,A - Excelente,2025,True,True,0
+2024-07-29 14:20:00.765372,Gucci,2093.0,Completed,Standard,CL-503912,Gold (Recurrente),Madrid,1.125494336631078,0.6564211206437732,Marmont Matelassé Small,Leather,Etoupe,AB - Muy bueno,2023,False,True,1
+2024-07-30 14:20:00.765372,Celine,2931.0,Completed,Standard,CL-267981,Gold (Recurrente),Getxo,1.1383426003788375,0.7813354470304826,Triomphe Classique,Shiny Calf,Verde,B - Buen estado,2018,False,True,6
+2024-08-02 14:20:00.765372,Louis Vuitton,1909.0,Completed,Standard,CL-974530,VIC (Top 1%),Alcobendas,1.1124304519187629,0.7093680854802049,Alma BB,Epi Leather,Craie,A - Excelente,2025,False,False,0
+2024-08-02 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-452016,VIC (Top 1%),Palma,1.1124304519187629,0.7093680854802049,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,4
+2024-08-02 14:20:00.765372,Louis Vuitton,1617.0,Completed,Standard,CL-459296,VIP Platinum (Alto Valor),Palma,1.1124304519187629,0.7093680854802049,Pochette Métis,Monogram Reverse,Gold,B - Buen estado,2024,True,False,0
+2024-08-03 14:20:00.765372,Prada,3110.0,Completed,Standard,CL-686688,VIC (Top 1%),Marbella,1.1536254898378353,0.8055449885319187,Galleria Saffiano Small,Saffiano,Negro,B - Buen estado,2025,True,True,0
+2024-08-03 14:20:00.765372,Hermès,3530.0,Completed,High_End,CL-635485,VIC (Top 1%),Palma,1.1536254898378353,0.8055449885319187,Evelyne III PM,Clemence,Beige Trench,A - Excelente,2025,True,False,0
+2024-08-04 14:20:00.765372,Celine,3923.0,Completed,Standard,CL-116106,Gold (Recurrente),Barcelona,1.1488601975723296,0.9453815495982124,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2023,True,False,1
+2024-08-05 14:20:00.765372,Fendi,2265.0,Completed,Standard,CL-233161,VIC (Top 1%),Marbella,1.1455259871122685,0.9298987025991976,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,5
+2024-08-05 14:20:00.765372,Fendi,5007.0,Completed,Standard,CL-485165,VIC (Top 1%),Palma,1.1455259871122685,0.9298987025991976,Peekaboo ISeeU Small,Selleria,Rouge H,AB - Muy bueno,2019,False,True,5
+2024-08-06 14:20:00.765372,Fendi,2336.0,Completed,Standard,CL-551530,VIC (Top 1%),Palma,1.1285800596357898,0.8891283716865704,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,4
+2024-08-06 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-627499,VIC (Top 1%),Palma,1.1285800596357898,0.8891283716865704,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,0
+2024-08-06 14:20:00.765372,Louis Vuitton,7046.0,Completed,Standard,CL-112230,VIC (Top 1%),Marbella,1.1285800596357898,0.8891283716865704,Capucines BB,Taurillon,Gold,A - Excelente,2025,True,True,0
+2024-08-07 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-570319,Gold (Recurrente),Alcobendas,1.1386111112676005,0.926727530618894,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,5
+2024-08-07 14:20:00.765372,Gucci,3028.0,Completed,Standard,CL-826876,VIC (Top 1%),Palma,1.1386111112676005,0.926727530618894,Marmont Matelassé Small,Leather,Gold,A - Excelente,2023,False,True,1
+2024-08-08 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-350078,VIC (Top 1%),Palma,1.086039998919761,0.9236203540967532,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,3
+2024-08-08 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-592370,VIC (Top 1%),Marbella,1.086039998919761,0.9236203540967532,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,5
+2024-08-08 14:20:00.765372,Louis Vuitton,2060.0,Completed,Standard,CL-705891,VIC (Top 1%),Marbella,1.086039998919761,0.9236203540967532,Neverfull MM,Monogram,Verde,A - Excelente,2022,True,False,2
+2024-08-09 14:20:00.765372,Louis Vuitton,3146.0,Completed,Standard,CL-973890,VIC (Top 1%),Marbella,1.1273758373720324,0.9363672986276615,Onthego GM,Giant Monogram,Beige Trench,AB - Muy bueno,2025,True,True,0
+2024-08-09 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-697688,VIC (Top 1%),Palma,1.1273758373720324,0.9363672986276615,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,4
+2024-08-09 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-208486,VIC (Top 1%),Palma,1.1273758373720324,0.9363672986276615,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2024,False,False,0
+2024-08-09 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-234986,Gold (Recurrente),Valencia,1.1273758373720324,0.9363672986276615,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,4
+2024-08-10 14:20:00.765372,Louis Vuitton,3108.0,Completed,Standard,CL-730900,VIC (Top 1%),Palma,1.1350239749221849,0.9267952417753028,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2023,False,True,1
+2024-08-11 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-409279,VIC (Top 1%),Alcobendas,1.1684100312131949,0.935781492201054,Speedy 25 Bandoulière,Damier Ebene,Negro,A - Excelente,2020,True,False,4
+2024-08-11 14:20:00.765372,Louis Vuitton,2307.0,Completed,Standard,CL-676465,Gold (Recurrente),Getxo,1.1684100312131949,0.935781492201054,Neverfull MM,Monogram,Rouge H,N - Nuevo,2025,False,True,0
+2024-08-12 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-385464,Estándar (Ocasional),Ourense,1.1582167272852877,0.9223568754452556,Fendi First Small,Nappa,Gris Asfalto,N - Nuevo,2022,False,False,2
+2024-08-12 14:20:00.765372,Fendi,3290.0,Completed,Standard,CL-892994,VIC (Top 1%),Palma,1.1582167272852877,0.9223568754452556,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,2
+2024-08-12 14:20:00.765372,Fendi,2265.0,Completed,Standard,CL-732893,VIC (Top 1%),Palma,1.1582167272852877,0.9223568754452556,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,2
+2024-08-13 14:20:00.765372,Louis Vuitton,3123.0,Completed,Standard,CL-575899,VIC (Top 1%),Palma,1.1439435477067588,0.9811773880232004,Onthego GM,Giant Monogram,Azul Marino,A - Excelente,2021,True,False,3
+2024-08-14 14:20:00.765372,Louis Vuitton,6126.0,Completed,Standard,CL-828646,VIC (Top 1%),Palma,1.1261228493740365,0.9378083486960568,Capucines BB,Taurillon,Rouge H,A - Excelente,2024,False,False,0
+2024-08-15 14:20:00.765372,Prada,4629.0,Completed,Standard,CL-804561,VIC (Top 1%),Marbella,1.1187395123166437,0.9406113420015444,Galleria Saffiano Small,Saffiano,Craie,N - Nuevo,2019,True,False,5
+2024-08-16 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-260328,Gold (Recurrente),Madrid,1.1327534809738324,1.040498755738286,Baguette 1997,Zucca Canvas,Verde,AB - Muy bueno,2022,False,True,2
+2024-08-16 14:20:00.765372,Louis Vuitton,1767.0,Completed,Standard,CL-606053,Gold (Recurrente),Barcelona,1.1327534809738324,1.040498755738286,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2024-08-18 14:20:00.765372,Chanel,9794.0,Completed,High_End,CL-270881,VIC (Top 1%),Marbella,1.122101424404045,1.1682099412985896,2.55 Reissue 226,Aged Calfskin,Etoupe,A - Excelente,2019,True,True,5
+2024-08-18 14:20:00.765372,Louis Vuitton,1898.0,Completed,Standard,CL-125858,VIC (Top 1%),Marbella,1.122101424404045,1.1682099412985896,Speedy 25 Bandoulière,Damier Ebene,Etoupe,A - Excelente,2021,True,True,3
+2024-08-18 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-746081,VIC (Top 1%),Alcobendas,1.122101424404045,1.1682099412985896,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2024-08-20 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-832870,Gold (Recurrente),Ourense,1.104090165569386,1.0566438830675715,Fendi First Small,Nappa,Azul Marino,A - Excelente,2020,False,False,4
+2024-08-20 14:20:00.765372,Hermès,3862.0,Completed,High_End,CL-551530,VIC (Top 1%),Palma,1.104090165569386,1.0566438830675715,Picotin Lock 18,Clemence,Gris Asfalto,A - Excelente,2024,False,False,0
+2024-08-20 14:20:00.765372,Louis Vuitton,6310.0,Completed,Standard,CL-333921,VIC (Top 1%),Palma,1.104090165569386,1.0566438830675715,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2024-08-22 14:20:00.765372,Louis Vuitton,2410.0,Completed,Standard,CL-964101,VIC (Top 1%),Palma,1.1563764450263572,0.9979168648195884,Onthego GM,Giant Monogram,Gold,B - Buen estado,2021,True,True,3
+2024-08-22 14:20:00.765372,Louis Vuitton,1458.0,Completed,Standard,CL-479404,Gold (Recurrente),Murcia,1.1563764450263572,0.9979168648195884,Neverfull MM,Monogram,Verde,B - Buen estado,2021,True,True,3
+2024-08-23 14:20:00.765372,Celine,3802.0,Completed,Standard,CL-354367,VIC (Top 1%),Palma,1.122500497767931,0.9638194385635284,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2019,False,True,5
+2024-08-23 14:20:00.765372,Hermès,8658.0,Completed,High_End,CL-380509,VIC (Top 1%),Alcobendas,1.122500497767931,0.9638194385635284,Birkin 25,Togo,Verde,B - Buen estado,2020,False,False,4
+2024-08-25 14:20:00.765372,Celine,2524.0,Completed,Standard,CL-610834,Gold (Recurrente),Getxo,1.1454540290734774,1.1158032471151984,Triomphe Classique,Shiny Calf,Craie,B - Buen estado,2020,False,False,4
+2024-08-26 14:20:00.765372,Celine,3281.0,Completed,Standard,CL-457993,VIC (Top 1%),Palma,1.1556748117278444,1.1043942938422189,Triomphe Classique,Shiny Calf,Azul Marino,AB - Muy bueno,2021,False,True,3
+2024-08-26 14:20:00.765372,Celine,3802.0,Completed,Standard,CL-413991,Gold (Recurrente),Madrid,1.1556748117278444,1.1043942938422189,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2023,True,False,1
+2024-08-27 14:20:00.765372,Fendi,3713.0,Completed,Standard,CL-482462,VIC (Top 1%),Marbella,1.1512923166795208,1.2165635478775092,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,4
+2024-08-28 14:20:00.765372,Prada,1825.0,Completed,Standard,CL-172857,VIC (Top 1%),Marbella,1.170434151616122,1.240962855925248,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2024,True,True,0
+2024-08-29 14:20:00.765372,Fendi,3285.0,Completed,Standard,CL-939384,VIC (Top 1%),Palma,1.1618110029200193,1.1434614947457746,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-08-29 14:20:00.765372,Prada,1694.0,Completed,Standard,CL-679218,Gold (Recurrente),Alcorcón,1.1618110029200193,1.1434614947457746,Re-Edition 2005,Re-Nylon,Gold,AB - Muy bueno,2019,True,False,5
+2024-08-30 14:20:00.765372,Fendi,2336.0,Completed,Standard,CL-281624,VIC (Top 1%),Palma,1.1431103052636011,1.049825288477603,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,5
+2024-08-31 14:20:00.765372,Prada,3726.0,Completed,Standard,CL-968552,VIC (Top 1%),Marbella,1.1391426570697047,1.144005741819229,Galleria Saffiano Small,Saffiano,Azul Marino,A - Excelente,2025,True,False,0
+2024-09-01 14:20:00.765372,Louis Vuitton,2390.0,Completed,Standard,CL-870671,VIC (Top 1%),Marbella,1.1162222709975522,1.150894372635194,Multi Pochette Accessoires,Monogram,Beige Trench,A - Excelente,2025,False,True,0
+2024-09-02 14:20:00.765372,Gucci,3041.0,Completed,Standard,CL-707951,Gold (Recurrente),Madrid,1.151631677850817,0.975550235666889,Horsebit 1955,GG Supreme,Gold,A - Excelente,2021,True,True,3
+2024-09-03 14:20:00.765372,Louis Vuitton,1627.0,Completed,Standard,CL-399050,VIC (Top 1%),Alcobendas,1.1248043597881905,1.0026087929919256,Speedy 25 Bandoulière,Damier Ebene,Negro,A - Excelente,2020,True,False,4
+2024-09-04 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-658419,VIC (Top 1%),Palma,1.1459370594606286,1.0199017472255103,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2024-09-04 14:20:00.765372,Fendi,4015.0,Completed,Standard,CL-441064,VIC (Top 1%),Palma,1.1459370594606286,1.0199017472255103,Fendi First Small,Nappa,Verde,A - Excelente,2018,True,True,6
+2024-09-05 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-471493,VIC (Top 1%),Marbella,1.115321657092548,0.9850208330170744,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-09-06 14:20:00.765372,Prada,2948.0,Completed,Standard,CL-390785,VIC (Top 1%),Marbella,1.1569567058931651,1.1158630167805086,Galleria Saffiano Small,Saffiano,Verde,AB - Muy bueno,2023,False,True,1
+2024-09-07 14:20:00.765372,Fendi,3408.0,Completed,Standard,CL-132563,Gold (Recurrente),Getxo,1.1343005635273518,1.0922025746681912,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2021,False,False,3
+2024-09-07 14:20:00.765372,Chanel,2878.0,Completed,High_End,CL-111412,VIC (Top 1%),Marbella,1.1343005635273518,1.0922025746681912,Wallet on Chain (WOC),Caviar,Etoupe,AB - Muy bueno,2023,True,False,1
+2024-09-07 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-279815,VIC (Top 1%),Marbella,1.1343005635273518,1.0922025746681912,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2019,True,True,5
+2024-09-07 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-360709,VIC (Top 1%),Marbella,1.1343005635273518,1.0922025746681912,Multi Pochette Accessoires,Monogram,Beige Trench,AB - Muy bueno,2024,False,False,0
+2024-09-07 14:20:00.765372,Gucci,1808.0,Completed,Standard,CL-676091,Gold (Recurrente),Getxo,1.1343005635273518,1.0922025746681912,Marmont Matelassé Small,Leather,Azul Marino,B - Buen estado,2022,True,False,2
+2024-09-08 14:20:00.765372,Louis Vuitton,5578.0,Completed,Standard,CL-356611,VIC (Top 1%),Palma,1.1338110591892865,1.0060177635064338,Capucines BB,Taurillon,Verde,A - Excelente,2024,False,False,0
+2024-09-08 14:20:00.765372,Celine,2524.0,Completed,Standard,CL-935660,VIC (Top 1%),Marbella,1.1338110591892865,1.0060177635064338,Triomphe Classique,Shiny Calf,Craie,B - Buen estado,2020,False,False,4
+2024-09-08 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-686129,VIC (Top 1%),Marbella,1.1338110591892865,1.0060177635064338,Onthego GM,Giant Monogram,Verde,N - Nuevo,2018,False,True,6
+2024-09-08 14:20:00.765372,Hermès,15974.0,Completed,High_End,CL-712924,Gold (Recurrente),Oleiros,1.1338110591892865,1.0060177635064338,Kelly 25 Retourne,Swift,Gris Asfalto,N - Nuevo,2018,True,True,6
+2024-09-09 14:20:00.765372,Chanel,6468.0,Completed,High_End,CL-547828,VIC (Top 1%),Palma,1.1245238159374815,1.0958509985444926,Boy Bag Old Medium,Calfskin,Rouge H,A - Excelente,2022,True,False,2
+2024-09-09 14:20:00.765372,Louis Vuitton,3123.0,Completed,Standard,CL-343506,Gold (Recurrente),Alcobendas,1.1245238159374815,1.0958509985444926,Onthego GM,Giant Monogram,Negro,A - Excelente,2023,True,False,1
+2024-09-09 14:20:00.765372,Dior,6703.0,Completed,High_End,CL-836295,VIC (Top 1%),Marbella,1.1245238159374815,1.0958509985444926,Lady Dior ABC (Small),Lambskin,Etoupe,N - Nuevo,2020,True,False,4
+2024-09-09 14:20:00.765372,Celine,1998.0,Completed,Standard,CL-368324,VIC (Top 1%),Marbella,1.1245238159374815,1.0958509985444926,Belt Bag Nano,Grained Calf,Gold,AB - Muy bueno,2019,False,False,5
+2024-09-10 14:20:00.765372,Gucci,2694.0,Completed,Standard,CL-688369,VIC (Top 1%),Marbella,1.1323548343900909,1.20491363606032,Horsebit 1955,GG Supreme,Azul Marino,A - Excelente,2020,True,True,4
+2024-09-10 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-474678,VIC (Top 1%),Palma,1.1323548343900909,1.20491363606032,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,3
+2024-09-11 14:20:00.765372,Prada,2992.0,Completed,Standard,CL-620945,VIC (Top 1%),Marbella,1.138509599705862,1.2188563517921285,Cleo Brushed,Spazzolato,Beige Trench,A - Excelente,2021,True,False,3
+2024-09-14 14:20:00.765372,Prada,2061.0,Completed,Standard,CL-412118,VIC (Top 1%),Alcobendas,1.1738566480059949,1.1722738773266217,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2020,True,False,4
+2024-09-14 14:20:00.765372,Prada,2033.0,Completed,Standard,CL-657586,VIC (Top 1%),Palma,1.1738566480059949,1.1722738773266217,Re-Edition 2005,Re-Nylon,Etoupe,A - Excelente,2024,True,True,0
+2024-09-15 14:20:00.765372,Louis Vuitton,1989.0,Completed,Standard,CL-577411,Gold (Recurrente),Murcia,1.1365316559548957,1.110080442910353,Alma BB,Epi Leather,Azul Marino,A - Excelente,2018,True,False,6
+2024-09-17 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-922739,VIC (Top 1%),Palma,1.1784587270831322,1.108742406071142,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,4
+2024-09-17 14:20:00.765372,Louis Vuitton,1541.0,Completed,Standard,CL-852056,VIC (Top 1%),Marbella,1.1784587270831322,1.108742406071142,Speedy 25 Bandoulière,Damier Ebene,Craie,A - Excelente,2020,False,True,4
+2024-09-18 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-381072,VIC (Top 1%),Marbella,1.096434795549318,1.149399462831094,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,4
+2024-09-18 14:20:00.765372,Prada,2992.0,Completed,Standard,CL-142096,VIC (Top 1%),Marbella,1.096434795549318,1.149399462831094,Galleria Saffiano Small,Saffiano,Azul Marino,AB - Muy bueno,2025,False,True,0
+2024-09-18 14:20:00.765372,Hermès,3304.0,Completed,High_End,CL-408663,VIC (Top 1%),Marbella,1.096434795549318,1.149399462831094,Picotin Lock 18,Clemence,Beige Trench,A - Excelente,2022,True,False,2
+2024-09-19 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-940149,Gold (Recurrente),Madrid,1.1440083268187575,1.1589717590426225,Fendi First Small,Nappa,Azul Marino,AB - Muy bueno,2020,True,False,4
+2024-09-20 14:20:00.765372,Fendi,4213.0,Completed,Standard,CL-771385,VIC (Top 1%),Marbella,1.1613196710347695,1.14353956550659,Peekaboo ISeeU Small,Selleria,Rouge H,AB - Muy bueno,2019,False,True,5
+2024-09-21 14:20:00.765372,Chanel,10074.0,Completed,High_End,CL-747106,VIC (Top 1%),Marbella,1.1264333209204187,1.135799583187504,Classic Flap Small,Lambskin,Beige Trench,A - Excelente,2021,False,False,3
+2024-09-22 14:20:00.765372,Gucci,3518.0,Completed,Standard,CL-922739,VIC (Top 1%),Palma,1.1296960255363528,1.1320796216770577,Diana Bamboo Small,Leather,Rouge H,AB - Muy bueno,2024,True,True,0
+2024-09-23 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-846928,VIC (Top 1%),Palma,1.1694874053208226,1.1214553494946264,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,5
+2024-09-23 14:20:00.765372,Louis Vuitton,1541.0,Completed,Standard,CL-997950,VIC (Top 1%),Palma,1.1694874053208226,1.1214553494946264,Speedy 25 Bandoulière,Damier Ebene,Verde,B - Buen estado,2018,True,True,6
+2024-09-23 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-172857,VIC (Top 1%),Marbella,1.1694874053208226,1.1214553494946264,Fendi First Small,Nappa,Negro,N - Nuevo,2020,True,True,4
+2024-09-25 14:20:00.765372,Louis Vuitton,1868.0,Completed,Standard,CL-600608,VIC (Top 1%),Palma,1.1692192908963508,1.1341988643385597,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2024,False,False,0
+2024-09-25 14:20:00.765372,Loewe,1912.0,Completed,Standard,CL-170942,VIC (Top 1%),Palma,1.1692192908963508,1.1341988643385597,Puzzle Mini,Satin Calf,Rouge H,AB - Muy bueno,2018,False,False,6
+2024-09-26 14:20:00.765372,Louis Vuitton,1474.0,Completed,Standard,CL-804561,VIC (Top 1%),Marbella,1.1381515541630762,1.1246461155906602,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2019,True,False,5
+2024-09-27 14:20:00.765372,Gucci,3332.0,Completed,Standard,CL-723870,VIC (Top 1%),Marbella,1.1454825635648054,1.0865047826240717,Marmont Matelassé Small,Leather,Negro,N - Nuevo,2022,True,False,2
+2024-09-27 14:20:00.765372,Louis Vuitton,1700.0,Completed,Standard,CL-575381,Gold (Recurrente),Altea,1.1454825635648054,1.0865047826240717,Speedy 25 Bandoulière,Damier Ebene,Craie,A - Excelente,2020,False,True,4
+2024-09-28 14:20:00.765372,Prada,2885.0,Completed,Standard,CL-707951,Gold (Recurrente),Madrid,1.1705001869154128,1.1725396215918018,Cleo Brushed,Spazzolato,Azul Marino,A - Excelente,2020,True,False,4
+2024-09-28 14:20:00.765372,Prada,1981.0,Completed,Standard,CL-934223,VIC (Top 1%),Marbella,1.1705001869154128,1.1725396215918018,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2019,False,True,5
+2024-09-28 14:20:00.765372,Louis Vuitton,1884.0,Completed,Standard,CL-235842,VIC (Top 1%),Alcobendas,1.1705001869154128,1.1725396215918018,Speedy 25 Bandoulière,Damier Ebene,Rouge H,N - Nuevo,2020,False,False,4
+2024-09-29 14:20:00.765372,Gucci,2611.0,Completed,Standard,CL-707784,Gold (Recurrente),Altea,1.1582818652939282,1.0824125147743289,Dionysus Small,GG Supreme,Craie,AB - Muy bueno,2022,True,False,2
+2024-09-29 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-373511,Gold (Recurrente),Alcorcón,1.1582818652939282,1.0824125147743289,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2024-09-29 14:20:00.765372,Hermès,2979.0,Completed,High_End,CL-846094,VIC (Top 1%),Alcobendas,1.1582818652939282,1.0824125147743289,Evelyne III PM,Clemence,Rouge H,AB - Muy bueno,2024,False,True,0
+2024-10-01 14:20:00.765372,Chanel,2930.0,Completed,High_End,CL-882552,VIC (Top 1%),Marbella,1.1238246082122472,1.1371443277803388,Wallet on Chain (WOC),Caviar,Etoupe,AB - Muy bueno,2019,False,True,5
+2024-10-01 14:20:00.765372,Louis Vuitton,1830.0,Completed,Standard,CL-698879,VIC (Top 1%),Marbella,1.1238246082122472,1.1371443277803388,Alma BB,Epi Leather,Craie,A - Excelente,2025,False,False,0
+2024-10-02 14:20:00.765372,Louis Vuitton,2544.0,Completed,Standard,CL-300102,VIC (Top 1%),Palma,1.156277428815221,1.141403454169596,Alma BB,Epi Leather,Azul Marino,N - Nuevo,2020,False,False,4
+2024-10-02 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-575899,VIC (Top 1%),Palma,1.156277428815221,1.141403454169596,Peekaboo ISeeU Small,Selleria,Rouge H,AB - Muy bueno,2019,False,True,5
+2024-10-02 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-100667,VIC (Top 1%),Marbella,1.156277428815221,1.141403454169596,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-10-03 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-632632,VIC (Top 1%),Palma,1.174292506938352,1.0713413403581569,Fendi First Small,Nappa,Azul Marino,AB - Muy bueno,2020,True,False,4
+2024-10-03 14:20:00.765372,Chanel,8946.0,Completed,High_End,CL-252524,Gold (Recurrente),Altea,1.174292506938352,1.0713413403581569,Classic Flap Small,Lambskin,Gris Asfalto,A - Excelente,2021,False,True,3
+2024-10-04 14:20:00.765372,Louis Vuitton,1804.0,Completed,Standard,CL-105999,VIC (Top 1%),Palma,1.1483072671615218,1.0463958571994818,Neverfull MM,Monogram,Beige Trench,AB - Muy bueno,2020,False,True,4
+2024-10-05 14:20:00.765372,Gucci,2833.0,Completed,Standard,CL-114596,VIC (Top 1%),Palma,1.1485941425714614,1.0871336150266229,Horsebit 1955,GG Supreme,Negro,A - Excelente,2023,False,True,1
+2024-10-06 14:20:00.765372,Louis Vuitton,1844.0,Completed,Standard,CL-770859,Gold (Recurrente),Madrid,1.1645571343441683,1.104247201640972,Neverfull MM,Monogram,Etoupe,A - Excelente,2020,False,True,4
+2024-10-06 14:20:00.765372,Prada,3770.0,Completed,Standard,CL-657691,VIC (Top 1%),Palma,1.1645571343441683,1.104247201640972,Galleria Saffiano Small,Saffiano,Beige Trench,A - Excelente,2024,True,True,0
+2024-10-07 14:20:00.765372,Louis Vuitton,3123.0,Completed,Standard,CL-973890,VIC (Top 1%),Marbella,1.1584404539488269,1.2054006456653608,Multi Pochette Accessoires,Monogram,Verde,N - Nuevo,2024,False,True,0
+2024-10-07 14:20:00.765372,Louis Vuitton,2494.0,Completed,Standard,CL-828646,VIC (Top 1%),Palma,1.1584404539488269,1.2054006456653608,Neverfull MM,Monogram,Azul Marino,N - Nuevo,2019,True,True,5
+2024-10-08 14:20:00.765372,Gucci,3332.0,Completed,Standard,CL-484508,VIC (Top 1%),Marbella,1.180519817636736,1.1103393898337124,Horsebit 1955,GG Supreme,Craie,N - Nuevo,2023,False,True,1
+2024-10-09 14:20:00.765372,Fendi,2265.0,Completed,Standard,CL-973688,VIC (Top 1%),Palma,1.1445137368871534,1.1681310844211297,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,2
+2024-10-10 14:20:00.765372,Louis Vuitton,2605.0,Completed,Standard,CL-146517,VIC (Top 1%),Marbella,1.1665430639941663,1.0978667473412569,Alma BB,Epi Leather,Azul Marino,N - Nuevo,2020,False,False,4
+2024-10-11 14:20:00.765372,Louis Vuitton,4272.0,Completed,Standard,CL-498235,VIC (Top 1%),Marbella,1.1477187515077336,0.9856313509610584,Capucines BB,Taurillon,Etoupe,B - Buen estado,2019,True,False,5
+2024-10-11 14:20:00.765372,Fendi,3824.0,Completed,Standard,CL-167414,VIC (Top 1%),Alcobendas,1.1477187515077336,0.9856313509610584,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2021,False,True,3
+2024-10-11 14:20:00.765372,Louis Vuitton,1609.0,Completed,Standard,CL-354583,VIC (Top 1%),Palma,1.1477187515077336,0.9856313509610584,Speedy 25 Bandoulière,Damier Ebene,Verde,B - Buen estado,2018,True,True,6
+2024-10-13 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-668130,VIC (Top 1%),Marbella,1.118059590026064,0.9476851229184846,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-10-15 14:20:00.765372,Louis Vuitton,1860.0,Completed,Standard,CL-983770,VIC (Top 1%),Palma,1.1586764474099671,0.9759266958760262,Alma BB,Epi Leather,Verde,A - Excelente,2023,False,True,1
+2024-10-16 14:20:00.765372,Prada,1382.0,Completed,Standard,CL-676091,Gold (Recurrente),Getxo,1.146013224986713,0.961666313536473,Re-Edition 2005,Re-Nylon,Verde,B - Buen estado,2023,False,False,1
+2024-10-16 14:20:00.765372,Chanel,5095.0,Completed,High_End,CL-649787,VIC (Top 1%),Alcobendas,1.146013224986713,0.961666313536473,Boy Bag Old Medium,Calfskin,Negro,B - Buen estado,2018,True,False,6
+2024-10-17 14:20:00.765372,Louis Vuitton,1609.0,Completed,Standard,CL-685174,Gold (Recurrente),Madrid,1.128157853316388,0.8840965672820796,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2019,False,False,5
+2024-10-18 14:20:00.765372,Chanel,8304.0,Completed,High_End,CL-170898,VIC (Top 1%),Palma,1.102589813360157,0.9295691402948444,Classic Flap Jumbo,Caviar,Etoupe,B - Buen estado,2020,False,True,4
+2024-10-18 14:20:00.765372,Fendi,3331.0,Completed,Standard,CL-164360,VIC (Top 1%),Palma,1.102589813360157,0.9295691402948444,Baguette 1997,Zucca Canvas,Verde,AB - Muy bueno,2022,False,True,2
+2024-10-18 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-105978,VIC (Top 1%),Palma,1.102589813360157,0.9295691402948444,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,6
+2024-10-20 14:20:00.765372,Louis Vuitton,1884.0,Completed,Standard,CL-848184,VIC (Top 1%),Marbella,1.148754713072767,0.9539893002020728,Speedy 25 Bandoulière,Damier Ebene,Verde,N - Nuevo,2020,True,False,4
+2024-10-21 14:20:00.765372,Louis Vuitton,1458.0,Completed,Standard,CL-529842,VIC (Top 1%),Marbella,1.1497923940915866,0.9188111878151975,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2019,True,False,5
+2024-10-21 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-629717,VIC (Top 1%),Marbella,1.1497923940915866,0.9188111878151975,Onthego GM,Giant Monogram,Rouge H,AB - Muy bueno,2025,True,True,0
+2024-10-22 14:20:00.765372,Louis Vuitton,2234.0,Completed,Standard,CL-969935,VIC (Top 1%),Marbella,1.1407764396638522,0.8845023548853465,Alma BB,Epi Leather,Azul Marino,N - Nuevo,2020,False,False,4
+2024-10-22 14:20:00.765372,Fendi,4581.0,Completed,Standard,CL-113665,Gold (Recurrente),Altea,1.1407764396638522,0.8845023548853465,Fendi First Small,Nappa,Gris Asfalto,N - Nuevo,2018,False,True,6
+2024-10-22 14:20:00.765372,Hermès,11349.0,Completed,High_End,CL-551530,VIC (Top 1%),Palma,1.1407764396638522,0.8845023548853465,Birkin 30,Epsom,Verde,AB - Muy bueno,2018,True,True,6
+2024-10-22 14:20:00.765372,Louis Vuitton,1933.0,Completed,Standard,CL-114499,Gold (Recurrente),Barcelona,1.1407764396638522,0.8845023548853465,Alma BB,Epi Leather,Etoupe,A - Excelente,2018,True,False,6
+2024-10-22 14:20:00.765372,Louis Vuitton,1898.0,Completed,Standard,CL-383754,VIC (Top 1%),Alcobendas,1.1407764396638522,0.8845023548853465,Neverfull MM,Monogram,Verde,A - Excelente,2022,True,False,2
+2024-10-23 14:20:00.765372,Louis Vuitton,2039.0,Completed,Standard,CL-409279,VIC (Top 1%),Alcobendas,1.1419222223426606,0.8752550740640291,Alma BB,Epi Leather,Verde,A - Excelente,2019,False,False,5
+2024-10-24 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-173312,VIC (Top 1%),Palma,1.1638587540461367,0.9129595941093792,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,5
+2024-10-24 14:20:00.765372,Fendi,5007.0,Completed,Standard,CL-376625,VIC (Top 1%),Marbella,1.1638587540461367,0.9129595941093792,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,1
+2024-10-25 14:20:00.765372,Louis Vuitton,4208.0,Completed,Standard,CL-934567,VIC (Top 1%),Marbella,1.177860578593605,0.8173737896168294,Onthego GM,Giant Monogram,Azul Marino,N - Nuevo,2020,False,False,4
+2024-10-25 14:20:00.765372,Chanel,8580.0,Completed,High_End,CL-819150,VIC (Top 1%),Marbella,1.177860578593605,0.8173737896168294,2.55 Reissue 226,Aged Calfskin,Beige Trench,AB - Muy bueno,2024,True,False,0
+2024-10-27 14:20:00.765372,Louis Vuitton,2307.0,Completed,Standard,CL-291722,VIC (Top 1%),Marbella,1.1753716608010976,0.9645900465781968,Neverfull MM,Monogram,Azul Marino,N - Nuevo,2019,True,True,5
+2024-10-27 14:20:00.765372,Louis Vuitton,3069.0,Completed,Standard,CL-181867,VIC (Top 1%),Palma,1.1753716608010976,0.9645900465781968,Onthego GM,Giant Monogram,Negro,A - Excelente,2023,True,False,1
+2024-10-28 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-426702,VIC (Top 1%),Palma,1.1546248070115306,1.035883311591062,Peekaboo ISeeU Small,Selleria,Azul Marino,A - Excelente,2021,True,True,3
+2024-10-28 14:20:00.765372,Gucci,2303.0,Completed,Standard,CL-951327,Gold (Recurrente),Altea,1.1546248070115306,1.035883311591062,Marmont Matelassé Small,Leather,Craie,A - Excelente,2018,True,True,6
+2024-10-29 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-607278,Gold (Recurrente),Madrid,1.167673690840515,1.146551220971488,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,4
+2024-10-30 14:20:00.765372,Fendi,2818.0,Completed,Standard,CL-716891,VIP Platinum (Alto Valor),Madrid,1.139243905582498,1.1920031924753445,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,2
+2024-10-30 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-608610,VIC (Top 1%),Palma,1.139243905582498,1.1920031924753445,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,6
+2024-11-01 14:20:00.765372,Celine,1741.0,Completed,Standard,CL-738813,Gold (Recurrente),Ourense,1.1346828138021023,1.1399188609651136,Belt Bag Nano,Grained Calf,Azul Marino,AB - Muy bueno,2020,False,True,4
+2024-11-02 14:20:00.765372,Louis Vuitton,5895.0,Completed,Standard,CL-249174,VIC (Top 1%),Palma,1.1209259327961822,1.0413404325717743,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2024-11-02 14:20:00.765372,Louis Vuitton,5542.0,Completed,Standard,CL-201779,VIC (Top 1%),Palma,1.1209259327961822,1.0413404325717743,Capucines BB,Taurillon,Beige Trench,AB - Muy bueno,2021,False,False,3
+2024-11-03 14:20:00.765372,Prada,1922.0,Completed,Standard,CL-332704,Gold (Recurrente),Murcia,1.186966346685332,0.9522666126581424,Re-Edition 2005,Re-Nylon,Negro,A - Excelente,2022,False,False,2
+2024-11-04 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-141629,VIC (Top 1%),Palma,1.1415566911093071,0.9980602110618312,Speedy 25 Bandoulière,Damier Ebene,Rouge H,N - Nuevo,2020,False,False,4
+2024-11-07 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-788465,VIC (Top 1%),Alcobendas,1.1267021701408084,1.0054460265633092,Peekaboo ISeeU Small,Selleria,Azul Marino,A - Excelente,2021,True,True,3
+2024-11-08 14:20:00.765372,Chanel,3110.0,Completed,High_End,CL-553026,Gold (Recurrente),Oleiros,1.1467725030112572,0.9390076057321832,Wallet on Chain (WOC),Caviar,Negro,A - Excelente,2020,True,True,4
+2024-11-10 14:20:00.765372,Fendi,6331.0,Completed,Standard,CL-239742,VIC (Top 1%),Palma,1.122764911120145,0.8890479853229587,Peekaboo ISeeU Small,Selleria,Azul Marino,N - Nuevo,2025,True,True,0
+2024-11-10 14:20:00.765372,Fendi,6001.0,Completed,Standard,CL-846685,Gold (Recurrente),Madrid,1.122764911120145,0.8890479853229587,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-11-10 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-611538,Gold (Recurrente),Alcorcón,1.122764911120145,0.8890479853229587,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,4
+2024-11-11 14:20:00.765372,Prada,2871.0,Completed,Standard,CL-761537,VIC (Top 1%),Marbella,1.146453384117156,0.8154096142766442,Cleo Brushed,Spazzolato,Craie,AB - Muy bueno,2018,True,False,6
+2024-11-11 14:20:00.765372,Fendi,5243.0,Completed,Standard,CL-317532,VIC (Top 1%),Marbella,1.146453384117156,0.8154096142766442,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,2
+2024-11-11 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-447511,Gold (Recurrente),Ourense,1.146453384117156,0.8154096142766442,Fendi First Small,Nappa,Negro,A - Excelente,2022,False,False,2
+2024-11-11 14:20:00.765372,Louis Vuitton,2413.0,Completed,Standard,CL-498876,VIC (Top 1%),Palma,1.146453384117156,0.8154096142766442,Onthego GM,Giant Monogram,Gris Asfalto,AB - Muy bueno,2025,False,False,0
+2024-11-12 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-570319,Gold (Recurrente),Alcobendas,1.1328225543069397,0.8835141321246467,Peekaboo ISeeU Small,Selleria,Etoupe,AB - Muy bueno,2022,True,True,2
+2024-11-13 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-164360,VIC (Top 1%),Palma,1.1776384033780007,1.0544476683232944,Speedy 25 Bandoulière,Damier Ebene,Etoupe,A - Excelente,2018,True,True,6
+2024-11-13 14:20:00.765372,Chanel,3413.0,Completed,High_End,CL-122377,VIC (Top 1%),Marbella,1.1776384033780007,1.0544476683232944,Wallet on Chain (WOC),Caviar,Etoupe,AB - Muy bueno,2019,False,True,5
+2024-11-14 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-267981,Gold (Recurrente),Getxo,1.1624250931223703,1.1227063850684151,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,2
+2024-11-14 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-498149,Gold (Recurrente),Altea,1.1624250931223703,1.1227063850684151,Fendi First Small,Nappa,Negro,N - Nuevo,2020,True,True,4
+2024-11-14 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-813199,Gold (Recurrente),Murcia,1.1624250931223703,1.1227063850684151,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,4
+2024-11-14 14:20:00.765372,Celine,3344.0,Completed,Standard,CL-770339,VIC (Top 1%),Marbella,1.1624250931223703,1.1227063850684151,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2023,False,True,1
+2024-11-15 14:20:00.765372,Louis Vuitton,3172.0,Completed,Standard,CL-799877,VIC (Top 1%),Palma,1.173484925803384,1.185791142881171,Multi Pochette Accessoires,Monogram,Negro,N - Nuevo,2018,True,False,6
+2024-11-16 14:20:00.765372,Fendi,5324.0,Completed,Standard,CL-151390,Gold (Recurrente),Oviedo,1.1099725609296445,1.2156843035391285,Peekaboo ISeeU Small,Selleria,Beige Trench,A - Excelente,2018,True,False,6
+2024-11-16 14:20:00.765372,Prada,2084.0,Completed,Standard,CL-285174,VIC (Top 1%),Palma,1.1099725609296445,1.2156843035391285,Re-Edition 2005,Re-Nylon,Negro,A - Excelente,2022,False,False,2
+2024-11-16 14:20:00.765372,Louis Vuitton,1804.0,Completed,Standard,CL-519152,VIC (Top 1%),Marbella,1.1099725609296445,1.2156843035391285,Pochette Métis,Monogram Reverse,Negro,B - Buen estado,2025,True,True,0
+2024-11-17 14:20:00.765372,Fendi,3331.0,Completed,Standard,CL-799877,VIC (Top 1%),Palma,1.1533470321514874,1.086758993992496,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,False,2
+2024-11-17 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-425794,VIP Platinum (Alto Valor),Oleiros,1.1533470321514874,1.086758993992496,Pochette Métis,Monogram Reverse,Gold,B - Buen estado,2024,True,False,0
+2024-11-18 14:20:00.765372,Celine,4782.0,Completed,Standard,CL-925506,VIC (Top 1%),Palma,1.1200631960824026,1.125150691688905,Triomphe Classique,Shiny Calf,Negro,N - Nuevo,2025,False,False,0
+2024-11-19 14:20:00.765372,Hermès,3487.0,Completed,High_End,CL-529842,VIC (Top 1%),Marbella,1.137986310981537,1.0527209141398772,Picotin Lock 18,Clemence,Etoupe,A - Excelente,2025,True,False,0
+2024-11-20 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-535869,VIC (Top 1%),Alcobendas,1.1813072307367196,1.158401962439804,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2024,True,True,0
+2024-11-20 14:20:00.765372,Louis Vuitton,1844.0,Completed,Standard,CL-911874,Gold (Recurrente),Marbella,1.1813072307367196,1.158401962439804,Alma BB,Epi Leather,Gris Asfalto,AB - Muy bueno,2021,True,False,3
+2024-11-20 14:20:00.765372,Louis Vuitton,2494.0,Completed,Standard,CL-399050,VIC (Top 1%),Alcobendas,1.1813072307367196,1.158401962439804,Multi Pochette Accessoires,Monogram,Azul Marino,AB - Muy bueno,2025,False,False,0
+2024-11-20 14:20:00.765372,Louis Vuitton,2390.0,Completed,Standard,CL-408671,VIC (Top 1%),Marbella,1.1813072307367196,1.158401962439804,Speedy 25 Bandoulière,Damier Ebene,Rouge H,N - Nuevo,2020,False,False,4
+2024-11-21 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-572344,Gold (Recurrente),Alcobendas,1.110219355999864,1.2757568143820768,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2021,False,False,3
+2024-11-22 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-603468,Gold (Recurrente),Oleiros,1.1507765128423018,1.297540789448349,Baguette 1997,Zucca Canvas,Verde,N - Nuevo,2023,False,True,1
+2024-11-22 14:20:00.765372,Loewe,2101.0,Completed,Standard,CL-910078,Gold (Recurrente),Madrid,1.1507765128423018,1.297540789448349,Puzzle Mini,Satin Calf,Rouge H,A - Excelente,2024,True,True,0
+2024-11-24 14:20:00.765372,Louis Vuitton,2131.0,Completed,Standard,CL-655626,Estándar (Ocasional),Ourense,1.1504111700885225,1.2608354376196405,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,3
+2024-11-26 14:20:00.765372,Hermès,4458.0,Completed,High_End,CL-707951,Gold (Recurrente),Madrid,1.1672538984319774,1.1216725437710393,Evelyne III PM,Clemence,Gris Asfalto,A - Excelente,2020,True,True,4
+2024-11-26 14:20:00.765372,Louis Vuitton,1807.0,Completed,Standard,CL-223990,VIC (Top 1%),Marbella,1.1672538984319774,1.1216725437710393,Neverfull MM,Monogram,Negro,A - Excelente,2020,False,True,4
+2024-11-27 14:20:00.765372,Louis Vuitton,2952.0,Completed,Standard,CL-317532,VIC (Top 1%),Marbella,1.117118546763976,1.1728270353428811,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2025,False,True,0
+2024-11-27 14:20:00.765372,Louis Vuitton,2702.0,Completed,Standard,CL-939142,VIC (Top 1%),Marbella,1.117118546763976,1.1728270353428811,Pochette Métis,Monogram Reverse,Beige Trench,A - Excelente,2023,False,True,1
+2024-11-27 14:20:00.765372,Louis Vuitton,2390.0,Completed,Standard,CL-118979,VIC (Top 1%),Marbella,1.117118546763976,1.1728270353428811,Multi Pochette Accessoires,Monogram,Beige Trench,A - Excelente,2025,False,True,0
+2024-11-27 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-158015,Gold (Recurrente),Oleiros,1.117118546763976,1.1728270353428811,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,6
+2024-11-28 14:20:00.765372,Louis Vuitton,3172.0,Completed,Standard,CL-982426,VIC (Top 1%),Marbella,1.1193541491907644,1.138898289999777,Multi Pochette Accessoires,Monogram,Etoupe,N - Nuevo,2022,False,False,2
+2024-11-28 14:20:00.765372,Celine,2524.0,Completed,Standard,CL-982327,Estándar (Ocasional),Oviedo,1.1193541491907644,1.138898289999777,Luggage Nano,Drummed Calf,Negro,AB - Muy bueno,2023,False,False,1
+2024-11-29 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-770339,VIC (Top 1%),Marbella,1.1696884692959575,1.145245367800353,Fendi First Small,Nappa,Verde,A - Excelente,2018,True,True,6
+2024-11-29 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-855745,VIC (Top 1%),Palma,1.1696884692959575,1.145245367800353,Pochette Métis,Monogram Reverse,Negro,B - Buen estado,2025,True,True,0
+2024-11-30 14:20:00.765372,Celine,4782.0,Completed,Standard,CL-241917,VIC (Top 1%),Palma,1.1458353765010656,1.146935837791706,Triomphe Classique,Shiny Calf,Negro,N - Nuevo,2025,False,False,0
+2024-12-01 14:20:00.765372,Louis Vuitton,2083.0,Completed,Standard,CL-994765,VIC (Top 1%),Palma,1.1692999076211583,1.0983215422239845,Speedy 25 Bandoulière,Damier Ebene,Rouge H,N - Nuevo,2020,False,False,4
+2024-12-01 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-722002,VIC (Top 1%),Marbella,1.1692999076211583,1.0983215422239845,Peekaboo ISeeU Small,Selleria,Gold,AB - Muy bueno,2024,False,True,0
+2024-12-02 14:20:00.765372,Prada,2948.0,Completed,Standard,CL-698879,VIC (Top 1%),Marbella,1.1239018783972408,1.1790720292545245,Re-Edition 2005,Re-Nylon,Azul Marino,N - Nuevo,2021,True,False,3
+2024-12-02 14:20:00.765372,Fendi,3408.0,Completed,Standard,CL-456016,VIC (Top 1%),Marbella,1.1239018783972408,1.1790720292545245,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,True,2
+2024-12-03 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-799141,Gold (Recurrente),Madrid,1.1400706724687248,1.1734392099697146,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,4
+2024-12-03 14:20:00.765372,Louis Vuitton,2358.0,Completed,Standard,CL-384979,VIC (Top 1%),Palma,1.1400706724687248,1.1734392099697146,Neverfull MM,Monogram,Negro,A - Excelente,2020,False,True,4
+2024-12-03 14:20:00.765372,Gucci,2309.0,Completed,Standard,CL-615222,Gold (Recurrente),Madrid,1.1400706724687248,1.1734392099697146,Marmont Matelassé Small,Leather,Rouge H,AB - Muy bueno,2025,False,False,0
+2024-12-03 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-208067,VIC (Top 1%),Palma,1.1400706724687248,1.1734392099697146,Alma BB,Epi Leather,Negro,A - Excelente,2025,True,True,0
+2024-12-04 14:20:00.765372,Loewe,2708.0,Completed,Standard,CL-974343,VIC (Top 1%),Marbella,1.1421353893453772,1.175671469470837,Gate Dual Mini,Soft Calf,Gold,N - Nuevo,2020,False,False,4
+2024-12-04 14:20:00.765372,Fendi,4237.0,Completed,Standard,CL-686725,Gold (Recurrente),Alcorcón,1.1421353893453772,1.175671469470837,Peekaboo ISeeU Small,Selleria,Rouge H,AB - Muy bueno,2019,False,True,5
+2024-12-05 14:20:00.765372,Fendi,2265.0,Completed,Standard,CL-655671,VIC (Top 1%),Marbella,1.1658213101600008,1.258750272699486,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,5
+2024-12-07 14:20:00.765372,Louis Vuitton,5612.0,Completed,Standard,CL-309927,Gold (Recurrente),Murcia,1.1387462382476694,1.5221158108471309,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,False,0
+2024-12-09 14:20:00.765372,Louis Vuitton,2060.0,Completed,Standard,CL-155778,VIC (Top 1%),Palma,1.135703272916307,1.4718733305526872,Neverfull MM,Monogram,Etoupe,A - Excelente,2020,False,True,4
+2024-12-09 14:20:00.765372,Louis Vuitton,2611.0,Completed,Standard,CL-287547,Gold (Recurrente),Madrid,1.135703272916307,1.4718733305526872,Pochette Métis,Monogram Reverse,Verde,AB - Muy bueno,2023,False,False,1
+2024-12-10 14:20:00.765372,Celine,1134.0,Completed,Standard,CL-545716,VIC (Top 1%),Marbella,1.1198556792426784,1.338543853151369,Ava Bag,Triomphe Canvas,Gold,B - Buen estado,2023,True,False,1
+2024-12-10 14:20:00.765372,Fendi,4852.0,Completed,Standard,CL-146244,VIC (Top 1%),Palma,1.1198556792426784,1.338543853151369,Fendi First Small,Nappa,Rouge H,N - Nuevo,2020,True,True,4
+2024-12-11 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-380705,VIC (Top 1%),Marbella,1.155930978999658,1.401094025869993,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,2
+2024-12-12 14:20:00.765372,Loewe,2278.0,Completed,Standard,CL-519079,VIC (Top 1%),Alcobendas,1.1733947856289493,1.3558300664605147,Flamenco Clutch,Nappa Calf,Rouge H,AB - Muy bueno,2023,True,True,1
+2024-12-14 14:20:00.765372,Prada,3770.0,Completed,Standard,CL-223019,VIC (Top 1%),Palma,1.1022849459488648,1.288592876949188,Galleria Saffiano Small,Saffiano,Beige Trench,A - Excelente,2024,True,True,0
+2024-12-14 14:20:00.765372,Louis Vuitton,4559.0,Completed,Standard,CL-125382,Gold (Recurrente),Oleiros,1.1022849459488648,1.288592876949188,Capucines BB,Taurillon,Rouge H,B - Buen estado,2019,True,False,5
+2024-12-14 14:20:00.765372,Louis Vuitton,2234.0,Completed,Standard,CL-732798,VIC (Top 1%),Alcobendas,1.1022849459488648,1.288592876949188,Multi Pochette Accessoires,Monogram,Beige Trench,AB - Muy bueno,2024,False,False,0
+2024-12-16 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-256018,Gold (Recurrente),Valencia,1.1281979341290878,1.368729739379023,Fendi First Small,Nappa,Verde,A - Excelente,2018,True,True,6
+2024-12-16 14:20:00.765372,Louis Vuitton,2552.0,Completed,Standard,CL-820871,Gold (Recurrente),Valencia,1.1281979341290878,1.368729739379023,Onthego GM,Giant Monogram,Gris Asfalto,AB - Muy bueno,2025,False,False,0
+2024-12-16 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-813199,Gold (Recurrente),Murcia,1.1281979341290878,1.368729739379023,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,True,1
+2024-12-17 14:20:00.765372,Louis Vuitton,1989.0,Completed,Standard,CL-625333,VIC (Top 1%),Marbella,1.1379814517251408,1.3664500808763442,Speedy 25 Bandoulière,Damier Ebene,Craie,A - Excelente,2020,False,True,4
+2024-12-19 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-101946,VIC (Top 1%),Marbella,1.1523828320961915,1.2594794642280505,Multi Pochette Accessoires,Monogram,Beige Trench,A - Excelente,2022,True,True,2
+2024-12-20 14:20:00.765372,Prada,1694.0,Completed,Standard,CL-951327,Gold (Recurrente),Altea,1.1545346577043396,1.2532266066781546,Re-Edition 2005,Re-Nylon,Gold,A - Excelente,2025,False,False,0
+2024-12-21 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-693956,Gold (Recurrente),Palma,1.1390594778048466,1.3025817642961832,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,4
+2024-12-21 14:20:00.765372,Fendi,4237.0,Completed,Standard,CL-138219,VIC (Top 1%),Marbella,1.1390594778048466,1.3025817642961832,Peekaboo ISeeU Small,Selleria,Rouge H,AB - Muy bueno,2019,False,True,5
+2024-12-23 14:20:00.765372,Fendi,2818.0,Completed,Standard,CL-234520,Gold (Recurrente),Madrid,1.142541103507018,1.3579509881183738,Baguette 1997,Zucca Canvas,Gris Asfalto,A - Excelente,2018,False,False,6
+2024-12-24 14:20:00.765372,Louis Vuitton,5612.0,Completed,Standard,CL-197659,VIC (Top 1%),Marbella,1.1261179341663994,1.3062794109803813,Capucines BB,Taurillon,Rouge H,A - Excelente,2024,False,False,0
+2024-12-25 14:20:00.765372,Louis Vuitton,1839.0,Completed,Standard,CL-290561,VIC (Top 1%),Marbella,1.131754235915713,1.2506430968080615,Neverfull MM,Monogram,Beige Trench,AB - Muy bueno,2020,False,True,4
+2024-12-26 14:20:00.765372,Louis Vuitton,1807.0,Completed,Standard,CL-441064,VIC (Top 1%),Palma,1.102463544235209,1.295377263149096,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2021,False,True,3
+2024-12-26 14:20:00.765372,Fendi,3408.0,Completed,Standard,CL-437891,VIC (Top 1%),Marbella,1.102463544235209,1.295377263149096,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,True,2
+2024-12-28 14:20:00.765372,Louis Vuitton,4208.0,Completed,Standard,CL-819150,VIC (Top 1%),Marbella,1.140512657668438,1.3718183408834663,Onthego GM,Giant Monogram,Verde,N - Nuevo,2018,False,True,6
+2024-12-29 14:20:00.765372,Louis Vuitton,1474.0,Completed,Standard,CL-304225,VIC (Top 1%),Palma,1.1585527169489145,1.3566745952324697,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2019,True,False,5
+2024-12-30 14:20:00.765372,Fendi,2954.0,Completed,Standard,CL-816818,VIC (Top 1%),Palma,1.1401899165067784,1.3597219711940178,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,5
+2024-12-30 14:20:00.765372,Louis Vuitton,1694.0,Completed,Standard,CL-159583,VIC (Top 1%),Marbella,1.1401899165067784,1.3597219711940178,Neverfull MM,Monogram,Etoupe,A - Excelente,2020,False,True,4
+2024-12-31 14:20:00.765372,Louis Vuitton,1541.0,Completed,Standard,CL-878412,VIC (Top 1%),Palma,1.098768521808174,1.397601430094727,Neverfull MM,Monogram,Rouge H,AB - Muy bueno,2023,True,True,1
+2025-01-01 14:20:00.765372,Prada,2871.0,Completed,Standard,CL-225714,VIC (Top 1%),Marbella,1.140508583009913,1.4260490153229637,Galleria Saffiano Small,Saffiano,Etoupe,B - Buen estado,2023,True,False,2
+2025-01-01 14:20:00.765372,Fendi,4479.0,Completed,Standard,CL-701409,VIC (Top 1%),Marbella,1.140508583009913,1.4260490153229637,Fendi First Small,Nappa,Gris Asfalto,N - Nuevo,2022,False,False,3
+2025-01-02 14:20:00.765372,Louis Vuitton,3152.0,Completed,Standard,CL-528440,VIC (Top 1%),Palma,1.1564077847133314,1.4316052467951697,Onthego GM,Giant Monogram,Verde,AB - Muy bueno,2018,True,False,7
+2025-01-03 14:20:00.765372,Prada,1382.0,Completed,Standard,CL-658419,VIC (Top 1%),Palma,1.1704410728638317,1.4209710936460302,Re-Edition 2005,Re-Nylon,Verde,B - Buen estado,2023,False,False,2
+2025-01-03 14:20:00.765372,Louis Vuitton,1909.0,Completed,Standard,CL-835748,VIC (Top 1%),Palma,1.1704410728638317,1.4209710936460302,Speedy 25 Bandoulière,Damier Ebene,Etoupe,A - Excelente,2018,True,True,7
+2025-01-04 14:20:00.765372,Louis Vuitton,1807.0,Completed,Standard,CL-484508,VIC (Top 1%),Marbella,1.1466514686219915,1.4401484966078608,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2024,False,False,1
+2025-01-04 14:20:00.765372,Fendi,6331.0,Completed,Standard,CL-613290,Gold (Recurrente),Madrid,1.1466514686219915,1.4401484966078608,Peekaboo ISeeU Small,Selleria,Gold,A - Excelente,2018,True,True,7
+2025-01-05 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-953879,VIC (Top 1%),Marbella,1.158847781974418,1.501303185112077,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,5
+2025-01-07 14:20:00.765372,Celine,3344.0,Completed,Standard,CL-114499,Gold (Recurrente),Barcelona,1.1219150959855662,1.5451224290993768,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2023,False,True,2
+2025-01-07 14:20:00.765372,Louis Vuitton,1830.0,Completed,Standard,CL-981580,VIC (Top 1%),Palma,1.1219150959855662,1.5451224290993768,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,False,True,0
+2025-01-07 14:20:00.765372,Louis Vuitton,5895.0,Completed,Standard,CL-675345,VIC (Top 1%),Marbella,1.1219150959855662,1.5451224290993768,Capucines BB,Taurillon,Verde,A - Excelente,2024,False,False,1
+2025-01-10 14:20:00.765372,Louis Vuitton,1860.0,Completed,Standard,CL-366448,VIC (Top 1%),Marbella,1.1298343296247697,1.4851762227656606,Neverfull MM,Monogram,Rouge H,AB - Muy bueno,2023,True,True,2
+2025-01-11 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-350078,VIC (Top 1%),Palma,1.1670926304309504,1.37282843211981,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-01-11 14:20:00.765372,Gucci,2718.0,Completed,Standard,CL-321968,VIC (Top 1%),Marbella,1.1670926304309504,1.37282843211981,Horsebit 1955,GG Supreme,Etoupe,A - Excelente,2025,True,False,0
+2025-01-13 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-694266,VIC (Top 1%),Palma,1.1516991395424727,1.3723668750606972,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,5
+2025-01-13 14:20:00.765372,Chanel,6037.0,Completed,High_End,CL-768089,VIC (Top 1%),Alcobendas,1.1516991395424727,1.3723668750606972,Chanel 19 Large,Goatskin,Etoupe,A - Excelente,2025,True,True,0
+2025-01-14 14:20:00.765372,Prada,2487.0,Completed,Standard,CL-975633,Gold (Recurrente),Murcia,1.1722675723093383,1.387846290548974,Cleo Brushed,Spazzolato,Gold,AB - Muy bueno,2021,False,False,4
+2025-01-15 14:20:00.765372,Louis Vuitton,1769.0,Completed,Standard,CL-484508,VIC (Top 1%),Marbella,1.1076072145577855,1.3942949671742946,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2025-01-15 14:20:00.765372,Louis Vuitton,3108.0,Completed,Standard,CL-846857,Gold (Recurrente),Barcelona,1.1076072145577855,1.3942949671742946,Pochette Métis,Monogram Reverse,Negro,N - Nuevo,2020,False,False,5
+2025-01-15 14:20:00.765372,Fendi,2935.0,Completed,Standard,CL-111412,VIC (Top 1%),Marbella,1.1076072145577855,1.3942949671742946,Baguette 1997,Zucca Canvas,Beige Trench,AB - Muy bueno,2023,False,True,2
+2025-01-15 14:20:00.765372,Celine,2402.0,Completed,Standard,CL-166869,VIC (Top 1%),Palma,1.1076072145577855,1.3942949671742946,Luggage Nano,Drummed Calf,Gold,A - Excelente,2023,True,True,2
+2025-01-16 14:20:00.765372,Celine,1908.0,Completed,Standard,CL-964101,VIC (Top 1%),Palma,1.1219932335144334,1.2974994660581811,Belt Bag Nano,Grained Calf,Beige Trench,A - Excelente,2022,True,False,3
+2025-01-16 14:20:00.765372,Gucci,2910.0,Completed,Standard,CL-173312,VIC (Top 1%),Palma,1.1219932335144334,1.2974994660581811,Marmont Matelassé Small,Leather,Gold,N - Nuevo,2020,True,True,5
+2025-01-17 14:20:00.765372,Prada,1825.0,Completed,Standard,CL-778287,VIC (Top 1%),Marbella,1.135574550891142,1.2591750321010555,Re-Edition 2005,Re-Nylon,Craie,AB - Muy bueno,2019,True,False,6
+2025-01-17 14:20:00.765372,Louis Vuitton,3222.0,Completed,Standard,CL-824196,Gold (Recurrente),Madrid,1.135574550891142,1.2591750321010555,Onthego GM,Giant Monogram,Negro,A - Excelente,2021,True,False,4
+2025-01-18 14:20:00.765372,Celine,1878.0,Completed,Standard,CL-591958,VIC (Top 1%),Marbella,1.1200025080726863,1.3312130231783987,Belt Bag Nano,Grained Calf,Beige Trench,AB - Muy bueno,2024,False,False,1
+2025-01-18 14:20:00.765372,Fendi,5241.0,Completed,Standard,CL-706511,VIC (Top 1%),Marbella,1.1200025080726863,1.3312130231783987,Peekaboo ISeeU Small,Selleria,Beige Trench,A - Excelente,2018,True,False,7
+2025-01-18 14:20:00.765372,Fendi,3285.0,Completed,Standard,CL-693956,Gold (Recurrente),Palma,1.1200025080726863,1.3312130231783987,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,1
+2025-01-18 14:20:00.765372,Prada,2967.0,Completed,Standard,CL-240268,VIC (Top 1%),Marbella,1.1200025080726863,1.3312130231783987,Re-Edition 2005,Re-Nylon,Azul Marino,N - Nuevo,2021,True,False,4
+2025-01-18 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-634045,VIC (Top 1%),Marbella,1.1200025080726863,1.3312130231783987,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,3
+2025-01-19 14:20:00.765372,Louis Vuitton,1853.0,Completed,Standard,CL-101946,VIC (Top 1%),Marbella,1.145766037768609,1.2520407966222171,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,2
+2025-01-19 14:20:00.765372,Loewe,1766.0,Completed,Standard,CL-219703,VIC (Top 1%),Palma,1.145766037768609,1.2520407966222171,Flamenco Clutch,Nappa Calf,Etoupe,B - Buen estado,2022,False,False,3
+2025-01-19 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-519152,VIC (Top 1%),Marbella,1.145766037768609,1.2520407966222171,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2018,False,True,7
+2025-01-20 14:20:00.765372,Louis Vuitton,7046.0,Completed,Standard,CL-807247,Gold (Recurrente),Madrid,1.1240711485187902,1.2084232735219185,Capucines BB,Taurillon,Gris Asfalto,N - Nuevo,2021,True,False,4
+2025-01-20 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-381202,VIC (Top 1%),Marbella,1.1240711485187902,1.2084232735219185,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,4
+2025-01-20 14:20:00.765372,Louis Vuitton,1972.0,Completed,Standard,CL-133848,Gold (Recurrente),Palma,1.1240711485187902,1.2084232735219185,Alma BB,Epi Leather,Azul Marino,A - Excelente,2018,True,False,7
+2025-01-20 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-923348,VIC (Top 1%),Palma,1.1240711485187902,1.2084232735219185,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,True,5
+2025-01-21 14:20:00.765372,Gucci,2786.0,Completed,Standard,CL-633351,VIC (Top 1%),Marbella,1.1280208808887149,1.1558251887882156,Jackie 1961 Small,GG Supreme,Negro,A - Excelente,2021,True,False,4
+2025-01-21 14:20:00.765372,Celine,1134.0,Completed,Standard,CL-511778,VIC (Top 1%),Marbella,1.1280208808887149,1.1558251887882156,Ava Bag,Triomphe Canvas,Gold,B - Buen estado,2023,True,False,2
+2025-01-22 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-870432,VIC (Top 1%),Marbella,1.1653295511099115,1.1513161857188587,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,6
+2025-01-23 14:20:00.765372,Fendi,6331.0,Completed,Standard,CL-686858,Gold (Recurrente),Marbella,1.0903845559338208,1.213015876380767,Peekaboo ISeeU Small,Selleria,Azul Marino,N - Nuevo,2025,True,True,0
+2025-01-24 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-435399,VIC (Top 1%),Marbella,1.1258155338276292,1.2617649711223418,Onthego GM,Giant Monogram,Verde,N - Nuevo,2018,False,True,7
+2025-01-24 14:20:00.765372,Fendi,3525.0,Completed,Standard,CL-348469,Gold (Recurrente),Madrid,1.1258155338276292,1.2617649711223418,Baguette 1997,Zucca Canvas,Verde,N - Nuevo,2023,False,True,2
+2025-01-25 14:20:00.765372,Hermès,3467.0,Completed,High_End,CL-561505,Gold (Recurrente),Altea,1.1312458015061029,1.221049351853711,Evelyne III PM,Clemence,Gold,A - Excelente,2020,False,True,5
+2025-01-25 14:20:00.765372,Prada,3704.0,Completed,Standard,CL-939198,VIC (Top 1%),Marbella,1.1312458015061029,1.221049351853711,Galleria Saffiano Small,Saffiano,Azul Marino,AB - Muy bueno,2025,False,True,0
+2025-01-26 14:20:00.765372,Celine,3362.0,Completed,Standard,CL-100693,Gold (Recurrente),Getxo,1.1237314717711986,1.271133726696157,Triomphe Classique,Shiny Calf,Verde,B - Buen estado,2018,False,True,7
+2025-01-27 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-422314,VIC (Top 1%),Palma,1.124529490448774,1.175094734189458,Baguette 1997,Zucca Canvas,Rouge H,N - Nuevo,2021,False,True,4
+2025-01-27 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-606475,VIC (Top 1%),Palma,1.124529490448774,1.175094734189458,Baguette 1997,Zucca Canvas,Beige Trench,AB - Muy bueno,2023,False,True,2
+2025-01-29 14:20:00.765372,Hermès,9105.0,Completed,High_End,CL-826876,VIC (Top 1%),Palma,1.1364150505116106,1.1772527571725755,Kelly 25 Retourne,Swift,Etoupe,B - Buen estado,2025,False,True,0
+2025-01-31 14:20:00.765372,Hermès,3043.0,Completed,High_End,CL-395510,VIC (Top 1%),Marbella,1.1296904752812718,1.1611933832325894,Picotin Lock 18,Clemence,Beige Trench,A - Excelente,2022,True,False,3
+2025-02-04 14:20:00.765372,Prada,2084.0,Completed,Standard,CL-611726,VIC (Top 1%),Marbella,1.1496728394791125,1.1628085875404006,Cleo Brushed,Spazzolato,Azul Marino,AB - Muy bueno,2022,False,True,3
+2025-02-05 14:20:00.765372,Louis Vuitton,3724.0,Completed,Standard,CL-912287,VIC (Top 1%),Palma,1.131068816241464,1.1865631417304294,Onthego GM,Giant Monogram,Beige Trench,AB - Muy bueno,2025,True,True,0
+2025-02-05 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-107979,Gold (Recurrente),Madrid,1.131068816241464,1.1865631417304294,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,True,3
+2025-02-05 14:20:00.765372,Prada,1866.0,Completed,Standard,CL-551841,VIC (Top 1%),Marbella,1.131068816241464,1.1865631417304294,Cleo Brushed,Spazzolato,Verde,B - Buen estado,2018,True,False,7
+2025-02-06 14:20:00.765372,Prada,4256.0,Completed,Standard,CL-260328,Gold (Recurrente),Madrid,1.106887125039572,1.1705596523816142,Galleria Saffiano Small,Saffiano,Beige Trench,A - Excelente,2024,True,True,1
+2025-02-08 14:20:00.765372,Fendi,2265.0,Completed,Standard,CL-132145,VIP Platinum (Alto Valor),Marbella,1.143104332648887,0.986862933422724,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,True,5
+2025-02-09 14:20:00.765372,Hermès,9266.0,Completed,High_End,CL-933237,VIC (Top 1%),Palma,1.136867574999615,1.0254340440966103,Birkin 25,Togo,Gris Asfalto,AB - Muy bueno,2018,False,True,7
+2025-02-10 14:20:00.765372,Prada,1825.0,Completed,Standard,CL-807216,VIC (Top 1%),Marbella,1.0934121398232015,1.0082563609601685,Re-Edition 2005,Re-Nylon,Verde,A - Excelente,2019,False,False,6
+2025-02-13 14:20:00.765372,Fendi,3713.0,Completed,Standard,CL-631418,VIC (Top 1%),Palma,1.099982713256287,0.9535345783398848,Fendi First Small,Nappa,Beige Trench,A - Excelente,2024,True,False,1
+2025-02-15 14:20:00.765372,Louis Vuitton,1611.0,Completed,Standard,CL-865644,VIC (Top 1%),Palma,1.1399081211293476,0.8592439349211654,Alma BB,Epi Leather,Azul Marino,AB - Muy bueno,2019,True,False,6
+2025-02-15 14:20:00.765372,Prada,2655.0,Completed,Standard,CL-342465,VIC (Top 1%),Palma,1.1399081211293476,0.8592439349211654,Cleo Brushed,Spazzolato,Rouge H,AB - Muy bueno,2022,False,False,3
+2025-02-15 14:20:00.765372,Fendi,2265.0,Completed,Standard,CL-798682,Gold (Recurrente),Barcelona,1.1399081211293476,0.8592439349211654,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,6
+2025-02-15 14:20:00.765372,Fendi,3713.0,Completed,Standard,CL-832163,VIC (Top 1%),Palma,1.1399081211293476,0.8592439349211654,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2025-02-15 14:20:00.765372,Louis Vuitton,1467.0,Completed,Standard,CL-266091,VIC (Top 1%),Marbella,1.1399081211293476,0.8592439349211654,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2019,False,False,6
+2025-02-16 14:20:00.765372,Louis Vuitton,3222.0,Completed,Standard,CL-234520,Gold (Recurrente),Madrid,1.101341989457066,0.718932951841239,Pochette Métis,Monogram Reverse,Beige Trench,N - Nuevo,2022,True,True,3
+2025-02-18 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-373273,Gold (Recurrente),Ourense,1.1311319905376611,0.7796912622116622,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-02-18 14:20:00.765372,Celine,2139.0,Completed,Standard,CL-241917,VIC (Top 1%),Palma,1.1311319905376611,0.7796912622116622,Luggage Nano,Drummed Calf,Rouge H,A - Excelente,2022,False,True,3
+2025-02-20 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-705891,VIC (Top 1%),Marbella,1.1052818307610512,0.8442052660272301,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,6
+2025-02-20 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-197372,Gold (Recurrente),Marbella,1.1052818307610512,0.8442052660272301,Alma BB,Epi Leather,Verde,AB - Muy bueno,2018,False,True,7
+2025-02-21 14:20:00.765372,Louis Vuitton,2562.0,Completed,Standard,CL-529762,VIC (Top 1%),Marbella,1.1182186214554344,0.7052253493532242,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,N - Nuevo,2023,True,True,2
+2025-02-22 14:20:00.765372,Prada,2992.0,Completed,Standard,CL-628763,VIC (Top 1%),Palma,1.1038298902906878,0.6824592701723659,Cleo Brushed,Spazzolato,Rouge H,A - Excelente,2021,True,False,4
+2025-02-24 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-259451,VIC (Top 1%),Palma,1.1302053932608875,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,2
+2025-02-26 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-627419,VIC (Top 1%),Palma,1.1211503445888058,0.6,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,6
+2025-02-26 14:20:00.765372,Louis Vuitton,1837.0,Completed,Standard,CL-657691,VIC (Top 1%),Palma,1.1211503445888058,0.6,Alma BB,Epi Leather,Azul Marino,A - Excelente,2018,True,False,7
+2025-03-04 14:20:00.765372,Louis Vuitton,2239.0,Completed,Standard,CL-563787,VIC (Top 1%),Marbella,1.1132469611307032,0.6213968539404816,Speedy 25 Bandoulière,Damier Ebene,Verde,N - Nuevo,2020,True,False,5
+2025-03-05 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-301180,VIC (Top 1%),Alcobendas,1.1129615168103162,0.6217763166102791,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,False,3
+2025-03-07 14:20:00.765372,Hermès,10872.0,Completed,High_End,CL-470566,VIC (Top 1%),Palma,1.110973604111412,0.7031744612736271,Birkin 25,Togo,Gold,N - Nuevo,2025,True,False,0
+2025-03-08 14:20:00.765372,Chanel,7401.0,Completed,High_End,CL-530883,Gold (Recurrente),Barcelona,1.105901232473921,0.6693144515253625,Boy Bag Old Medium,Calfskin,Negro,A - Excelente,2021,False,True,4
+2025-03-11 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-885952,VIC (Top 1%),Palma,1.1168120482932349,0.7085053389849885,Peekaboo ISeeU Small,Selleria,Craie,AB - Muy bueno,2018,False,True,7
+2025-03-11 14:20:00.765372,Hermès,3320.0,Completed,High_End,CL-470566,VIC (Top 1%),Palma,1.1168120482932349,0.7085053389849885,Evelyne III PM,Clemence,Negro,AB - Muy bueno,2024,True,False,1
+2025-03-11 14:20:00.765372,Fendi,6331.0,Completed,Standard,CL-468406,VIC (Top 1%),Marbella,1.1168120482932349,0.7085053389849885,Peekaboo ISeeU Small,Selleria,Gold,A - Excelente,2018,True,True,7
+2025-03-12 14:20:00.765372,Fendi,3343.0,Completed,Standard,CL-711667,VIC (Top 1%),Palma,1.0990159141881568,0.7151551654123954,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-03-12 14:20:00.765372,Celine,3200.0,Completed,Standard,CL-107979,Gold (Recurrente),Madrid,1.0990159141881568,0.7151551654123954,Triomphe Classique,Shiny Calf,Azul Marino,B - Buen estado,2020,False,False,5
+2025-03-13 14:20:00.765372,Fendi,5324.0,Completed,Standard,CL-114596,VIC (Top 1%),Palma,1.0997203581428887,0.6801573148054519,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,False,2
+2025-03-13 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-101450,VIC (Top 1%),Marbella,1.0997203581428887,0.6801573148054519,Alma BB,Epi Leather,Verde,A - Excelente,2019,False,False,6
+2025-03-14 14:20:00.765372,Prada,1969.0,Completed,Standard,CL-239742,VIC (Top 1%),Palma,1.090053019733073,0.694984951526471,Re-Edition 2005,Re-Nylon,Azul Marino,A - Excelente,2024,False,True,1
+2025-03-14 14:20:00.765372,Fendi,2935.0,Completed,Standard,CL-711667,VIC (Top 1%),Palma,1.090053019733073,0.694984951526471,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2025-03-15 14:20:00.765372,Louis Vuitton,2413.0,Completed,Standard,CL-437891,VIC (Top 1%),Marbella,1.094699537523676,0.6951903611745817,Speedy 25 Bandoulière,Damier Ebene,Etoupe,A - Excelente,2021,True,True,4
+2025-03-15 14:20:00.765372,Fendi,3708.0,Completed,Standard,CL-530883,Gold (Recurrente),Barcelona,1.094699537523676,0.6951903611745817,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2025-03-15 14:20:00.765372,Gucci,2541.0,Completed,Standard,CL-222186,Gold (Recurrente),Alcobendas,1.094699537523676,0.6951903611745817,Diana Bamboo Small,Leather,Negro,AB - Muy bueno,2024,False,True,1
+2025-03-15 14:20:00.765372,Fendi,3285.0,Completed,Standard,CL-351448,VIC (Top 1%),Palma,1.094699537523676,0.6951903611745817,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,6
+2025-03-17 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-605532,Gold (Recurrente),Oleiros,1.1007236693640725,0.7906260540220109,Baguette 1997,Zucca Canvas,Gris Asfalto,A - Excelente,2018,False,False,7
+2025-03-18 14:20:00.765372,Chanel,9198.0,Completed,High_End,CL-736804,VIC (Top 1%),Alcobendas,1.0898155249784458,0.7963264616199971,Classic Flap Small,Lambskin,Craie,AB - Muy bueno,2018,False,False,7
+2025-03-18 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-455011,VIC (Top 1%),Alcobendas,1.0898155249784458,0.7963264616199971,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2019,True,True,6
+2025-03-20 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-911874,Gold (Recurrente),Marbella,1.0996935285951597,0.7547296234599863,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,3
+2025-03-22 14:20:00.765372,Prada,2407.0,Completed,Standard,CL-419409,VIC (Top 1%),Marbella,1.0868447699332335,0.7955265808232973,Cleo Brushed,Spazzolato,Craie,AB - Muy bueno,2018,True,False,7
+2025-03-24 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-646774,VIC (Top 1%),Marbella,1.1216405539384404,0.8664653003416521,Fendi First Small,Nappa,Beige Trench,A - Excelente,2024,True,False,1
+2025-03-24 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-431934,VIC (Top 1%),Palma,1.1216405539384404,0.8664653003416521,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,6
+2025-03-27 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-327235,VIC (Top 1%),Marbella,1.1171494929091907,0.735391921819789,Fendi First Small,Nappa,Azul Marino,A - Excelente,2020,False,False,5
+2025-03-27 14:20:00.765372,Chanel,3209.0,Completed,High_End,CL-325530,Gold (Recurrente),Oviedo,1.1171494929091907,0.735391921819789,Wallet on Chain (WOC),Caviar,Craie,AB - Muy bueno,2020,True,False,5
+2025-03-28 14:20:00.765372,Fendi,3408.0,Completed,Standard,CL-850907,VIC (Top 1%),Palma,1.0980419455138064,0.7428007184468909,Baguette 1997,Zucca Canvas,Verde,N - Nuevo,2023,False,True,2
+2025-03-29 14:20:00.765372,Chanel,8675.0,Completed,High_End,CL-939198,VIC (Top 1%),Marbella,1.0779628724111707,0.8498709619168032,Classic Flap Jumbo,Caviar,Craie,A - Excelente,2021,False,True,4
+2025-03-31 14:20:00.765372,Chanel,12685.0,Completed,High_End,CL-114596,VIC (Top 1%),Palma,1.0606846961686016,0.888330906370765,Classic Flap Jumbo,Caviar,Craie,A - Excelente,2019,True,True,6
+2025-03-31 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-465189,VIC (Top 1%),Marbella,1.0606846961686016,0.888330906370765,Peekaboo ISeeU Small,Selleria,Verde,AB - Muy bueno,2019,False,True,6
+2025-04-02 14:20:00.765372,Louis Vuitton,2234.0,Completed,Standard,CL-482521,Gold (Recurrente),Madrid,1.0981937698859263,0.8974942652872011,Neverfull MM,Monogram,Negro,A - Excelente,2020,False,True,5
+2025-04-02 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-964101,VIC (Top 1%),Palma,1.0981937698859263,0.8974942652872011,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2018,False,True,7
+2025-04-03 14:20:00.765372,Hermès,3530.0,Completed,High_End,CL-778287,VIC (Top 1%),Marbella,1.0588973218605966,0.9307923760002058,Picotin Lock 18,Clemence,Craie,A - Excelente,2019,True,True,6
+2025-04-03 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-819483,VIC (Top 1%),Marbella,1.0588973218605966,0.9307923760002058,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,5
+2025-04-03 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-697688,VIC (Top 1%),Palma,1.0588973218605966,0.9307923760002058,Capucines BB,Taurillon,Etoupe,B - Buen estado,2019,True,False,6
+2025-04-04 14:20:00.765372,Hermès,3970.0,Completed,High_End,CL-832163,VIC (Top 1%),Palma,1.1220454816551952,0.9187795290746184,Evelyne III PM,Clemence,Craie,N - Nuevo,2025,True,True,0
+2025-04-04 14:20:00.765372,Louis Vuitton,3222.0,Completed,Standard,CL-966202,VIC (Top 1%),Marbella,1.1220454816551952,0.9187795290746184,Onthego GM,Giant Monogram,Negro,A - Excelente,2021,True,False,4
+2025-04-05 14:20:00.765372,Chanel,13542.0,Completed,High_End,CL-112230,VIC (Top 1%),Marbella,1.0798869539273257,0.9511363366989934,Classic Flap Medium,Caviar,Negro,N - Nuevo,2022,True,True,3
+2025-04-05 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-770158,Gold (Recurrente),Oviedo,1.0798869539273257,0.9511363366989934,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2025-04-05 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-575899,VIC (Top 1%),Palma,1.0798869539273257,0.9511363366989934,Fendi First Small,Nappa,Verde,A - Excelente,2018,True,True,7
+2025-04-06 14:20:00.765372,Fendi,2935.0,Completed,Standard,CL-560406,VIC (Top 1%),Marbella,1.1201271099523589,0.8711621228123411,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,6
+2025-04-07 14:20:00.765372,Hermès,9601.0,Completed,High_End,CL-824936,VIC (Top 1%),Palma,1.100356128111524,0.8377713496789106,Kelly 25 Retourne,Swift,Verde,AB - Muy bueno,2025,False,True,0
+2025-04-07 14:20:00.765372,Prada,3343.0,Completed,Standard,CL-515815,VIC (Top 1%),Marbella,1.100356128111524,0.8377713496789106,Galleria Saffiano Small,Saffiano,Azul Marino,A - Excelente,2025,True,False,0
+2025-04-09 14:20:00.765372,Louis Vuitton,3146.0,Completed,Standard,CL-389235,VIC (Top 1%),Marbella,1.064425890071515,0.838121644277347,Multi Pochette Accessoires,Monogram,Negro,N - Nuevo,2018,True,False,7
+2025-04-11 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-380509,VIC (Top 1%),Alcobendas,1.0877005050862398,0.9489405309102812,Baguette 1997,Zucca Canvas,Beige Trench,AB - Muy bueno,2023,False,True,2
+2025-04-12 14:20:00.765372,Prada,2109.0,Completed,Standard,CL-807247,Gold (Recurrente),Madrid,1.0643306313250829,0.983722486715736,Re-Edition 2005,Re-Nylon,Azul Marino,A - Excelente,2024,False,True,1
+2025-04-13 14:20:00.765372,Fendi,3398.0,Completed,Standard,CL-270881,VIC (Top 1%),Marbella,1.0873577754310222,0.9966634747217644,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2024,True,True,1
+2025-04-15 14:20:00.765372,Louis Vuitton,1458.0,Completed,Standard,CL-896254,VIC (Top 1%),Palma,1.0768846086047863,1.0361410790802776,Alma BB,Epi Leather,Gold,B - Buen estado,2020,False,True,5
+2025-04-16 14:20:00.765372,Louis Vuitton,3108.0,Completed,Standard,CL-542177,Gold (Recurrente),Getxo,1.0901386370043522,0.9792694605346376,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2023,False,False,2
+2025-04-17 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-807216,VIC (Top 1%),Marbella,1.0452636363553816,1.2134696083103071,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2021,False,True,4
+2025-04-18 14:20:00.765372,Louis Vuitton,2494.0,Completed,Standard,CL-240268,VIC (Top 1%),Marbella,1.1108667266740428,1.3019907873752146,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2025,False,True,0
+2025-04-20 14:20:00.765372,Fendi,2543.0,Completed,Standard,CL-330565,VIC (Top 1%),Marbella,1.0629119303121872,1.4574960127795256,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,3
+2025-04-22 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-964101,VIC (Top 1%),Palma,1.0707238004777972,1.295889662324266,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,6
+2025-04-23 14:20:00.765372,Fendi,2543.0,Completed,Standard,CL-132563,Gold (Recurrente),Getxo,1.0572333395486857,1.2928605650399847,Baguette 1997,Zucca Canvas,Beige Trench,AB - Muy bueno,2023,False,True,2
+2025-04-25 14:20:00.765372,Chanel,3441.0,Completed,High_End,CL-852056,VIC (Top 1%),Marbella,1.097408986983798,1.0664744598572546,Wallet on Chain (WOC),Caviar,Rouge H,A - Excelente,2019,False,False,6
+2025-04-25 14:20:00.765372,Chanel,8304.0,Completed,High_End,CL-987556,VIC (Top 1%),Palma,1.097408986983798,1.0664744598572546,Classic Flap Small,Lambskin,Craie,AB - Muy bueno,2018,False,False,7
+2025-04-26 14:20:00.765372,Prada,1913.0,Completed,Standard,CL-597444,VIC (Top 1%),Palma,1.078889657116353,1.1439178337359304,Re-Edition 2005,Re-Nylon,Etoupe,A - Excelente,2024,True,True,1
+2025-04-26 14:20:00.765372,Celine,3400.0,Completed,Standard,CL-557883,VIP Platinum (Alto Valor),Oleiros,1.078889657116353,1.1439178337359304,Triomphe Classique,Shiny Calf,Etoupe,A - Excelente,2021,False,False,4
+2025-04-27 14:20:00.765372,Hermès,3938.0,Completed,High_End,CL-547950,VIC (Top 1%),Marbella,1.098903562340268,1.165538165759189,Evelyne III PM,Clemence,Gold,A - Excelente,2020,False,True,5
+2025-04-27 14:20:00.765372,Fendi,3285.0,Completed,Standard,CL-100750,Gold (Recurrente),Oleiros,1.098903562340268,1.165538165759189,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,False,3
+2025-04-28 14:20:00.765372,Louis Vuitton,2322.0,Completed,Standard,CL-164670,VIC (Top 1%),Alcobendas,1.0698272210828608,1.128416478400315,Alma BB,Epi Leather,Verde,A - Excelente,2021,True,False,4
+2025-04-29 14:20:00.765372,Prada,1694.0,Completed,Standard,CL-732893,VIC (Top 1%),Palma,1.041814383412132,1.0993508315781877,Re-Edition 2005,Re-Nylon,Craie,AB - Muy bueno,2019,True,False,6
+2025-04-30 14:20:00.765372,Louis Vuitton,5604.0,Completed,Standard,CL-130670,VIP Platinum (Alto Valor),Palma,1.0785231127103865,1.2161782929379468,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2025-04-30 14:20:00.765372,Prada,2033.0,Completed,Standard,CL-728563,Gold (Recurrente),Getxo,1.0785231127103865,1.2161782929379468,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2022,False,False,3
+2025-04-30 14:20:00.765372,Fendi,5243.0,Completed,Standard,CL-846094,VIC (Top 1%),Alcobendas,1.0785231127103865,1.2161782929379468,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2024,True,True,1
+2025-05-01 14:20:00.765372,Louis Vuitton,2605.0,Completed,Standard,CL-678979,Gold (Recurrente),Getxo,1.056143316852329,1.1817412054855665,Onthego GM,Giant Monogram,Craie,AB - Muy bueno,2018,True,False,7
+2025-05-01 14:20:00.765372,Louis Vuitton,4960.0,Completed,Standard,CL-928531,VIC (Top 1%),Palma,1.056143316852329,1.1817412054855665,Capucines BB,Taurillon,Beige Trench,AB - Muy bueno,2018,False,False,7
+2025-05-03 14:20:00.765372,Louis Vuitton,5384.0,Completed,Standard,CL-607141,VIC (Top 1%),Alcobendas,1.05258251802479,1.1236122896967815,Capucines BB,Taurillon,Verde,A - Excelente,2024,False,False,1
+2025-05-03 14:20:00.765372,Louis Vuitton,2562.0,Completed,Standard,CL-760739,Gold (Recurrente),Altea,1.05258251802479,1.1236122896967815,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,N - Nuevo,2023,True,True,2
+2025-05-03 14:20:00.765372,Prada,1922.0,Completed,Standard,CL-445288,VIC (Top 1%),Marbella,1.05258251802479,1.1236122896967815,Re-Edition 2005,Re-Nylon,Craie,AB - Muy bueno,2019,True,False,6
+2025-05-04 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-366448,VIC (Top 1%),Marbella,1.0592268458569023,1.131872601088627,Fendi First Small,Nappa,Azul Marino,N - Nuevo,2022,False,False,3
+2025-05-04 14:20:00.765372,Louis Vuitton,2815.0,Completed,Standard,CL-934530,VIC (Top 1%),Palma,1.0592268458569023,1.131872601088627,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2025,False,True,0
+2025-05-04 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-281624,VIC (Top 1%),Palma,1.0592268458569023,1.131872601088627,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,5
+2025-05-05 14:20:00.765372,Gucci,2960.0,Completed,Standard,CL-928651,VIC (Top 1%),Marbella,1.0419261304603795,0.9816758346900776,Horsebit 1955,GG Supreme,Rouge H,A - Excelente,2019,False,False,6
+2025-05-05 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-879676,VIC (Top 1%),Palma,1.0419261304603795,0.9816758346900776,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2025-05-05 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-698879,VIC (Top 1%),Marbella,1.0419261304603795,0.9816758346900776,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2024,True,True,1
+2025-05-06 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-381353,VIC (Top 1%),Marbella,1.078568141467917,0.953807659096766,Peekaboo ISeeU Small,Selleria,Verde,AB - Muy bueno,2019,False,True,6
+2025-05-08 14:20:00.765372,Gucci,2694.0,Completed,Standard,CL-971907,VIC (Top 1%),Palma,1.0427138041666817,1.044786127563632,Dionysus Small,GG Supreme,Rouge H,AB - Muy bueno,2025,True,True,0
+2025-05-08 14:20:00.765372,Louis Vuitton,2562.0,Completed,Standard,CL-316359,VIC (Top 1%),Palma,1.0427138041666817,1.044786127563632,Pochette Métis,Monogram Reverse,Beige Trench,AB - Muy bueno,2021,False,True,4
+2025-05-10 14:20:00.765372,Louis Vuitton,1868.0,Completed,Standard,CL-457993,VIC (Top 1%),Palma,1.05343771295141,1.0282911235524428,Neverfull MM,Monogram,Verde,A - Excelente,2022,True,False,3
+2025-05-11 14:20:00.765372,Louis Vuitton,3106.0,Completed,Standard,CL-826876,VIC (Top 1%),Palma,1.062070234174786,0.9596266268928114,Pochette Métis,Monogram Reverse,Beige Trench,N - Nuevo,2022,True,True,3
+2025-05-11 14:20:00.765372,Prada,2967.0,Completed,Standard,CL-846928,VIC (Top 1%),Palma,1.062070234174786,0.9596266268928114,Cleo Brushed,Spazzolato,Negro,A - Excelente,2025,False,False,0
+2025-05-12 14:20:00.765372,Fendi,4237.0,Completed,Standard,CL-529842,VIC (Top 1%),Marbella,1.078567503804508,1.012425374976362,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2025-05-12 14:20:00.765372,Louis Vuitton,1627.0,Completed,Standard,CL-553499,VIC (Top 1%),Palma,1.078567503804508,1.012425374976362,Alma BB,Epi Leather,Gris Asfalto,AB - Muy bueno,2021,True,False,4
+2025-05-15 14:20:00.765372,Prada,2023.0,Completed,Standard,CL-747106,VIC (Top 1%),Marbella,1.0416698974706025,1.1406853989698231,Cleo Brushed,Spazzolato,Verde,B - Buen estado,2018,True,False,7
+2025-05-15 14:20:00.765372,Hermès,3043.0,Completed,High_End,CL-389806,VIC (Top 1%),Marbella,1.0416698974706025,1.1406853989698231,Evelyne III PM,Clemence,Craie,AB - Muy bueno,2022,True,False,3
+2025-05-15 14:20:00.765372,Prada,2885.0,Completed,Standard,CL-330831,VIC (Top 1%),Alcobendas,1.0416698974706025,1.1406853989698231,Galleria Saffiano Small,Saffiano,Negro,B - Buen estado,2025,True,True,0
+2025-05-16 14:20:00.765372,Louis Vuitton,2239.0,Completed,Standard,CL-990521,VIC (Top 1%),Marbella,1.0568597486949158,1.1211754150108073,Neverfull MM,Monogram,Gris Asfalto,N - Nuevo,2025,False,True,0
+2025-05-17 14:20:00.765372,Fendi,2954.0,Completed,Standard,CL-711667,VIC (Top 1%),Palma,1.0833772719234078,1.0246389945756658,Fendi First Small,Nappa,Azul Marino,AB - Muy bueno,2020,True,False,5
+2025-05-17 14:20:00.765372,Louis Vuitton,3207.0,Completed,Standard,CL-606475,VIC (Top 1%),Palma,1.0833772719234078,1.0246389945756658,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2023,False,True,2
+2025-05-18 14:20:00.765372,Louis Vuitton,2402.0,Completed,Standard,CL-206903,VIC (Top 1%),Palma,1.0396930996889482,0.9766565645213896,Multi Pochette Accessoires,Monogram,Beige Trench,A - Excelente,2025,False,True,0
+2025-05-18 14:20:00.765372,Louis Vuitton,1860.0,Completed,Standard,CL-559255,VIC (Top 1%),Marbella,1.0396930996889482,0.9766565645213896,Alma BB,Epi Leather,Verde,A - Excelente,2019,False,False,6
+2025-05-20 14:20:00.765372,Fendi,2968.0,Completed,Standard,CL-206903,VIC (Top 1%),Palma,1.0732576915318406,0.934008277421126,Fendi First Small,Nappa,Azul Marino,AB - Muy bueno,2020,True,False,5
+2025-05-20 14:20:00.765372,Fendi,5241.0,Completed,Standard,CL-307464,Gold (Recurrente),Barcelona,1.0732576915318406,0.934008277421126,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,True,2
+2025-05-21 14:20:00.765372,Louis Vuitton,5880.0,Completed,Standard,CL-589169,VIC (Top 1%),Marbella,1.0424281739941177,0.886988081016877,Capucines BB,Taurillon,Rouge H,A - Excelente,2024,False,False,1
+2025-05-22 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-259961,VIC (Top 1%),Marbella,1.0579142535457409,1.0197720530314502,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,6
+2025-05-24 14:20:00.765372,Louis Vuitton,4559.0,Completed,Standard,CL-928007,VIC (Top 1%),Marbella,1.09681408943077,0.944213361191163,Capucines BB,Taurillon,Etoupe,B - Buen estado,2020,True,False,5
+2025-05-25 14:20:00.765372,Fendi,4581.0,Completed,Standard,CL-595571,Gold (Recurrente),Oleiros,1.049713115916703,1.0331401021362594,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2025,False,False,0
+2025-05-25 14:20:00.765372,Louis Vuitton,3222.0,Completed,Standard,CL-842258,Gold (Recurrente),Altea,1.049713115916703,1.0331401021362594,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2021,True,False,4
+2025-05-25 14:20:00.765372,Louis Vuitton,1469.0,Completed,Standard,CL-683421,VIC (Top 1%),Marbella,1.049713115916703,1.0331401021362594,Alma BB,Epi Leather,Gold,B - Buen estado,2020,False,True,5
+2025-05-26 14:20:00.765372,Louis Vuitton,2239.0,Completed,Standard,CL-686764,VIC (Top 1%),Palma,1.0645394949766631,1.2904596652951286,Pochette Métis,Monogram Reverse,Azul Marino,AB - Muy bueno,2022,False,True,3
+2025-05-27 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-323595,VIC (Top 1%),Marbella,0.9889426028940252,1.272218718311062,Fendi First Small,Nappa,Verde,N - Nuevo,2025,False,True,0
+2025-05-27 14:20:00.765372,Fendi,2336.0,Completed,Standard,CL-625333,VIC (Top 1%),Marbella,0.9889426028940252,1.272218718311062,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,True,5
+2025-05-29 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-217685,VIC (Top 1%),Palma,1.0615137419945715,1.468453651642106,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2021,False,False,4
+2025-05-30 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-129946,VIC (Top 1%),Alcobendas,1.0507817074402224,1.3370130341012536,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,6
+2025-05-30 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-993101,VIC (Top 1%),Marbella,1.0507817074402224,1.3370130341012536,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,3
+2025-05-31 14:20:00.765372,Hermès,4274.0,Completed,High_End,CL-514746,VIC (Top 1%),Palma,1.065381232014261,1.333695380427378,Picotin Lock 18,Clemence,Rouge H,N - Nuevo,2024,False,True,1
+2025-05-31 14:20:00.765372,Louis Vuitton,3724.0,Completed,Standard,CL-705891,VIC (Top 1%),Marbella,1.065381232014261,1.333695380427378,Onthego GM,Giant Monogram,Verde,N - Nuevo,2018,False,True,7
+2025-05-31 14:20:00.765372,Fendi,3713.0,Completed,Standard,CL-732798,VIC (Top 1%),Alcobendas,1.065381232014261,1.333695380427378,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,5
+2025-06-02 14:20:00.765372,Hermès,3043.0,Completed,High_End,CL-177076,VIC (Top 1%),Marbella,1.0798724428644686,1.2177753959476547,Evelyne III PM,Clemence,Azul Marino,AB - Muy bueno,2022,True,True,3
+2025-06-02 14:20:00.765372,Louis Vuitton,1611.0,Completed,Standard,CL-479390,Gold (Recurrente),Oviedo,1.0798724428644686,1.2177753959476547,Neverfull MM,Monogram,Rouge H,AB - Muy bueno,2023,True,True,2
+2025-06-03 14:20:00.765372,Fendi,6454.0,Completed,Standard,CL-210121,VIC (Top 1%),Marbella,1.0211230618839793,1.2967471412871583,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,5
+2025-06-04 14:20:00.765372,Louis Vuitton,7108.0,Completed,Standard,CL-114990,VIC (Top 1%),Marbella,1.0392352083079552,1.2449539190576853,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2025-06-05 14:20:00.765372,Louis Vuitton,3146.0,Completed,Standard,CL-114499,Gold (Recurrente),Barcelona,1.0266173973986472,1.2288411529392884,Onthego GM,Giant Monogram,Verde,AB - Muy bueno,2018,True,False,7
+2025-06-06 14:20:00.765372,Louis Vuitton,3146.0,Completed,Standard,CL-390785,VIC (Top 1%),Marbella,1.0513173468173127,1.2248122498790082,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2021,True,False,4
+2025-06-06 14:20:00.765372,Fendi,4479.0,Completed,Standard,CL-112208,VIC (Top 1%),Palma,1.0513173468173127,1.2248122498790082,Fendi First Small,Nappa,Rouge H,N - Nuevo,2020,True,True,5
+2025-06-06 14:20:00.765372,Celine,1993.0,Completed,Standard,CL-164360,VIC (Top 1%),Palma,1.0513173468173127,1.2248122498790082,Belt Bag Nano,Grained Calf,Beige Trench,A - Excelente,2022,True,False,3
+2025-06-07 14:20:00.765372,Louis Vuitton,1611.0,Completed,Standard,CL-898735,Gold (Recurrente),Oleiros,1.0376718698812215,1.2623304968788371,Alma BB,Epi Leather,Gold,B - Buen estado,2020,False,True,5
+2025-06-07 14:20:00.765372,Louis Vuitton,1467.0,Completed,Standard,CL-378375,VIC (Top 1%),Alcobendas,1.0376718698812215,1.2623304968788371,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,AB - Muy bueno,2023,True,False,2
+2025-06-11 14:20:00.765372,Louis Vuitton,1898.0,Completed,Standard,CL-281624,VIC (Top 1%),Palma,1.0531042492526712,1.26104170998973,Neverfull MM,Monogram,Etoupe,A - Excelente,2020,False,True,5
+2025-06-12 14:20:00.765372,Louis Vuitton,1853.0,Completed,Standard,CL-690837,Gold (Recurrente),Oleiros,1.027058243231216,1.2093371053346165,Speedy 25 Bandoulière,Damier Ebene,Etoupe,A - Excelente,2021,True,True,4
+2025-06-14 14:20:00.765372,Fendi,2336.0,Completed,Standard,CL-997950,VIC (Top 1%),Palma,1.0357858332341954,1.3227798320196753,Fendi First Small,Nappa,Beige Trench,B - Buen estado,2019,True,False,6
+2025-06-14 14:20:00.765372,Louis Vuitton,1972.0,Completed,Standard,CL-392243,Gold (Recurrente),Oviedo,1.0357858332341954,1.3227798320196753,Pochette Métis,Monogram Reverse,Negro,B - Buen estado,2025,True,True,0
+2025-06-16 14:20:00.765372,Prada,2719.0,Completed,Standard,CL-453076,Gold (Recurrente),Oleiros,1.023598427131498,1.2625713844130986,Cleo Brushed,Spazzolato,Negro,AB - Muy bueno,2018,True,False,7
+2025-06-18 14:20:00.765372,Louis Vuitton,2390.0,Completed,Standard,CL-339341,VIC (Top 1%),Marbella,1.0536521347525802,1.4280965036388886,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,N - Nuevo,2023,True,True,2
+2025-06-18 14:20:00.765372,Chanel,7073.0,Completed,High_End,CL-663533,Estándar (Ocasional),Oviedo,1.0536521347525802,1.4280965036388886,Chanel 19 Large,Goatskin,Etoupe,A - Excelente,2025,True,True,0
+2025-06-21 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-112230,VIC (Top 1%),Marbella,1.0451637808011578,1.3807928551306967,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,5
+2025-06-21 14:20:00.765372,Hermès,11296.0,Completed,High_End,CL-951327,Gold (Recurrente),Altea,1.0451637808011578,1.3807928551306967,Kelly 28 Sellier,Box Calf,Beige Trench,AB - Muy bueno,2018,False,True,7
+2025-06-21 14:20:00.765372,Prada,2719.0,Completed,Standard,CL-261259,VIC (Top 1%),Marbella,1.0451637808011578,1.3807928551306967,Re-Edition 2005,Re-Nylon,Azul Marino,N - Nuevo,2025,True,False,0
+2025-06-21 14:20:00.765372,Gucci,3716.0,Completed,Standard,CL-591081,VIC (Top 1%),Marbella,1.0451637808011578,1.3807928551306967,Dionysus Small,GG Supreme,Negro,N - Nuevo,2019,False,False,6
+2025-06-21 14:20:00.765372,Louis Vuitton,1474.0,Completed,Standard,CL-201779,VIC (Top 1%),Palma,1.0451637808011578,1.3807928551306967,Neverfull MM,Monogram,Beige Trench,AB - Muy bueno,2020,False,True,5
+2025-06-22 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-420481,VIC (Top 1%),Marbella,0.9990917075170864,1.4096082379261865,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,7
+2025-06-22 14:20:00.765372,Louis Vuitton,2494.0,Completed,Standard,CL-228810,Gold (Recurrente),Getxo,0.9990917075170864,1.4096082379261865,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2023,False,True,2
+2025-06-22 14:20:00.765372,Prada,1866.0,Completed,Standard,CL-965962,VIC (Top 1%),Marbella,0.9990917075170864,1.4096082379261865,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2021,False,True,4
+2025-06-23 14:20:00.765372,Louis Vuitton,2009.0,Completed,Standard,CL-450501,Gold (Recurrente),Oleiros,1.040586677483653,1.4629303729733492,Neverfull MM,Monogram,Etoupe,A - Excelente,2020,False,True,5
+2025-06-24 14:20:00.765372,Louis Vuitton,2488.0,Completed,Standard,CL-408663,VIC (Top 1%),Marbella,1.027423512810633,1.4070373140962948,Neverfull MM,Monogram,Gris Asfalto,N - Nuevo,2025,False,True,0
+2025-06-25 14:20:00.765372,Chanel,10735.0,Completed,High_End,CL-625333,VIC (Top 1%),Marbella,1.023287044339471,1.367086322550762,Classic Flap Medium,Caviar,Beige Trench,AB - Muy bueno,2023,False,False,2
+2025-06-26 14:20:00.765372,Louis Vuitton,3134.0,Completed,Standard,CL-965962,VIC (Top 1%),Marbella,1.0303238748514594,1.427015986063808,Multi Pochette Accessoires,Monogram,Gold,N - Nuevo,2024,True,True,1
+2025-06-29 14:20:00.765372,Louis Vuitton,5381.0,Completed,Standard,CL-376625,VIC (Top 1%),Marbella,1.041379060050627,1.4925571004894942,Capucines BB,Taurillon,Gold,A - Excelente,2021,True,False,4
+2025-06-30 14:20:00.765372,Louis Vuitton,2702.0,Completed,Standard,CL-676183,Gold (Recurrente),Getxo,1.0341721823037917,1.4421583697442917,Neverfull MM,Monogram,Azul Marino,N - Nuevo,2019,True,True,6
+2025-06-30 14:20:00.765372,Fendi,2543.0,Completed,Standard,CL-800800,VIC (Top 1%),Palma,1.0341721823037917,1.4421583697442917,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,True,5
+2025-07-01 14:20:00.765372,Gucci,2051.0,Completed,Standard,CL-547828,VIC (Top 1%),Palma,1.0440488166964277,1.439703165137764,Marmont Matelassé Small,Leather,Rouge H,AB - Muy bueno,2025,False,False,0
+2025-07-02 14:20:00.765372,Fendi,3142.0,Completed,Standard,CL-547950,VIC (Top 1%),Marbella,1.0185440934163497,1.3962384942125754,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,6
+2025-07-02 14:20:00.765372,Louis Vuitton,1467.0,Completed,Standard,CL-520285,VIC (Top 1%),Marbella,1.0185440934163497,1.3962384942125754,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,2
+2025-07-05 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-491248,Gold (Recurrente),Barcelona,1.0092064783914574,1.3419870651692674,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-07-06 14:20:00.765372,Gucci,2820.0,Completed,Standard,CL-151319,VIC (Top 1%),Palma,1.0227260485759075,1.3237290392697525,Diana Bamboo Small,Leather,Negro,AB - Muy bueno,2024,False,True,1
+2025-07-06 14:20:00.765372,Louis Vuitton,1617.0,Completed,Standard,CL-491248,Gold (Recurrente),Barcelona,1.0227260485759075,1.3237290392697525,Pochette Métis,Monogram Reverse,Gold,B - Buen estado,2024,True,False,1
+2025-07-09 14:20:00.765372,Fendi,3114.0,Completed,Standard,CL-261259,VIC (Top 1%),Marbella,1.001486263252799,1.2174378267337842,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,5
+2025-07-09 14:20:00.765372,Loewe,2166.0,Completed,Standard,CL-911802,Gold (Recurrente),Valencia,1.001486263252799,1.2174378267337842,Puzzle Mini,Satin Calf,Negro,A - Excelente,2021,False,False,4
+2025-07-10 14:20:00.765372,Celine,3359.0,Completed,Standard,CL-676465,Gold (Recurrente),Getxo,0.9823765057369463,1.1072923926256826,Triomphe Classique,Shiny Calf,Verde,AB - Muy bueno,2023,True,False,2
+2025-07-10 14:20:00.765372,Prada,1969.0,Completed,Standard,CL-686688,VIC (Top 1%),Marbella,0.9823765057369463,1.1072923926256826,Re-Edition 2005,Re-Nylon,Rouge H,A - Excelente,2022,False,False,3
+2025-07-10 14:20:00.765372,Chanel,12898.0,Completed,High_End,CL-340746,VIC (Top 1%),Palma,0.9823765057369463,1.1072923926256826,Classic Flap Medium,Caviar,Negro,N - Nuevo,2024,False,False,1
+2025-07-11 14:20:00.765372,Louis Vuitton,1600.0,Completed,Standard,CL-657392,VIC (Top 1%),Alcobendas,1.0044281245415696,1.1380646836466233,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2021,False,True,4
+2025-07-19 14:20:00.765372,Fendi,3922.0,Completed,Standard,CL-112230,VIC (Top 1%),Marbella,1.0270651309925596,1.2066555988689935,Peekaboo ISeeU Small,Selleria,Craie,AB - Muy bueno,2018,False,True,7
+2025-07-20 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-646624,VIC (Top 1%),Palma,1.0079673695490663,1.1451064776522992,Multi Pochette Accessoires,Monogram,Gold,B - Buen estado,2025,False,True,0
+2025-07-20 14:20:00.765372,Fendi,4376.0,Completed,Standard,CL-274796,VIC (Top 1%),Palma,1.0079673695490663,1.1451064776522992,Peekaboo ISeeU Small,Selleria,Azul Marino,A - Excelente,2021,True,True,4
+2025-07-20 14:20:00.765372,Fendi,4015.0,Completed,Standard,CL-678979,Gold (Recurrente),Getxo,1.0079673695490663,1.1451064776522992,Baguette 1997,Zucca Canvas,Verde,N - Nuevo,2023,False,True,2
+2025-07-20 14:20:00.765372,Louis Vuitton,3146.0,Completed,Standard,CL-181867,VIC (Top 1%),Palma,1.0079673695490663,1.1451064776522992,Multi Pochette Accessoires,Monogram,Gold,N - Nuevo,2021,True,False,4
+2025-07-21 14:20:00.765372,Fendi,5009.0,Completed,Standard,CL-409019,VIC (Top 1%),Palma,1.0163399576691925,1.1899659186065472,Fendi First Small,Nappa,Rouge H,N - Nuevo,2020,True,True,5
+2025-07-22 14:20:00.765372,Prada,1382.0,Completed,Standard,CL-676465,Gold (Recurrente),Getxo,1.0411623371214822,1.1875308909706015,Re-Edition 2005,Re-Nylon,Verde,B - Buen estado,2023,False,False,2
+2025-07-22 14:20:00.765372,Louis Vuitton,4272.0,Completed,Standard,CL-878412,VIC (Top 1%),Palma,1.0411623371214822,1.1875308909706015,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2024,True,True,1
+2025-07-26 14:20:00.765372,Prada,2487.0,Completed,Standard,CL-267981,Gold (Recurrente),Getxo,0.9797821677322957,1.02092224100269,Galleria Saffiano Small,Saffiano,Etoupe,B - Buen estado,2023,True,False,2
+2025-07-27 14:20:00.765372,Louis Vuitton,1474.0,Completed,Standard,CL-497900,VIC (Top 1%),Palma,0.9922918609543538,1.083407213092434,Speedy 25 Bandoulière,Damier Ebene,Etoupe,AB - Muy bueno,2018,False,False,7
+2025-07-30 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-637028,VIC (Top 1%),Palma,1.0050567136306083,1.0800969122099184,Peekaboo ISeeU Small,Selleria,Etoupe,AB - Muy bueno,2022,True,True,3
+2025-08-01 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-267981,Gold (Recurrente),Getxo,0.9790034229005016,1.0288635360765568,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,7
+2025-08-01 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-940149,Gold (Recurrente),Madrid,0.9790034229005016,1.0288635360765568,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2023,False,True,2
+2025-08-01 14:20:00.765372,Fendi,3285.0,Completed,Standard,CL-239742,VIC (Top 1%),Palma,0.9790034229005016,1.0288635360765568,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,3
+2025-08-02 14:20:00.765372,Louis Vuitton,5505.0,Completed,Standard,CL-523153,VIC (Top 1%),Palma,0.9830386913712476,0.9490653311318706,Capucines BB,Taurillon,Negro,A - Excelente,2021,True,False,4
+2025-08-02 14:20:00.765372,Fendi,3142.0,Completed,Standard,CL-278780,VIC (Top 1%),Marbella,0.9830386913712476,0.9490653311318706,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,1
+2025-08-03 14:20:00.765372,Celine,2151.0,Completed,Standard,CL-135432,VIC (Top 1%),Marbella,0.9880534874911912,0.939105419476065,Belt Bag Nano,Grained Calf,Beige Trench,AB - Muy bueno,2024,False,False,1
+2025-08-04 14:20:00.765372,Fendi,2954.0,Completed,Standard,CL-953879,VIC (Top 1%),Marbella,1.0179298733442688,0.991838788033966,Fendi First Small,Nappa,Azul Marino,A - Excelente,2020,False,False,5
+2025-08-05 14:20:00.765372,Louis Vuitton,2060.0,Completed,Standard,CL-340746,VIC (Top 1%),Palma,1.011603604331833,0.936529521320708,Pochette Métis,Monogram Reverse,Negro,B - Buen estado,2025,True,True,0
+2025-08-05 14:20:00.765372,Louis Vuitton,2488.0,Completed,Standard,CL-582596,VIC (Top 1%),Marbella,1.011603604331833,0.936529521320708,Pochette Métis,Monogram Reverse,Beige Trench,AB - Muy bueno,2021,False,True,4
+2025-08-06 14:20:00.765372,Celine,2124.0,Completed,Standard,CL-631064,VIC (Top 1%),Marbella,1.017447403026334,0.9724472535763784,Belt Bag Nano,Grained Calf,Gris Asfalto,AB - Muy bueno,2025,True,True,0
+2025-08-07 14:20:00.765372,Louis Vuitton,1962.0,Completed,Standard,CL-433649,VIC (Top 1%),Marbella,0.9618320348835484,0.9338294473185396,Alma BB,Epi Leather,Azul Marino,A - Excelente,2024,False,True,1
+2025-08-07 14:20:00.765372,Louis Vuitton,1853.0,Completed,Standard,CL-952944,VIC (Top 1%),Palma,0.9618320348835484,0.9338294473185396,Pochette Métis,Monogram Reverse,Negro,B - Buen estado,2025,True,True,0
+2025-08-07 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-412118,VIC (Top 1%),Alcobendas,0.9618320348835484,0.9338294473185396,Alma BB,Epi Leather,Gris Asfalto,AB - Muy bueno,2021,True,False,4
+2025-08-11 14:20:00.765372,Gucci,2990.0,Completed,Standard,CL-853000,VIC (Top 1%),Palma,0.9889412924611172,0.791876036810162,Horsebit 1955,GG Supreme,Rouge H,A - Excelente,2019,False,False,6
+2025-08-11 14:20:00.765372,Gucci,2592.0,Completed,Standard,CL-772457,VIC (Top 1%),Palma,0.9889412924611172,0.791876036810162,Marmont Matelassé Small,Leather,Negro,A - Excelente,2025,False,True,0
+2025-08-12 14:20:00.765372,Fendi,3532.0,Completed,Standard,CL-465203,VIC (Top 1%),Marbella,1.003232772349754,0.9068158769605248,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,5
+2025-08-13 14:20:00.765372,Louis Vuitton,1898.0,Completed,Standard,CL-150609,VIC (Top 1%),Palma,0.9616528332045736,0.9651761922600222,Speedy 25 Bandoulière,Damier Ebene,Craie,A - Excelente,2020,False,True,5
+2025-08-15 14:20:00.765372,Chanel,10570.0,Completed,High_End,CL-637041,VIC (Top 1%),Palma,0.999168892346068,1.0576933401836943,Classic Flap Jumbo,Caviar,Gris Asfalto,A - Excelente,2023,False,False,2
+2025-08-16 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-942670,Gold (Recurrente),Getxo,0.966240822246452,1.110453189428881,Fendi First Small,Nappa,Negro,A - Excelente,2020,True,False,5
+2025-08-16 14:20:00.765372,Fendi,3290.0,Completed,Standard,CL-740657,VIC (Top 1%),Palma,0.966240822246452,1.110453189428881,Fendi First Small,Nappa,Azul Marino,A - Excelente,2020,False,False,5
+2025-08-16 14:20:00.765372,Louis Vuitton,2131.0,Completed,Standard,CL-381353,VIC (Top 1%),Marbella,0.966240822246452,1.110453189428881,Pochette Métis,Monogram Reverse,Beige Trench,AB - Muy bueno,2021,False,True,4
+2025-08-18 14:20:00.765372,Louis Vuitton,1611.0,Completed,Standard,CL-535869,VIC (Top 1%),Alcobendas,0.9594571832577378,0.9795441081219144,Speedy 25 Bandoulière,Damier Ebene,Verde,B - Buen estado,2018,True,True,7
+2025-08-19 14:20:00.765372,Louis Vuitton,3207.0,Completed,Standard,CL-132213,VIC (Top 1%),Palma,0.9749611555670183,1.030977000214877,Pochette Métis,Monogram Reverse,Verde,A - Excelente,2019,True,True,6
+2025-08-19 14:20:00.765372,Fendi,4581.0,Completed,Standard,CL-475000,VIC (Top 1%),Palma,0.9749611555670183,1.030977000214877,Fendi First Small,Nappa,Verde,N - Nuevo,2024,False,True,1
+2025-08-20 14:20:00.765372,Louis Vuitton,3718.0,Completed,Standard,CL-551530,VIC (Top 1%),Palma,0.938750547115734,1.048484463363916,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2023,False,False,2
+2025-08-26 14:20:00.765372,Fendi,3713.0,Completed,Standard,CL-968709,VIC (Top 1%),Marbella,0.9404274387008372,1.3283565269813922,Fendi First Small,Nappa,Verde,N - Nuevo,2024,False,True,1
+2025-08-30 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-359572,VIC (Top 1%),Alcobendas,0.9551291906216496,1.4037711400886934,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2024,True,True,1
+2025-08-31 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-817884,VIC (Top 1%),Marbella,0.9669109486099732,1.422706234721532,Speedy 25 Bandoulière,Damier Ebene,Negro,A - Excelente,2020,True,False,5
+2025-09-02 14:20:00.765372,Fendi,2394.0,Completed,Standard,CL-155778,VIC (Top 1%),Palma,0.9615180622720604,1.3619479553503837,Fendi First Small,Nappa,Verde,B - Buen estado,2022,False,True,3
+2025-09-03 14:20:00.765372,Louis Vuitton,3724.0,Completed,Standard,CL-839725,VIC (Top 1%),Marbella,1.005174333600599,1.3794056861743758,Onthego GM,Giant Monogram,Rouge H,AB - Muy bueno,2025,True,True,0
+2025-09-04 14:20:00.765372,Celine,2134.0,Completed,Standard,CL-215745,Gold (Recurrente),Oleiros,0.9389046432142308,1.2684829564118674,Luggage Nano,Drummed Calf,Gris Asfalto,A - Excelente,2022,False,True,3
+2025-09-06 14:20:00.765372,Celine,2124.0,Completed,Standard,CL-400012,VIC (Top 1%),Palma,0.9556621306467992,1.0372057273415578,Belt Bag Nano,Grained Calf,Craie,A - Excelente,2019,False,True,6
+2025-09-06 14:20:00.765372,Fendi,3216.0,Completed,Standard,CL-592370,VIC (Top 1%),Marbella,0.9556621306467992,1.0372057273415578,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,3
+2025-09-06 14:20:00.765372,Celine,3359.0,Completed,Standard,CL-987556,VIC (Top 1%),Palma,0.9556621306467992,1.0372057273415578,Triomphe Classique,Shiny Calf,Gold,AB - Muy bueno,2025,True,False,0
+2025-09-08 14:20:00.765372,Prada,2023.0,Completed,Standard,CL-982426,VIC (Top 1%),Marbella,0.9347337087237692,1.1371852431883516,Re-Edition 2005,Re-Nylon,Gold,A - Excelente,2025,False,False,0
+2025-09-08 14:20:00.765372,Fendi,3708.0,Completed,Standard,CL-354367,VIC (Top 1%),Palma,0.9347337087237692,1.1371852431883516,Fendi First Small,Nappa,Rouge H,A - Excelente,2018,True,True,7
+2025-09-09 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-211886,VIP Platinum (Alto Valor),Alcobendas,1.0032557447081416,1.1421932296546895,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,True,3
+2025-09-09 14:20:00.765372,Prada,2440.0,Completed,Standard,CL-913654,VIC (Top 1%),Marbella,1.0032557447081416,1.1421932296546895,Re-Edition 2005,Re-Nylon,Azul Marino,N - Nuevo,2021,True,False,4
+2025-09-10 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-836894,VIC (Top 1%),Palma,0.9353300357324612,1.1974734905896736,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,2
+2025-09-10 14:20:00.765372,Fendi,3331.0,Completed,Standard,CL-261259,VIC (Top 1%),Marbella,0.9353300357324612,1.1974734905896736,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,1
+2025-09-11 14:20:00.765372,Louis Vuitton,1933.0,Completed,Standard,CL-219703,VIC (Top 1%),Palma,0.9795210748240898,1.1844300489109727,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,False,True,0
+2025-09-11 14:20:00.765372,Hermès,3487.0,Completed,High_End,CL-915451,Gold (Recurrente),Murcia,0.9795210748240898,1.1844300489109727,Evelyne III PM,Clemence,Azul Marino,A - Excelente,2024,False,True,1
+2025-09-12 14:20:00.765372,Prada,3447.0,Completed,Standard,CL-309559,VIC (Top 1%),Palma,0.9450004420254108,1.2080688134258186,Galleria Saffiano Small,Saffiano,Gris Asfalto,A - Excelente,2024,True,False,1
+2025-09-13 14:20:00.765372,Louis Vuitton,2605.0,Completed,Standard,CL-306041,VIC (Top 1%),Palma,0.9647424395016572,1.0841579600909996,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,N - Nuevo,2023,True,True,2
+2025-09-14 14:20:00.765372,Louis Vuitton,1804.0,Completed,Standard,CL-196067,Estándar (Ocasional),Getafe,0.9776946251124836,1.0279851089480223,Alma BB,Epi Leather,Negro,A - Excelente,2025,True,True,0
+2025-09-15 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-208486,VIC (Top 1%),Palma,0.9216117467678744,0.9303482332417776,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2021,False,False,4
+2025-09-18 14:20:00.765372,Louis Vuitton,1467.0,Completed,Standard,CL-626363,Gold (Recurrente),Getxo,0.9511766965882176,0.7576251159853253,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,2
+2025-09-19 14:20:00.765372,Fendi,2727.0,Completed,Standard,CL-330555,VIC (Top 1%),Marbella,0.9372798056744136,0.7031093770206992,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,False,5
+2025-09-19 14:20:00.765372,Louis Vuitton,6126.0,Completed,Standard,CL-382639,VIC (Top 1%),Marbella,0.9372798056744136,0.7031093770206992,Capucines BB,Taurillon,Gold,A - Excelente,2021,True,False,4
+2025-09-20 14:20:00.765372,Gucci,3237.0,Completed,Standard,CL-777203,Gold (Recurrente),Getxo,0.9403909217427008,0.7882625624033087,Horsebit 1955,GG Supreme,Negro,A - Excelente,2023,False,True,2
+2025-09-20 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-622831,VIC (Top 1%),Palma,0.9403909217427008,0.7882625624033087,Peekaboo ISeeU Small,Selleria,Verde,AB - Muy bueno,2019,False,True,6
+2025-09-21 14:20:00.765372,Gucci,3768.0,Completed,Standard,CL-730900,VIC (Top 1%),Palma,0.9194181320077314,0.856996958675075,Diana Bamboo Small,Leather,Rouge H,AB - Muy bueno,2025,False,True,0
+2025-09-21 14:20:00.765372,Louis Vuitton,1860.0,Completed,Standard,CL-987869,VIC (Top 1%),Marbella,0.9194181320077314,0.856996958675075,Alma BB,Epi Leather,Negro,A - Excelente,2025,True,True,0
+2025-09-25 14:20:00.765372,Fendi,2543.0,Completed,Standard,CL-655263,VIC (Top 1%),Marbella,0.9628140110045652,0.860232104868645,Fendi First Small,Nappa,Gold,B - Buen estado,2020,True,True,5
+2025-09-25 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-357588,VIC (Top 1%),Marbella,0.9628140110045652,0.860232104868645,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2024,True,True,1
+2025-09-26 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-608610,VIC (Top 1%),Palma,0.9509596147257728,0.9120521720368624,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2024,True,True,1
+2025-09-26 14:20:00.765372,Louis Vuitton,5578.0,Completed,Standard,CL-485165,VIC (Top 1%),Palma,0.9509596147257728,0.9120521720368624,Capucines BB,Taurillon,Verde,AB - Muy bueno,2023,True,True,2
+2025-09-27 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-538767,VIP Platinum (Alto Valor),Palma,0.9419000734064616,0.8865270259997534,Fendi First Small,Nappa,Verde,A - Excelente,2020,True,False,5
+2025-09-29 14:20:00.765372,Celine,2402.0,Completed,Standard,CL-552453,VIC (Top 1%),Marbella,0.9326411800786736,0.6463835410845187,Luggage Nano,Drummed Calf,Rouge H,A - Excelente,2023,True,False,2
+2025-09-30 14:20:00.765372,Gucci,2700.0,Completed,Standard,CL-431934,VIC (Top 1%),Palma,0.95166626158086,0.6,Marmont Matelassé Small,Leather,Beige Trench,A - Excelente,2023,False,False,2
+2025-09-30 14:20:00.765372,Prada,3447.0,Completed,Standard,CL-101450,VIC (Top 1%),Marbella,0.95166626158086,0.6,Cleo Brushed,Spazzolato,Verde,N - Nuevo,2019,False,False,6
+2025-10-02 14:20:00.765372,Chanel,3160.0,Completed,High_End,CL-754377,VIC (Top 1%),Palma,0.957808095732949,0.6,Wallet on Chain (WOC),Caviar,Negro,A - Excelente,2020,True,True,5
+2025-10-03 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-722548,Gold (Recurrente),Valencia,0.9335752022693684,0.6,Baguette 1997,Zucca Canvas,Verde,AB - Muy bueno,2022,False,True,3
+2025-10-03 14:20:00.765372,Fendi,2842.0,Completed,Standard,CL-417961,Gold (Recurrente),Murcia,0.9335752022693684,0.6,Baguette 1997,Zucca Canvas,Craie,AB - Muy bueno,2025,True,True,0
+2025-10-05 14:20:00.765372,Louis Vuitton,3724.0,Completed,Standard,CL-530883,Gold (Recurrente),Barcelona,0.937598807816996,0.6,Pochette Métis,Monogram Reverse,Beige Trench,N - Nuevo,2022,True,True,3
+2025-10-05 14:20:00.765372,Louis Vuitton,1609.0,Completed,Standard,CL-968709,VIC (Top 1%),Marbella,0.937598807816996,0.6,Neverfull MM,Monogram,Rouge H,AB - Muy bueno,2023,True,True,2
+2025-10-05 14:20:00.765372,Fendi,2818.0,Completed,Standard,CL-585444,VIC (Top 1%),Alcobendas,0.937598807816996,0.6,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-10-08 14:20:00.765372,Fendi,4376.0,Completed,Standard,CL-339341,VIC (Top 1%),Marbella,0.9714006903680786,0.6,Fendi First Small,Nappa,Negro,N - Nuevo,2020,True,True,5
+2025-10-08 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-133848,Gold (Recurrente),Palma,0.9714006903680786,0.6,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2021,False,True,4
+2025-10-10 14:20:00.765372,Fendi,5606.0,Completed,Standard,CL-879676,VIC (Top 1%),Palma,0.929984667060897,0.6,Peekaboo ISeeU Small,Selleria,Gold,A - Excelente,2018,True,True,7
+2025-10-14 14:20:00.765372,Fendi,3290.0,Completed,Standard,CL-106080,VIC (Top 1%),Marbella,0.9842854776378356,0.6,Baguette 1997,Zucca Canvas,Verde,AB - Muy bueno,2022,False,True,3
+2025-10-15 14:20:00.765372,Louis Vuitton,1804.0,Completed,Standard,CL-309559,VIC (Top 1%),Palma,0.9116149617057974,0.6,Speedy 25 Bandoulière,Damier Ebene,Negro,A - Excelente,2020,True,False,5
+2025-10-15 14:20:00.765372,Louis Vuitton,2116.0,Completed,Standard,CL-215219,Gold (Recurrente),Madrid,0.9116149617057974,0.6,Alma BB,Epi Leather,Gris Asfalto,A - Excelente,2025,True,False,0
+2025-10-15 14:20:00.765372,Chanel,2930.0,Completed,High_End,CL-399804,Gold (Recurrente),Madrid,0.9116149617057974,0.6,Wallet on Chain (WOC),Caviar,Negro,AB - Muy bueno,2018,False,True,7
+2025-10-15 14:20:00.765372,Louis Vuitton,1884.0,Completed,Standard,CL-293934,VIC (Top 1%),Palma,0.9116149617057974,0.6,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,2
+2025-10-16 14:20:00.765372,Loewe,2278.0,Completed,Standard,CL-155778,VIC (Top 1%),Palma,0.9152651870992428,0.6,Hammock Compact,Soft Grain,Craie,AB - Muy bueno,2024,False,False,1
+2025-10-17 14:20:00.765372,Louis Vuitton,5612.0,Completed,Standard,CL-853000,VIC (Top 1%),Palma,0.9095041259762552,0.6,Capucines BB,Taurillon,Beige Trench,AB - Muy bueno,2019,True,True,6
+2025-10-18 14:20:00.765372,Louis Vuitton,3262.0,Completed,Standard,CL-288053,VIP Platinum (Alto Valor),Altea,0.9838990017318592,0.6,Pochette Métis,Monogram Reverse,Negro,N - Nuevo,2020,False,False,5
+2025-10-21 14:20:00.765372,Fendi,3290.0,Completed,Standard,CL-658721,VIC (Top 1%),Palma,0.8685676212121227,0.6,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-10-21 14:20:00.765372,Fendi,5275.0,Completed,Standard,CL-974343,VIC (Top 1%),Marbella,0.8685676212121227,0.6,Peekaboo ISeeU Small,Selleria,Verde,AB - Muy bueno,2019,False,True,6
+2025-10-22 14:20:00.765372,Louis Vuitton,2119.0,Completed,Standard,CL-489811,VIC (Top 1%),Marbella,0.9032133537187388,0.6,Speedy 25 Bandoulière,Damier Ebene,Rouge H,N - Nuevo,2020,False,False,5
+2025-10-22 14:20:00.765372,Hermès,7908.0,Completed,High_End,CL-597588,VIC (Top 1%),Marbella,0.9032133537187388,0.6,Kelly 25 Retourne,Swift,Verde,B - Buen estado,2023,True,True,2
+2025-10-23 14:20:00.765372,Louis Vuitton,3106.0,Completed,Standard,CL-724478,VIC (Top 1%),Palma,0.910661366567918,0.6,Multi Pochette Accessoires,Monogram,Gold,N - Nuevo,2021,True,False,4
+2025-10-26 14:20:00.765372,Louis Vuitton,3724.0,Completed,Standard,CL-374175,VIC (Top 1%),Marbella,0.9544191709268688,0.6,Onthego GM,Giant Monogram,Rouge H,AB - Muy bueno,2025,True,True,0
+2025-10-29 14:20:00.765372,Fendi,3906.0,Completed,Standard,CL-321726,Gold (Recurrente),Barcelona,0.934573128433454,0.6,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2018,False,True,7
+2025-10-31 14:20:00.765372,Louis Vuitton,1844.0,Completed,Standard,CL-788844,Gold (Recurrente),Alcorcón,0.9123070398210658,0.6,Alma BB,Epi Leather,Negro,A - Excelente,2025,True,True,0
+2025-10-31 14:20:00.765372,Prada,2440.0,Completed,Standard,CL-223990,VIC (Top 1%),Marbella,0.9123070398210658,0.6,Re-Edition 2005,Re-Nylon,Craie,N - Nuevo,2022,False,True,3
+2025-10-31 14:20:00.765372,Fendi,3906.0,Completed,Standard,CL-807216,VIC (Top 1%),Marbella,0.9123070398210658,0.6,Fendi First Small,Nappa,Verde,N - Nuevo,2024,False,True,1
+2025-10-31 14:20:00.765372,Louis Vuitton,6126.0,Completed,Standard,CL-136728,VIC (Top 1%),Palma,0.9123070398210658,0.6,Capucines BB,Taurillon,Craie,A - Excelente,2025,False,True,0
+2025-10-31 14:20:00.765372,Fendi,3408.0,Completed,Standard,CL-976805,VIC (Top 1%),Marbella,0.9123070398210658,0.6,Baguette 1997,Zucca Canvas,Rouge H,N - Nuevo,2021,False,True,4
+2025-11-01 14:20:00.765372,Louis Vuitton,2605.0,Completed,Standard,CL-164187,Gold (Recurrente),Alcorcón,0.9378327844420948,0.6,Pochette Métis,Monogram Reverse,Beige Trench,A - Excelente,2023,False,True,2
+2025-11-02 14:20:00.765372,Louis Vuitton,1474.0,Completed,Standard,CL-172857,VIC (Top 1%),Marbella,0.9028238082970657,0.6,Neverfull MM,Monogram,Verde,B - Buen estado,2021,True,True,4
+2025-11-02 14:20:00.765372,Fendi,3285.0,Completed,Standard,CL-452002,Gold (Recurrente),Madrid,0.9028238082970657,0.6,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,3
+2025-11-03 14:20:00.765372,Louis Vuitton,1414.0,Completed,Standard,CL-827618,VIC (Top 1%),Palma,0.9436557689804544,0.6,Neverfull MM,Monogram,Beige Trench,AB - Muy bueno,2020,False,True,5
+2025-11-04 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-151384,VIC (Top 1%),Marbella,0.9401687794452456,0.6,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,5
+2025-11-05 14:20:00.765372,Loewe,2082.0,Completed,Standard,CL-464389,VIC (Top 1%),Palma,0.899356249912974,0.6,Gate Dual Mini,Soft Calf,Beige Trench,A - Excelente,2024,True,False,1
+2025-11-05 14:20:00.765372,Fendi,5243.0,Completed,Standard,CL-462764,Gold (Recurrente),Getxo,0.899356249912974,0.6,Peekaboo ISeeU Small,Selleria,Verde,A - Excelente,2020,True,False,5
+2025-11-06 14:20:00.765372,Fendi,6454.0,Completed,Standard,CL-511778,VIC (Top 1%),Marbella,0.8943990131716696,0.6,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,3
+2025-11-07 14:20:00.765372,Louis Vuitton,3207.0,Completed,Standard,CL-471535,VIC (Top 1%),Palma,0.9161522532696916,0.6,Onthego GM,Giant Monogram,Azul Marino,A - Excelente,2021,True,False,4
+2025-11-11 14:20:00.765372,Louis Vuitton,1617.0,Completed,Standard,CL-462764,Gold (Recurrente),Getxo,0.922465413545645,0.6,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2019,False,False,6
+2025-11-12 14:20:00.765372,Fendi,3824.0,Completed,Standard,CL-419409,VIC (Top 1%),Marbella,0.9086830626529062,0.6,Fendi First Small,Nappa,Gris Asfalto,AB - Muy bueno,2024,True,True,1
+2025-11-12 14:20:00.765372,Fendi,3290.0,Completed,Standard,CL-184467,VIC (Top 1%),Palma,0.9086830626529062,0.6,Baguette 1997,Zucca Canvas,Verde,N - Nuevo,2023,False,True,2
+2025-11-13 14:20:00.765372,Chanel,4785.0,Completed,High_End,CL-383406,VIP Platinum (Alto Valor),Madrid,0.8668303167737105,0.6,Boy Bag Old Medium,Calfskin,Verde,B - Buen estado,2019,False,False,6
+2025-11-14 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-286339,VIC (Top 1%),Marbella,0.9345060149233532,0.6,Fendi First Small,Nappa,Verde,A - Excelente,2022,False,False,3
+2025-11-16 14:20:00.765372,Fendi,6331.0,Completed,Standard,CL-770339,VIC (Top 1%),Marbella,0.8691063430509435,0.6,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,5
+2025-11-16 14:20:00.765372,Louis Vuitton,1884.0,Completed,Standard,CL-718923,VIC (Top 1%),Marbella,0.8691063430509435,0.6,Neverfull MM,Monogram,Etoupe,A - Excelente,2020,False,True,5
+2025-11-18 14:20:00.765372,Fendi,3180.0,Completed,Standard,CL-697688,VIC (Top 1%),Palma,0.9166449702008428,0.6,Fendi First Small,Nappa,Azul Marino,A - Excelente,2020,False,False,5
+2025-11-20 14:20:00.765372,Louis Vuitton,1815.0,Completed,Standard,CL-702617,Gold (Recurrente),Barcelona,0.8901897138323721,0.6,Speedy 25 Bandoulière,Damier Ebene,Gold,AB - Muy bueno,2023,False,True,2
+2025-11-21 14:20:00.765372,Fendi,4738.0,Completed,Standard,CL-852056,VIC (Top 1%),Marbella,0.8974578486132786,0.6,Peekaboo ISeeU Small,Selleria,Azul Marino,A - Excelente,2021,True,True,4
+2025-11-22 14:20:00.765372,Louis Vuitton,1694.0,Completed,Standard,CL-379796,VIC (Top 1%),Marbella,0.8783717080063306,0.6,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,AB - Muy bueno,2019,False,False,6
+2025-11-23 14:20:00.765372,Fendi,4581.0,Completed,Standard,CL-993469,VIC (Top 1%),Palma,0.9053720088333312,0.6,Peekaboo ISeeU Small,Selleria,Etoupe,AB - Muy bueno,2022,True,True,3
+2025-11-23 14:20:00.765372,Fendi,4581.0,Completed,Standard,CL-738547,VIC (Top 1%),Marbella,0.9053720088333312,0.6,Fendi First Small,Nappa,Negro,N - Nuevo,2020,True,True,5
+2025-11-24 14:20:00.765372,Celine,3802.0,Completed,Standard,CL-334084,Gold (Recurrente),Alcorcón,0.9097439476772884,0.6,Triomphe Classique,Shiny Calf,Gold,A - Excelente,2019,False,True,6
+2025-11-24 14:20:00.765372,Gucci,1808.0,Completed,Standard,CL-976805,VIC (Top 1%),Marbella,0.9097439476772884,0.6,Marmont Matelassé Small,Leather,Craie,AB - Muy bueno,2019,False,True,6
+2025-11-24 14:20:00.765372,Hermès,3530.0,Completed,High_End,CL-973890,VIC (Top 1%),Marbella,0.9097439476772884,0.6,Evelyne III PM,Clemence,Azul Marino,A - Excelente,2024,False,True,1
+2025-11-24 14:20:00.765372,Louis Vuitton,1884.0,Completed,Standard,CL-635318,VIC (Top 1%),Palma,0.9097439476772884,0.6,Alma BB,Epi Leather,Etoupe,A - Excelente,2018,True,False,7
+2025-11-27 14:20:00.765372,Louis Vuitton,3152.0,Completed,Standard,CL-193387,VIC (Top 1%),Palma,0.9154610822082944,0.6124472254653385,Multi Pochette Accessoires,Monogram,Verde,N - Nuevo,2024,False,True,1
+2025-11-27 14:20:00.765372,Fendi,3290.0,Completed,Standard,CL-722548,Gold (Recurrente),Valencia,0.9154610822082944,0.6124472254653385,Fendi First Small,Nappa,Verde,AB - Muy bueno,2024,False,True,1
+2025-11-30 14:20:00.765372,Louis Vuitton,3207.0,Completed,Standard,CL-202679,VIC (Top 1%),Palma,0.8686583461166256,0.7007586230751878,Multi Pochette Accessoires,Monogram,Negro,N - Nuevo,2018,True,False,7
+2025-12-01 14:20:00.765372,Louis Vuitton,1694.0,Completed,Standard,CL-987869,VIC (Top 1%),Marbella,0.8875516714369158,0.8308737972240049,Alma BB,Epi Leather,Verde,A - Excelente,2023,False,True,2
+2025-12-02 14:20:00.765372,Louis Vuitton,6126.0,Completed,Standard,CL-736804,VIC (Top 1%),Alcobendas,0.913898470465396,0.8681049117550755,Capucines BB,Taurillon,Beige Trench,AB - Muy bueno,2018,False,False,7
+2025-12-04 14:20:00.765372,Fendi,4449.0,Completed,Standard,CL-709211,VIC (Top 1%),Palma,0.8747066003734982,0.923031384632134,Peekaboo ISeeU Small,Selleria,Gold,AB - Muy bueno,2024,False,True,1
+2025-12-06 14:20:00.765372,Fendi,4394.0,Completed,Standard,CL-453202,VIC (Top 1%),Marbella,0.9200004045590436,0.9675023901122218,Fendi First Small,Nappa,Gris Asfalto,N - Nuevo,2018,False,True,7
+2025-12-08 14:20:00.765372,Prada,3110.0,Completed,Standard,CL-553026,Gold (Recurrente),Oleiros,0.9004595820341638,0.924128716997424,Galleria Saffiano Small,Saffiano,Negro,B - Buen estado,2025,True,True,0
+2025-12-08 14:20:00.765372,Louis Vuitton,1838.0,Completed,Standard,CL-259451,VIC (Top 1%),Palma,0.9004595820341638,0.924128716997424,Neverfull MM,Monogram,Negro,A - Excelente,2020,False,True,5
+2025-12-09 14:20:00.765372,Fendi,3111.0,Completed,Standard,CL-523153,VIC (Top 1%),Palma,0.9064165012012124,0.9961563207655972,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,3
+2025-12-10 14:20:00.765372,Fendi,4479.0,Completed,Standard,CL-732798,VIC (Top 1%),Alcobendas,0.8800217041647705,0.9996729339337992,Fendi First Small,Nappa,Gris Asfalto,N - Nuevo,2018,False,True,7
+2025-12-10 14:20:00.765372,Louis Vuitton,1627.0,Completed,Standard,CL-653764,Gold (Recurrente),Ourense,0.8800217041647705,0.9996729339337992,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,AB - Muy bueno,2023,True,False,2
+2025-12-12 14:20:00.765372,Louis Vuitton,3108.0,Completed,Standard,CL-663579,VIC (Top 1%),Marbella,0.8897268741723369,1.1196056746405618,Onthego GM,Giant Monogram,Azul Marino,A - Excelente,2019,False,True,6
+2025-12-13 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-567534,VIC (Top 1%),Marbella,0.8619275551123691,1.038520986908195,Peekaboo ISeeU Small,Selleria,Craie,N - Nuevo,2020,False,True,5
+2025-12-13 14:20:00.765372,Fendi,4213.0,Completed,Standard,CL-835748,VIC (Top 1%),Palma,0.8619275551123691,1.038520986908195,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2018,False,True,7
+2025-12-14 14:20:00.765372,Fendi,5009.0,Completed,Standard,CL-768360,Gold (Recurrente),Murcia,0.9000364083817596,0.9746033999476876,Peekaboo ISeeU Small,Selleria,Etoupe,AB - Muy bueno,2022,True,True,3
+2025-12-16 14:20:00.765372,Fendi,3331.0,Completed,Standard,CL-207581,VIC (Top 1%),Marbella,0.9081390461612032,0.906384267967811,Baguette 1997,Zucca Canvas,Verde,N - Nuevo,2023,False,True,2
+2025-12-16 14:20:00.765372,Fendi,5324.0,Completed,Standard,CL-777733,Gold (Recurrente),Madrid,0.9081390461612032,0.906384267967811,Peekaboo ISeeU Small,Selleria,Rouge H,A - Excelente,2022,False,True,3
+2025-12-16 14:20:00.765372,Celine,1744.0,Completed,Standard,CL-179156,Gold (Recurrente),Alcobendas,0.9081390461612032,0.906384267967811,Ava Bag,Triomphe Canvas,Rouge H,AB - Muy bueno,2025,False,True,0
+2025-12-17 14:20:00.765372,Prada,1694.0,Completed,Standard,CL-821375,Gold (Recurrente),Alcobendas,0.9348035951410338,0.7323799846949901,Re-Edition 2005,Re-Nylon,Gold,A - Excelente,2020,True,False,5
+2025-12-19 14:20:00.765372,Fendi,3114.0,Completed,Standard,CL-287547,Gold (Recurrente),Madrid,0.8719541475442322,0.7698826613924566,Fendi First Small,Nappa,Beige Trench,AB - Muy bueno,2019,True,False,6
+2025-12-20 14:20:00.765372,Chanel,12167.0,Completed,High_End,CL-551530,VIC (Top 1%),Palma,0.8723992313151397,0.8025934477141818,Classic Flap Medium,Caviar,Azul Marino,A - Excelente,2025,True,True,0
+2025-12-20 14:20:00.765372,Louis Vuitton,1611.0,Completed,Standard,CL-607278,Gold (Recurrente),Madrid,0.8723992313151397,0.8025934477141818,Speedy 25 Bandoulière,Damier Ebene,Verde,B - Buen estado,2018,True,True,7
+2025-12-21 14:20:00.765372,Louis Vuitton,3106.0,Completed,Standard,CL-515294,VIC (Top 1%),Marbella,0.8675360851497096,0.8009317516709784,Pochette Métis,Monogram Reverse,Gold,A - Excelente,2023,False,True,2
+2025-12-21 14:20:00.765372,Louis Vuitton,3172.0,Completed,Standard,CL-933177,VIC (Top 1%),Marbella,0.8675360851497096,0.8009317516709784,Onthego GM,Giant Monogram,Beige Trench,AB - Muy bueno,2025,True,True,0
+2025-12-22 14:20:00.765372,Chanel,3160.0,Completed,High_End,CL-611538,Gold (Recurrente),Alcorcón,0.8893074662329955,0.7998061266936219,Wallet on Chain (WOC),Caviar,Etoupe,B - Buen estado,2022,True,True,3
+2025-12-24 14:20:00.765372,Louis Vuitton,5384.0,Completed,Standard,CL-259423,VIC (Top 1%),Alcobendas,0.8697278880713896,0.7077575616623057,Capucines BB,Taurillon,Beige Trench,AB - Muy bueno,2018,False,False,7
+2025-12-24 14:20:00.765372,Prada,3343.0,Completed,Standard,CL-112208,VIC (Top 1%),Palma,0.8697278880713896,0.7077575616623057,Galleria Saffiano Small,Saffiano,Gris Asfalto,A - Excelente,2024,True,False,1
+2025-12-25 14:20:00.765372,Fendi,3331.0,Completed,Standard,CL-464051,Gold (Recurrente),Alcobendas,0.8695078755852449,0.7369112512282183,Baguette 1997,Zucca Canvas,Rouge H,N - Nuevo,2021,False,True,4
+2025-12-26 14:20:00.765372,Hermès,9723.0,Completed,High_End,CL-506993,Gold (Recurrente),Alcobendas,0.896809220587451,0.7373355427389395,Constance 18,Evercolor,Etoupe,A - Excelente,2022,True,True,3
+2025-12-26 14:20:00.765372,Gucci,2541.0,Completed,Standard,CL-835748,VIC (Top 1%),Palma,0.896809220587451,0.7373355427389395,Jackie 1961 Small,GG Supreme,Negro,AB - Muy bueno,2018,True,False,7
+2025-12-29 14:20:00.765372,Fendi,5083.0,Completed,Standard,CL-166323,VIC (Top 1%),Alcobendas,0.8856180142779839,0.725788675234979,Peekaboo ISeeU Small,Selleria,Gold,AB - Muy bueno,2024,False,True,1
+2025-12-30 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-408671,VIC (Top 1%),Marbella,0.8523528358170894,0.7068612746805777,Fendi First Small,Nappa,Azul Marino,N - Nuevo,2022,False,False,3
+2025-12-31 14:20:00.765372,Louis Vuitton,3081.0,Completed,Standard,CL-816222,VIC (Top 1%),Palma,0.9064880596653332,0.6687089473272938,Pochette Métis,Monogram Reverse,Beige Trench,N - Nuevo,2022,True,True,3
+2026-01-02 14:20:00.765372,Fendi,3884.0,Completed,Standard,CL-969007,Gold (Recurrente),Barcelona,0.9025592576157018,0.6,Baguette 1997,Zucca Canvas,Verde,A - Excelente,2021,False,True,5
+2026-01-05 14:20:00.765372,Gucci,2065.0,Completed,Standard,CL-591958,VIC (Top 1%),Marbella,0.8966246251031269,0.6417108425170049,Jackie 1961 Small,GG Supreme,Azul Marino,B - Buen estado,2024,False,True,2
+2026-01-07 14:20:00.765372,Celine,2123.0,Completed,Standard,CL-923348,VIC (Top 1%),Palma,0.8932561587283936,0.7099393112925562,Luggage Nano,Drummed Calf,Gris Asfalto,A - Excelente,2022,False,True,4
+2026-01-07 14:20:00.765372,Fendi,3244.0,Completed,Standard,CL-254956,VIC (Top 1%),Palma,0.8932561587283936,0.7099393112925562,Fendi First Small,Nappa,Negro,A - Excelente,2022,False,False,4
+2026-01-08 14:20:00.765372,Fendi,4213.0,Completed,Standard,CL-892994,VIC (Top 1%),Palma,0.9179868725124124,0.7218699308442268,Peekaboo ISeeU Small,Selleria,Beige Trench,AB - Muy bueno,2018,False,True,8
+2026-01-10 14:20:00.765372,Louis Vuitton,2952.0,Completed,Standard,CL-800151,VIP Platinum (Alto Valor),Palma,0.8911690167791937,0.8294570433914988,Multi Pochette Accessoires,Monogram,Rouge H,N - Nuevo,2023,False,True,3
+2026-01-12 14:20:00.765372,Fendi,3173.0,Completed,Standard,CL-364706,VIC (Top 1%),Marbella,0.8918838487557403,0.8516188554844826,Baguette 1997,Zucca Canvas,Beige Trench,A - Excelente,2022,False,False,4
+2026-01-15 14:20:00.765372,Louis Vuitton,1767.0,Completed,Standard,CL-959188,VIC (Top 1%),Palma,0.8655058546014717,0.8016292972690751,Alma BB,Epi Leather,Azul Marino,A - Excelente,2018,True,False,8
+2026-01-16 14:20:00.765372,Gucci,2353.0,Completed,Standard,CL-177076,VIC (Top 1%),Marbella,0.8781424461551953,0.9091885315421117,Marmont Matelassé Small,Leather,Negro,A - Excelente,2025,False,True,1
+2026-01-16 14:20:00.765372,Fendi,6696.0,Completed,Standard,CL-849348,VIC (Top 1%),Palma,0.8781424461551953,0.9091885315421117,Peekaboo ISeeU Small,Selleria,Craie,A - Excelente,2019,True,True,7
+2026-01-16 14:20:00.765372,Chanel,9086.0,Completed,High_End,CL-286339,VIC (Top 1%),Marbella,0.8781424461551953,0.9091885315421117,Classic Flap Medium,Caviar,Verde,A - Excelente,2020,False,False,6
+2026-01-17 14:20:00.765372,Fendi,3331.0,Completed,Standard,CL-475000,VIC (Top 1%),Palma,0.8431028160768043,0.9027499834459508,Baguette 1997,Zucca Canvas,Rouge H,A - Excelente,2019,False,True,7
+2026-01-18 14:20:00.765372,Louis Vuitton,4272.0,Completed,Standard,CL-608692,Gold (Recurrente),Madrid,0.8589230753624245,0.8472681140656017,Onthego GM,Giant Monogram,Etoupe,A - Excelente,2024,True,True,2

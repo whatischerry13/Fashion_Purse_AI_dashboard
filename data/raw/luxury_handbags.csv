@@ -1,0 +1,801 @@
+Ref_Interna,Marca,Modelo,Material,Color,Herrajes,Año_Fabricacion,Estado_General,Disponibilidad,Has_Box,Has_Papers,Has_Dustbag,Has_Receipt,Sourcing_Type,Precio_Retail_USD,Coste_Compra_EUR,Precio_Venta_EUR,Margen_Bruto_EUR,Margen_Pct,Descripcion_Corta
+HP-93511,Hermès,Evelyne III PM,Clemence,Etoupe,Paladio (PHW),2019,N - Nuevo,En Stock (24h),False,False,True,False,Owned,3800,3411,4806,1395,29.0,Casual y funcional con la H perforada.
+HP-20134,Fendi,Fendi First Small,Nappa,Rouge H,Oro Viejo,2018,A - Excelente,Reservado,True,True,True,False,Owned,3400,2123,3290,1167,35.4,La F arquitectónica.
+HP-66809,Gucci,Diana Bamboo Small,Leather,Rouge H,Rutenio,2024,AB - Muy bueno,En Sourcing,True,True,True,False,Owned,3600,2004,3076,1072,34.8,Asas de bambú neón.
+HP-18369,Prada,Re-Edition 2005,Re-Nylon,Rouge H,Oro (GHW),2021,A - Excelente,En Stock (24h),False,True,True,True,Owned,1980,1029,1825,796,43.6,El icono del Y2K.
+HP-63158,Celine,Ava Bag,Triomphe Canvas,Rouge H,Oro Viejo,2020,N - Nuevo,En Stock (24h),False,False,True,True,Consignment,1700,1675,2123,448,21.1,La silueta de media luna.
+HP-38764,Chanel,Wallet on Chain (WOC),Caviar,Etoupe,Oro (GHW),2022,B - Buen estado,En Sourcing,True,True,True,True,Owned,3500,1673,2845,1172,41.2,El esencial de entrada a la marca.
+HP-77653,Chanel,Classic Flap Jumbo,Caviar,Rouge H,Oro (GHW),2020,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Consignment,11000,11993,14118,2125,15.0,Para quien necesita más espacio.
+HP-42927,Prada,Re-Edition 2005,Re-Nylon,Rouge H,Champagne,2024,A - Excelente,En Sourcing,True,True,True,True,Owned,1980,1537,2084,547,26.2,El icono del Y2K.
+HP-65903,Loewe,Puzzle Small,Classic Calf,Gold,Oro (GHW),2019,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,3100,2781,3561,780,21.9,Obra maestra geométrica.
+HP-67477,Fendi,Baguette 1997,Zucca Canvas,Verde,Champagne,2021,A - Excelente,En Stock (24h),False,True,True,False,Consignment,3200,2680,3343,663,19.8,"It's not a bag, it's a Baguette."
+HP-38484,Louis Vuitton,Alma BB,Epi Leather,Gris Asfalto,Oro Viejo,2021,AB - Muy bueno,En Stock (24h),True,False,True,True,Owned,1980,1349,1804,455,25.2,Estructura Art Deco atemporal.
+HP-44494,Bottega Veneta,The Pouch,Butter Calf,Gold,Champagne,2022,A - Excelente,En Stock (24h),False,True,True,True,Owned,3200,1840,2968,1128,38.0,El clutch que inició la era.
+HP-20456,Dior,Lady Dior Mini,Satin/Strass,Craie,Paladio (PHW),2024,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Owned,5300,3025,4747,1722,36.3,Joya de noche.
+HP-49834,Chanel,Chanel 19 Large,Goatskin,Gris Asfalto,Rutenio,2018,B - Buen estado,Reservado,True,False,True,False,Owned,7100,3005,4785,1780,37.2,Modernidad con acolchado maxi.
+HP-57838,Bottega Veneta,Cassette Padded,Lambskin,Verde,Rutenio,2018,B - Buen estado,En Stock (24h),True,True,True,True,Consignment,4500,3143,3742,599,16.0,El Intrecciato maxi.
+HP-15829,Fendi,Baguette 1997,Zucca Canvas,Rouge H,Oro Viejo,2019,A - Excelente,En Stock (24h),False,True,True,False,Consignment,3200,2420,2968,548,18.5,"It's not a bag, it's a Baguette."
+HP-40121,Chanel,Boy Bag Old Medium,Calfskin,Craie,Paladio (PHW),2019,N - Nuevo,En Stock (24h),False,True,True,True,Consignment,6700,7166,8469,1303,15.4,Estilo rock-chic con bordes gráficos.
+HP-31354,Gucci,Marmont Matelassé Small,Leather,Negro,Oro (GHW),2022,N - Nuevo,En Stock (24h),True,False,True,False,Owned,2550,2095,2932,837,28.5,El superventas de la década.
+HP-72463,Prada,Cleo Brushed,Spazzolato,Azul Marino,Champagne,2025,N - Nuevo,Reservado,False,True,True,False,Consignment,2900,3209,3812,603,15.8,Futurismo retro.
+HP-25925,Dior,Book Tote Medium,Toile de Jouy,Rouge H,Oro Viejo,2020,AB - Muy bueno,En Sourcing,True,False,True,True,Owned,3300,1997,2952,955,32.3,El bolso de viaje de la élite.
+HP-92383,Chanel,Chanel 19 Large,Goatskin,Negro,Oro Viejo,2021,A - Excelente,Reservado,False,False,True,False,Owned,7100,4178,6725,2547,37.9,Modernidad con acolchado maxi.
+HP-62304,Gucci,Horsebit 1955,GG Supreme,Gold,Oro Viejo,2024,AB - Muy bueno,En Stock (24h),True,True,True,True,Owned,2890,2034,3028,994,32.8,Estilo ecuestre vintage.
+HP-69077,Hermès,Birkin 30,Epsom,Verde,Oro Viejo,2018,AB - Muy bueno,Reservado,True,True,True,False,Consignment,11200,8434,10072,1638,16.3,"Tamaño clásico, estructura rígida."
+HP-49949,Fendi,Peekaboo ISeeU Small,Selleria,Craie,Paladio (PHW),2019,A - Excelente,En Stock (24h),True,True,True,True,Consignment,5400,4697,6001,1304,21.7,Artesanía romana.
+HP-86704,Prada,Galleria Saffiano Small,Saffiano,Negro,Champagne,2018,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Consignment,3600,3571,4386,815,18.6,El maletín ejecutivo.
+HP-36014,Chanel,Wallet on Chain (WOC),Caviar,Rouge H,Champagne,2018,N - Nuevo,En Sourcing,False,True,True,True,Owned,3500,2747,4444,1697,38.2,El esencial de entrada a la marca.
+HP-98253,Dior,Book Tote Medium,Toile de Jouy,Azul Marino,Champagne,2022,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,3300,2176,3425,1249,36.5,El bolso de viaje de la élite.
+HP-12701,Dior,Book Tote Medium,Toile de Jouy,Verde,Rutenio,2023,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Consignment,3300,2655,3300,645,19.5,El bolso de viaje de la élite.
+HP-65384,Celine,Belt Bag Nano,Grained Calf,Azul Marino,Oro (GHW),2020,N - Nuevo,En Stock (24h),True,True,True,False,Owned,2300,1796,2766,970,35.1,Funcionalidad y discreción.
+HP-32252,Loewe,Puzzle Mini,Satin Calf,Gris Asfalto,Oro (GHW),2022,N - Nuevo,En Sourcing,False,True,True,False,Owned,2400,1759,2948,1189,40.3,El favorito de las influencers.
+HP-84704,Bottega Veneta,Cassette Padded,Lambskin,Negro,Champagne,2020,N - Nuevo,Reservado,True,False,True,False,Owned,4500,3638,5522,1884,34.1,El Intrecciato maxi.
+HP-53344,Louis Vuitton,Onthego GM,Giant Monogram,Negro,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Consignment,3100,2471,2952,481,16.3,Maxi logo para impacto visual.
+HP-90744,Louis Vuitton,Pochette Métis,Monogram Reverse,Gold,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,2700,1584,2815,1231,43.7,El satchel perfecto para diario.
+HP-72567,Dior,Book Tote Medium,Toile de Jouy,Gris Asfalto,Paladio (PHW),2021,A - Excelente,En Stock (24h),False,False,True,False,Consignment,3300,2693,3210,517,16.1,El bolso de viaje de la élite.
+HP-45920,Bottega Veneta,The Pouch,Butter Calf,Negro,Oro (GHW),2020,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Consignment,3200,2986,3555,569,16.0,El clutch que inició la era.
+HP-62127,Chanel,Boy Bag Old Medium,Calfskin,Negro,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,6700,3783,6487,2704,41.7,Estilo rock-chic con bordes gráficos.
+HP-41537,Bottega Veneta,Jodie Teen,Suede Intrecciato,Beige Trench,Champagne,2025,A - Excelente,En Stock (24h),True,False,True,False,Owned,3500,1950,3179,1229,38.7,Tamaño perfecto para diario.
+HP-33181,Gucci,Horsebit 1955,GG Supreme,Negro,Oro Viejo,2023,A - Excelente,Reservado,False,True,True,False,Owned,2890,1897,2786,889,31.9,Estilo ecuestre vintage.
+HP-76089,Fendi,Fendi First Small,Nappa,Negro,Paladio (PHW),2020,N - Nuevo,En Stock (24h),True,True,True,False,Owned,3400,3027,4237,1210,28.5,La F arquitectónica.
+HP-76878,Gucci,Marmont Matelassé Small,Leather,Beige Trench,Oro Viejo,2023,A - Excelente,En Stock (24h),False,False,True,False,Owned,2550,1798,2613,815,31.2,El superventas de la década.
+HP-87374,Celine,Ava Bag,Triomphe Canvas,Gris Asfalto,Champagne,2023,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,True,Owned,1700,1116,1530,414,27.0,La silueta de media luna.
+HP-55484,Bottega Veneta,Jodie Mini,Intrecciato,Craie,Oro Viejo,2022,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,2650,2162,2578,416,16.1,El nudo viral.
+HP-70290,Bottega Veneta,Jodie Teen,Suede Intrecciato,Beige Trench,Paladio (PHW),2024,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Consignment,3500,3022,3615,593,16.4,Tamaño perfecto para diario.
+HP-60916,Fendi,Fendi First Small,Nappa,Azul Marino,Oro (GHW),2020,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,3400,1800,3111,1311,42.1,La F arquitectónica.
+HP-20392,Celine,Ava Bag,Triomphe Canvas,Rouge H,Rutenio,2021,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,1700,1142,1425,283,19.9,La silueta de media luna.
+HP-78280,Chanel,Wallet on Chain (WOC),Caviar,Craie,Rutenio,2020,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,3500,1622,2938,1316,44.8,El esencial de entrada a la marca.
+HP-13453,Prada,Galleria Saffiano Small,Saffiano,Azul Marino,Champagne,2025,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,3600,1919,3343,1424,42.6,El maletín ejecutivo.
+HP-79365,Chanel,Classic Flap Small,Lambskin,Azul Marino,Rutenio,2019,AB - Muy bueno,En Sourcing,True,False,True,True,Owned,9600,5297,8734,3437,39.3,"Suavidad extrema, cuidado delicado."
+HP-22709,Chanel,Boy Bag Old Medium,Calfskin,Gold,Oro (GHW),2018,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Owned,6700,3656,5467,1811,33.1,Estilo rock-chic con bordes gráficos.
+HP-32725,Celine,Ava Bag,Triomphe Canvas,Rouge H,Paladio (PHW),2020,A - Excelente,En Stock (24h),False,False,True,False,Consignment,1700,1365,1741,376,21.6,La silueta de media luna.
+HP-86182,Loewe,Puzzle Small,Classic Calf,Craie,Oro (GHW),2024,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Owned,3100,1648,2865,1217,42.5,Obra maestra geométrica.
+HP-89240,Dior,Book Tote Medium,Toile de Jouy,Negro,Rutenio,2022,A - Excelente,En Stock (24h),False,False,True,False,Owned,3300,1866,3164,1298,41.0,El bolso de viaje de la élite.
+HP-50707,Prada,Cleo Brushed,Spazzolato,Azul Marino,Oro (GHW),2022,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,2900,1987,2345,358,15.2,Futurismo retro.
+HP-30404,Hermès,Constance 18,Evercolor,Azul Marino,Paladio (PHW),2018,N - Nuevo,En Sourcing,True,False,True,False,Owned,8900,6613,10412,3799,36.5,La H icónica. Perfecto para crossbody.
+HP-41775,Gucci,Dionysus Small,GG Supreme,Rouge H,Rutenio,2025,AB - Muy bueno,En Sourcing,True,True,True,False,Owned,2980,1547,2700,1153,42.7,Cierre de cabeza de tigre mitológico.
+HP-41692,Dior,Lady Dior ABC (Small),Lambskin,Etoupe,Oro Viejo,2024,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,5900,4299,5323,1024,19.2,El bolso de la Princesa Diana.
+HP-97620,Fendi,Fendi First Small,Nappa,Azul Marino,Oro Viejo,2020,AB - Muy bueno,En Sourcing,True,False,True,False,Owned,3400,2120,3173,1053,33.2,La F arquitectónica.
+HP-51067,Fendi,Peekaboo ISeeU Small,Selleria,Verde,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,False,True,False,Consignment,5400,4240,5275,1035,19.6,Artesanía romana.
+HP-20783,Hermès,Kelly 28 Sellier,Box Calf,Gold,Champagne,2022,AB - Muy bueno,Reservado,True,False,True,False,Owned,12500,7382,11241,3859,34.3,Elegancia estructurada con costuras visibles.
+HP-42881,Dior,Book Tote Medium,Toile de Jouy,Negro,Rutenio,2018,A - Excelente,En Stock (24h),False,True,True,False,Consignment,3300,2694,3406,712,20.9,El bolso de viaje de la élite.
+HP-38721,Bottega Veneta,Jodie Mini,Intrecciato,Verde,Oro (GHW),2023,A - Excelente,En Stock (24h),False,True,True,False,Consignment,2650,2281,2762,481,17.4,El nudo viral.
+HP-32613,Chanel,Chanel 19 Large,Goatskin,Negro,Oro (GHW),2022,AB - Muy bueno,En Stock (24h),True,False,True,True,Consignment,7100,5471,6605,1134,17.2,Modernidad con acolchado maxi.
+HP-53245,Dior,Book Tote Medium,Toile de Jouy,Etoupe,Oro (GHW),2020,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,3300,1756,2695,939,34.8,El bolso de viaje de la élite.
+HP-58081,Hermès,Constance 18,Evercolor,Rouge H,Oro (GHW),2021,A - Excelente,En Stock (24h),False,True,True,False,Owned,8900,5493,8531,3038,35.6,La H icónica. Perfecto para crossbody.
+HP-92405,Gucci,Horsebit 1955,GG Supreme,Gold,Oro (GHW),2019,A - Excelente,En Stock (24h),True,False,True,True,Owned,2890,1747,2960,1213,41.0,Estilo ecuestre vintage.
+HP-78584,Dior,30 Montaigne,Box Calf,Verde,Oro Viejo,2019,A - Excelente,En Stock (24h),True,True,True,False,Owned,3900,2698,4005,1307,32.6,Elegancia minimalista con cierre CD.
+HP-83520,Bottega Veneta,Jodie Mini,Intrecciato,Beige Trench,Champagne,2020,A - Excelente,En Stock (24h),True,False,True,False,Owned,2650,1618,2648,1030,38.9,El nudo viral.
+HP-66325,Celine,Belt Bag Nano,Grained Calf,Gold,Paladio (PHW),2023,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,2300,1688,2134,446,20.9,Funcionalidad y discreción.
+HP-93038,Chanel,Chanel 19 Large,Goatskin,Rouge H,Champagne,2019,AB - Muy bueno,En Stock (24h),False,False,True,True,Consignment,7100,4584,5792,1208,20.9,Modernidad con acolchado maxi.
+HP-99449,Fendi,Baguette 1997,Zucca Canvas,Verde,Rutenio,2023,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Consignment,3200,2975,3708,733,19.8,"It's not a bag, it's a Baguette."
+HP-30957,Chanel,Chanel 19 Large,Goatskin,Etoupe,Oro Viejo,2020,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,7100,3804,6037,2233,37.0,Modernidad con acolchado maxi.
+HP-14951,Dior,Book Tote Medium,Toile de Jouy,Craie,Rutenio,2023,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Consignment,3300,2578,3083,505,16.4,El bolso de viaje de la élite.
+HP-40589,Loewe,Puzzle Small,Classic Calf,Verde,Rutenio,2023,A - Excelente,En Stock (24h),True,False,True,False,Owned,3100,1858,2826,968,34.3,Obra maestra geométrica.
+HP-43557,Celine,Ava Bag,Triomphe Canvas,Azul Marino,Champagne,2025,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,1700,1120,1593,473,29.6,La silueta de media luna.
+HP-96960,Chanel,Chanel 19 Large,Goatskin,Gold,Champagne,2021,A - Excelente,En Stock (24h),False,False,True,False,Owned,7100,4776,7284,2508,34.4,Modernidad con acolchado maxi.
+HP-31258,Loewe,Puzzle Mini,Satin Calf,Rouge H,Rutenio,2018,AB - Muy bueno,En Sourcing,False,False,True,False,Consignment,2400,1708,2099,391,18.6,El favorito de las influencers.
+HP-75538,Gucci,Jackie 1961 Small,GG Supreme,Verde,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,False,True,False,Consignment,2950,2561,3023,462,15.3,El hobo bag renacido.
+HP-18145,Hermès,Birkin 25,Togo,Gold,Oro (GHW),2025,N - Nuevo,Bajo Pedido (15 días),True,False,True,True,Consignment,10400,10000,12299,2299,18.7,El bolso más deseado del mundo.
+HP-43367,Dior,30 Montaigne,Box Calf,Craie,Champagne,2025,A - Excelente,En Stock (24h),True,False,True,False,Consignment,3900,3132,3877,745,19.2,Elegancia minimalista con cierre CD.
+HP-46602,Louis Vuitton,Alma BB,Epi Leather,Verde,Champagne,2018,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,1980,969,1694,725,42.7,Estructura Art Deco atemporal.
+HP-79147,Bottega Veneta,Cassette Padded,Lambskin,Craie,Rutenio,2018,B - Buen estado,En Stock (24h),True,True,True,False,Owned,4500,2266,3034,768,25.3,El Intrecciato maxi.
+HP-72678,Louis Vuitton,Alma BB,Epi Leather,Verde,Oro Viejo,2019,A - Excelente,En Stock (24h),False,False,True,True,Owned,1980,1402,1898,496,26.1,Estructura Art Deco atemporal.
+HP-66616,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gold,Oro (GHW),2019,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,3500,2387,3620,1233,34.0,Tamaño perfecto para diario.
+HP-98374,Hermès,Kelly 28 Sellier,Box Calf,Rouge H,Champagne,2023,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Consignment,12500,13066,16131,3065,19.0,Elegancia estructurada con costuras visibles.
+HP-20746,Prada,Re-Edition 2005,Re-Nylon,Rouge H,Paladio (PHW),2020,A - Excelente,En Stock (24h),True,False,True,False,Consignment,1980,1576,1913,337,17.6,El icono del Y2K.
+HP-83457,Chanel,Classic Flap Medium,Caviar,Gris Asfalto,Oro (GHW),2021,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,True,Owned,10300,6162,10570,4408,41.7,El rey de la reventa. Piel resistente.
+HP-66972,Celine,Belt Bag Nano,Grained Calf,Etoupe,Oro (GHW),2023,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Owned,2300,1354,1986,632,31.8,Funcionalidad y discreción.
+HP-12677,Fendi,Peekaboo ISeeU Small,Selleria,Rouge H,Oro Viejo,2022,A - Excelente,En Stock (24h),False,True,True,False,Owned,5400,3954,5606,1652,29.5,Artesanía romana.
+HP-92216,Gucci,Marmont Matelassé Small,Leather,Azul Marino,Champagne,2022,A - Excelente,En Stock (24h),True,True,True,False,Owned,2550,1420,2524,1104,43.7,El superventas de la década.
+HP-48395,Loewe,Flamenco Clutch,Nappa Calf,Rouge H,Paladio (PHW),2023,AB - Muy bueno,En Stock (24h),True,True,True,False,Consignment,2450,1737,2101,364,17.3,Suavidad y nudos característicos.
+HP-57926,Chanel,Classic Flap Medium,Caviar,Beige Trench,Paladio (PHW),2023,AB - Muy bueno,En Stock (24h),False,False,True,True,Consignment,10300,7816,9313,1497,16.1,El rey de la reventa. Piel resistente.
+HP-36307,Hermès,Picotin Lock 18,Clemence,Gris Asfalto,Champagne,2024,A - Excelente,En Sourcing,False,False,True,False,Consignment,3400,2799,3304,505,15.3,El bucket bag de lujo por excelencia.
+HP-17736,Chanel,Wallet on Chain (WOC),Caviar,Craie,Rutenio,2019,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Owned,3500,2510,3413,903,26.4,El esencial de entrada a la marca.
+HP-17550,Fendi,Fendi First Small,Nappa,Beige Trench,Champagne,2019,B - Buen estado,En Stock (24h),True,False,True,False,Consignment,3400,1946,2394,448,18.7,La F arquitectónica.
+HP-95495,Chanel,Classic Flap Medium,Caviar,Verde,Oro Viejo,2020,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Consignment,10300,8422,10074,1652,16.4,El rey de la reventa. Piel resistente.
+HP-32276,Chanel,Classic Flap Medium,Caviar,Negro,Champagne,2024,N - Nuevo,Bajo Pedido (15 días),False,False,True,True,Owned,10300,7576,12214,4638,38.0,El rey de la reventa. Piel resistente.
+HP-55007,Hermès,Evelyne III PM,Clemence,Gold,Oro Viejo,2025,A - Excelente,En Sourcing,True,True,True,True,Owned,3800,2616,4191,1575,37.6,Casual y funcional con la H perforada.
+HP-42178,Bottega Veneta,The Pouch,Butter Calf,Etoupe,Champagne,2020,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,3200,2341,4221,1880,44.5,El clutch que inició la era.
+HP-81903,Dior,Book Tote Medium,Toile de Jouy,Gris Asfalto,Oro Viejo,2018,AB - Muy bueno,En Stock (24h),True,False,True,True,Consignment,3300,2264,2801,537,19.2,El bolso de viaje de la élite.
+HP-35683,Bottega Veneta,Jodie Mini,Intrecciato,Rouge H,Rutenio,2023,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Consignment,2650,1709,2146,437,20.3,El nudo viral.
+HP-95621,Hermès,Birkin 25,Togo,Beige Trench,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,10400,5447,9426,3979,42.2,El bolso más deseado del mundo.
+HP-27284,Dior,Book Tote Medium,Toile de Jouy,Verde,Oro (GHW),2025,A - Excelente,En Stock (24h),False,False,True,False,Consignment,3300,2695,3185,490,15.4,El bolso de viaje de la élite.
+HP-24230,Dior,Saddle Bag,Oblique Jacquard,Etoupe,Paladio (PHW),2021,B - Buen estado,En Sourcing,True,False,True,True,Consignment,4200,2584,3219,635,19.7,El retorno del icono de los 2000.
+HP-56644,Gucci,Jackie 1961 Small,GG Supreme,Gold,Rutenio,2021,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,2950,1746,2739,993,36.2,El hobo bag renacido.
+HP-59548,Loewe,Hammock Compact,Soft Grain,Craie,Oro Viejo,2021,N - Nuevo,En Stock (24h),True,False,True,False,Consignment,2950,2866,3436,570,16.6,Versatilidad total.
+HP-22899,Celine,Ava Bag,Triomphe Canvas,Beige Trench,Rutenio,2023,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,1700,948,1571,623,39.6,La silueta de media luna.
+HP-16696,Hermès,Kelly 28 Sellier,Box Calf,Gris Asfalto,Rutenio,2023,A - Excelente,En Stock (24h),False,False,True,True,Consignment,12500,9746,11970,2224,18.6,Elegancia estructurada con costuras visibles.
+HP-95434,Prada,Re-Edition 2005,Re-Nylon,Verde,Oro (GHW),2019,A - Excelente,En Stock (24h),False,False,True,False,Owned,1980,1301,1825,524,28.7,El icono del Y2K.
+HP-91970,Louis Vuitton,Capucines BB,Taurillon,Craie,Oro Viejo,2021,AB - Muy bueno,En Sourcing,False,True,True,False,Consignment,6100,4142,4960,818,16.5,La apuesta de LV por el ultra-lujo.
+HP-63346,Prada,Re-Edition 2005,Re-Nylon,Craie,Champagne,2019,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Owned,1980,989,1694,705,41.6,El icono del Y2K.
+HP-18129,Dior,30 Montaigne,Box Calf,Negro,Paladio (PHW),2022,A - Excelente,En Stock (24h),False,True,True,True,Owned,3900,2607,3775,1168,30.9,Elegancia minimalista con cierre CD.
+HP-75612,Prada,Galleria Saffiano Small,Saffiano,Negro,Rutenio,2025,B - Buen estado,Bajo Pedido (15 días),True,True,True,False,Owned,3600,1875,2719,844,31.0,El maletín ejecutivo.
+HP-22726,Loewe,Puzzle Mini,Satin Calf,Negro,Paladio (PHW),2021,A - Excelente,En Sourcing,False,False,True,False,Owned,2400,1559,2166,607,28.0,El favorito de las influencers.
+HP-97933,Hermès,Constance 18,Evercolor,Beige Trench,Oro Viejo,2022,A - Excelente,En Sourcing,False,False,True,False,Owned,8900,5521,9266,3745,40.4,La H icónica. Perfecto para crossbody.
+HP-70865,Dior,Lady Dior ABC (Small),Lambskin,Verde,Paladio (PHW),2018,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Consignment,5900,4186,5165,979,18.9,El bolso de la Princesa Diana.
+HP-34446,Gucci,Dionysus Small,GG Supreme,Negro,Rutenio,2019,N - Nuevo,Bajo Pedido (15 días),False,False,True,True,Owned,2980,2697,3768,1071,28.4,Cierre de cabeza de tigre mitológico.
+HP-61392,Fendi,Peekaboo ISeeU Small,Selleria,Beige Trench,Oro Viejo,2018,AB - Muy bueno,Reservado,False,True,True,False,Consignment,5400,3756,4479,723,16.1,Artesanía romana.
+HP-78258,Loewe,Hammock Compact,Soft Grain,Verde,Rutenio,2024,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,2950,1955,2708,753,27.8,Versatilidad total.
+HP-64479,Louis Vuitton,Onthego GM,Giant Monogram,Beige Trench,Rutenio,2025,AB - Muy bueno,En Stock (24h),True,True,True,True,Owned,3100,2064,3172,1108,34.9,Maxi logo para impacto visual.
+HP-83898,Hermès,Kelly 25 Retourne,Swift,Gris Asfalto,Oro (GHW),2018,N - Nuevo,Bajo Pedido (15 días),True,True,True,True,Consignment,11800,14508,17297,2789,16.1,Acabado suave y relajado.
+HP-63365,Fendi,Peekaboo ISeeU Small,Selleria,Rouge H,Oro (GHW),2019,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,5400,3804,4738,934,19.7,Artesanía romana.
+HP-17666,Loewe,Flamenco Clutch,Nappa Calf,Verde,Oro (GHW),2020,B - Buen estado,Bajo Pedido (15 días),True,True,True,False,Owned,2450,1136,1647,511,31.0,Suavidad y nudos característicos.
+HP-75556,Prada,Cleo Brushed,Spazzolato,Beige Trench,Oro (GHW),2021,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,2900,1976,2992,1016,33.9,Futurismo retro.
+HP-54067,Hermès,Picotin Lock 18,Clemence,Gold,Rutenio,2021,B - Buen estado,Bajo Pedido (15 días),True,False,True,True,Consignment,3400,1981,2371,390,16.4,El bucket bag de lujo por excelencia.
+HP-69160,Bottega Veneta,Jodie Mini,Intrecciato,Craie,Champagne,2025,N - Nuevo,En Stock (24h),False,False,True,False,Consignment,2650,2741,3285,544,16.5,El nudo viral.
+HP-94148,Prada,Galleria Saffiano Small,Saffiano,Rouge H,Oro Viejo,2024,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Consignment,3600,3874,4629,755,16.3,El maletín ejecutivo.
+HP-50146,Bottega Veneta,Jodie Mini,Intrecciato,Craie,Oro Viejo,2025,A - Excelente,En Stock (24h),True,False,True,False,Consignment,2650,2225,2703,478,17.7,El nudo viral.
+HP-52935,Bottega Veneta,Cassette Padded,Lambskin,Etoupe,Paladio (PHW),2024,B - Buen estado,En Stock (24h),True,False,True,False,Consignment,4500,2621,3274,653,19.9,El Intrecciato maxi.
+HP-13284,Chanel,Classic Flap Small,Lambskin,Rouge H,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Consignment,9600,7776,9171,1395,15.2,"Suavidad extrema, cuidado delicado."
+HP-32904,Gucci,Horsebit 1955,GG Supreme,Beige Trench,Oro Viejo,2025,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,2890,1684,2671,987,36.9,Estilo ecuestre vintage.
+HP-30283,Hermès,Birkin 30,Epsom,Negro,Oro Viejo,2018,A - Excelente,En Sourcing,True,False,True,True,Consignment,11200,9077,11004,1927,17.5,"Tamaño clásico, estructura rígida."
+HP-22295,Hermès,Evelyne III PM,Clemence,Negro,Paladio (PHW),2018,B - Buen estado,En Stock (24h),True,True,True,False,Owned,3800,1636,2796,1160,41.5,Casual y funcional con la H perforada.
+HP-59153,Dior,Lady Dior ABC (Small),Lambskin,Negro,Paladio (PHW),2019,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,5900,3198,5780,2582,44.7,El bolso de la Princesa Diana.
+HP-35975,Celine,Triomphe Classique,Shiny Calf,Azul Marino,Oro (GHW),2020,B - Buen estado,En Stock (24h),False,False,True,False,Consignment,3950,2414,2866,452,15.8,El nuevo clásico parisino.
+HP-31101,Dior,Book Tote Medium,Toile de Jouy,Gold,Champagne,2023,N - Nuevo,Bajo Pedido (15 días),False,False,True,True,Owned,3300,2440,4075,1635,40.1,El bolso de viaje de la élite.
+HP-63486,Louis Vuitton,Capucines BB,Taurillon,Verde,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),True,True,True,False,Owned,6100,3471,5381,1910,35.5,La apuesta de LV por el ultra-lujo.
+HP-85956,Chanel,2.55 Reissue 226,Aged Calfskin,Beige Trench,Oro (GHW),2025,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,10300,6356,9359,3003,32.1,El original de Coco Chanel.
+HP-49481,Gucci,Marmont Matelassé Small,Leather,Gris Asfalto,Rutenio,2018,N - Nuevo,En Sourcing,True,False,True,False,Owned,2550,1934,2948,1014,34.4,El superventas de la década.
+HP-14395,Bottega Veneta,Jodie Mini,Intrecciato,Gold,Oro (GHW),2025,N - Nuevo,En Stock (24h),True,False,True,False,Owned,2650,2267,3224,957,29.7,El nudo viral.
+HP-33453,Gucci,Dionysus Small,GG Supreme,Etoupe,Champagne,2025,N - Nuevo,Bajo Pedido (15 días),False,False,True,True,Owned,2980,2016,3645,1629,44.7,Cierre de cabeza de tigre mitológico.
+HP-99198,Chanel,2.55 Reissue 226,Aged Calfskin,Beige Trench,Oro Viejo,2018,B - Buen estado,En Stock (24h),True,True,True,False,Owned,10300,4913,7521,2608,34.7,El original de Coco Chanel.
+HP-97634,Hermès,Picotin Lock 18,Clemence,Azul Marino,Paladio (PHW),2020,N - Nuevo,En Stock (24h),False,False,True,True,Consignment,3400,3658,4458,800,17.9,El bucket bag de lujo por excelencia.
+HP-45701,Dior,Book Tote Medium,Toile de Jouy,Beige Trench,Champagne,2023,A - Excelente,En Stock (24h),True,False,True,False,Owned,3300,2182,3075,893,29.0,El bolso de viaje de la élite.
+HP-26699,Celine,Belt Bag Nano,Grained Calf,Rouge H,Paladio (PHW),2024,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,2300,1189,2139,950,44.4,Funcionalidad y discreción.
+HP-41424,Dior,30 Montaigne,Box Calf,Rouge H,Rutenio,2024,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,3900,2337,3645,1308,35.9,Elegancia minimalista con cierre CD.
+HP-34980,Prada,Re-Edition 2005,Re-Nylon,Craie,Rutenio,2022,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Owned,1980,1445,2495,1050,42.0,El icono del Y2K.
+HP-11451,Prada,Re-Edition 2005,Re-Nylon,Rouge H,Oro (GHW),2019,A - Excelente,En Stock (24h),False,True,True,False,Owned,1980,1192,1922,730,38.0,El icono del Y2K.
+HP-15734,Loewe,Hammock Compact,Soft Grain,Craie,Champagne,2022,A - Excelente,En Sourcing,False,False,True,True,Owned,2950,1566,2675,1109,41.4,Versatilidad total.
+HP-95969,Loewe,Puzzle Mini,Satin Calf,Rouge H,Champagne,2024,A - Excelente,En Stock (24h),True,True,True,False,Owned,2400,1622,2297,675,29.4,El favorito de las influencers.
+HP-57325,Chanel,Wallet on Chain (WOC),Caviar,Gris Asfalto,Rutenio,2023,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,3500,1777,3111,1334,42.9,El esencial de entrada a la marca.
+HP-78591,Louis Vuitton,Onthego GM,Giant Monogram,Verde,Oro (GHW),2018,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,3100,2320,2822,502,17.8,Maxi logo para impacto visual.
+HP-45297,Dior,Saddle Bag,Oblique Jacquard,Gris Asfalto,Rutenio,2019,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Consignment,4200,3215,4075,860,21.1,El retorno del icono de los 2000.
+HP-14663,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Etoupe,Oro (GHW),2018,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Owned,1800,814,1467,653,44.5,Icono urbano indestructible.
+HP-12988,Dior,30 Montaigne,Box Calf,Etoupe,Oro (GHW),2020,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Owned,3900,2272,3568,1296,36.3,Elegancia minimalista con cierre CD.
+HP-15243,Chanel,Classic Flap Jumbo,Caviar,Craie,Champagne,2024,N - Nuevo,En Sourcing,False,True,True,False,Owned,11000,9088,13773,4685,34.0,Para quien necesita más espacio.
+HP-88790,Celine,Ava Bag,Triomphe Canvas,Gold,Oro Viejo,2025,N - Nuevo,En Stock (24h),False,False,True,False,Owned,1700,1313,2213,900,40.6,La silueta de media luna.
+HP-25502,Hermès,Picotin Lock 18,Clemence,Negro,Paladio (PHW),2024,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,3400,2198,3467,1269,36.6,El bucket bag de lujo por excelencia.
+HP-70092,Hermès,Kelly 25 Retourne,Swift,Verde,Oro Viejo,2025,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,11800,7770,10872,3102,28.5,Acabado suave y relajado.
+HP-44251,Hermès,Evelyne III PM,Clemence,Craie,Oro Viejo,2019,A - Excelente,En Stock (24h),True,False,True,False,Owned,3800,2658,3941,1283,32.5,Casual y funcional con la H perforada.
+HP-69197,Chanel,Wallet on Chain (WOC),Caviar,Etoupe,Rutenio,2020,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,3500,1818,3240,1422,43.9,El esencial de entrada a la marca.
+HP-76970,Louis Vuitton,Pochette Métis,Monogram Reverse,Verde,Champagne,2023,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,2700,1337,2402,1065,44.3,El satchel perfecto para diario.
+HP-88879,Louis Vuitton,Pochette Métis,Monogram Reverse,Beige Trench,Paladio (PHW),2022,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Owned,2700,1967,3260,1293,39.7,El satchel perfecto para diario.
+HP-62524,Fendi,Fendi First Small,Nappa,Verde,Oro Viejo,2022,B - Buen estado,Bajo Pedido (15 días),False,True,True,False,Owned,3400,1522,2265,743,32.8,La F arquitectónica.
+HP-89827,Celine,Belt Bag Nano,Grained Calf,Rouge H,Oro Viejo,2022,N - Nuevo,En Stock (24h),True,False,True,True,Consignment,2300,2386,2938,552,18.8,Funcionalidad y discreción.
+HP-32946,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gris Asfalto,Oro Viejo,2018,N - Nuevo,En Stock (24h),False,False,True,True,Owned,3500,2885,4332,1447,33.4,Tamaño perfecto para diario.
+HP-70716,Fendi,Fendi First Small,Nappa,Verde,Champagne,2018,A - Excelente,En Sourcing,True,True,True,True,Owned,3400,2187,3713,1526,41.1,La F arquitectónica.
+HP-59301,Hermès,Picotin Lock 18,Clemence,Gris Asfalto,Rutenio,2025,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,3400,2437,3119,682,21.8,El bucket bag de lujo por excelencia.
+HP-59274,Gucci,Jackie 1961 Small,GG Supreme,Gold,Rutenio,2022,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Consignment,2950,1964,2399,435,18.1,El hobo bag renacido.
+HP-31265,Chanel,Classic Flap Medium,Caviar,Negro,Oro Viejo,2023,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,True,Owned,10300,6314,9217,2903,31.5,El rey de la reventa. Piel resistente.
+HP-39020,Hermès,Kelly 28 Sellier,Box Calf,Gold,Paladio (PHW),2024,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,12500,7684,11296,3612,32.0,Elegancia estructurada con costuras visibles.
+HP-42743,Fendi,Peekaboo ISeeU Small,Selleria,Etoupe,Champagne,2018,N - Nuevo,En Stock (24h),True,True,True,True,Owned,5400,5648,7857,2209,28.1,Artesanía romana.
+HP-48661,Gucci,Horsebit 1955,GG Supreme,Etoupe,Rutenio,2021,AB - Muy bueno,En Stock (24h),False,False,True,True,Owned,2890,1544,2541,997,39.2,Estilo ecuestre vintage.
+HP-28494,Chanel,Wallet on Chain (WOC),Caviar,Negro,Rutenio,2018,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Consignment,3500,3059,3622,563,15.5,El esencial de entrada a la marca.
+HP-61650,Chanel,Classic Flap Medium,Caviar,Craie,Champagne,2022,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,10300,6634,10461,3827,36.6,El rey de la reventa. Piel resistente.
+HP-67214,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Verde,Champagne,2020,N - Nuevo,En Stock (24h),True,False,True,True,Owned,1800,1322,2116,794,37.5,Icono urbano indestructible.
+HP-67454,Dior,30 Montaigne,Box Calf,Azul Marino,Oro (GHW),2018,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,3900,2195,3650,1455,39.9,Elegancia minimalista con cierre CD.
+HP-64051,Hermès,Kelly 28 Sellier,Box Calf,Verde,Champagne,2018,A - Excelente,En Stock (24h),True,False,True,False,Consignment,12500,9368,11776,2408,20.4,Elegancia estructurada con costuras visibles.
+HP-39970,Bottega Veneta,The Pouch,Butter Calf,Negro,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,True,True,False,Consignment,3200,2540,3187,647,20.3,El clutch que inició la era.
+HP-57799,Bottega Veneta,Jodie Teen,Suede Intrecciato,Craie,Paladio (PHW),2020,A - Excelente,En Stock (24h),False,False,True,False,Owned,3500,2672,3578,906,25.3,Tamaño perfecto para diario.
+HP-32019,Bottega Veneta,Jodie Mini,Intrecciato,Gris Asfalto,Oro (GHW),2024,A - Excelente,En Stock (24h),False,False,True,False,Owned,2650,1910,2624,714,27.2,El nudo viral.
+HP-39313,Hermès,Kelly 25 Retourne,Swift,Gold,Oro Viejo,2022,A - Excelente,En Stock (24h),True,False,True,False,Owned,11800,7042,10992,3950,35.9,Acabado suave y relajado.
+HP-52206,Dior,30 Montaigne,Box Calf,Azul Marino,Paladio (PHW),2021,N - Nuevo,En Sourcing,True,True,True,False,Owned,3900,3408,5052,1644,32.5,Elegancia minimalista con cierre CD.
+HP-29239,Celine,Luggage Nano,Drummed Calf,Verde,Oro (GHW),2024,N - Nuevo,En Sourcing,False,False,True,False,Owned,2600,2026,3359,1333,39.7,El rostro inconfundible.
+HP-42540,Fendi,Fendi First Small,Nappa,Negro,Champagne,2020,A - Excelente,En Stock (24h),True,False,True,False,Consignment,3400,2683,3244,561,17.3,La F arquitectónica.
+HP-63092,Loewe,Gate Dual Mini,Soft Calf,Verde,Oro Viejo,2024,AB - Muy bueno,Reservado,False,False,True,True,Consignment,1950,1521,1800,279,15.5,El saddle bag español.
+HP-56846,Dior,Book Tote Medium,Toile de Jouy,Beige Trench,Oro Viejo,2023,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Owned,3300,2000,3002,1002,33.3,El bolso de viaje de la élite.
+HP-19683,Prada,Galleria Saffiano Small,Saffiano,Craie,Oro (GHW),2019,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Consignment,3600,3605,4256,651,15.3,El maletín ejecutivo.
+HP-93305,Celine,Ava Bag,Triomphe Canvas,Beige Trench,Rutenio,2020,A - Excelente,En Sourcing,False,True,True,True,Owned,1700,930,1544,614,39.8,La silueta de media luna.
+HP-41926,Bottega Veneta,Jodie Mini,Intrecciato,Negro,Champagne,2021,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,2650,1393,2195,802,36.5,El nudo viral.
+HP-42144,Fendi,Baguette 1997,Zucca Canvas,Beige Trench,Oro (GHW),2022,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,3200,1875,2935,1060,36.1,"It's not a bag, it's a Baguette."
+HP-58888,Chanel,Classic Flap Small,Lambskin,Gold,Champagne,2020,AB - Muy bueno,En Stock (24h),False,False,True,True,Owned,9600,5176,8560,3384,39.5,"Suavidad extrema, cuidado delicado."
+HP-38602,Louis Vuitton,Neverfull MM,Monogram,Rouge H,Champagne,2025,N - Nuevo,Reservado,False,True,True,False,Consignment,1950,1989,2544,555,21.8,El tote más vendido de la historia.
+HP-72309,Prada,Cleo Brushed,Spazzolato,Verde,Paladio (PHW),2019,N - Nuevo,En Stock (24h),False,False,True,False,Consignment,2900,3157,3770,613,16.3,Futurismo retro.
+HP-55312,Dior,Book Tote Medium,Toile de Jouy,Rouge H,Champagne,2025,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Owned,3300,2405,4130,1725,41.8,El bolso de viaje de la élite.
+HP-28005,Dior,Lady Dior Mini,Satin/Strass,Azul Marino,Paladio (PHW),2021,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Consignment,5300,5630,6703,1073,16.0,Joya de noche.
+HP-98033,Dior,Lady Dior Mini,Satin/Strass,Rouge H,Champagne,2024,A - Excelente,En Stock (24h),True,False,True,False,Owned,5300,3047,5110,2063,40.4,Joya de noche.
+HP-75526,Loewe,Hammock Compact,Soft Grain,Verde,Champagne,2024,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,2950,1984,2419,435,17.9,Versatilidad total.
+HP-67954,Loewe,Gate Dual Mini,Soft Calf,Etoupe,Oro (GHW),2018,AB - Muy bueno,En Stock (24h),True,True,True,True,Owned,1950,1191,1930,739,38.2,El saddle bag español.
+HP-42512,Bottega Veneta,Cassette Padded,Lambskin,Azul Marino,Rutenio,2025,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Consignment,4500,4528,5506,978,17.7,El Intrecciato maxi.
+HP-89717,Fendi,Fendi First Small,Nappa,Verde,Rutenio,2024,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,3400,1785,2842,1057,37.2,La F arquitectónica.
+HP-74098,Chanel,Classic Flap Jumbo,Caviar,Gris Asfalto,Oro (GHW),2023,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Consignment,11000,8172,10465,2293,21.9,Para quien necesita más espacio.
+HP-48732,Celine,Belt Bag Nano,Grained Calf,Rouge H,Oro (GHW),2020,AB - Muy bueno,En Stock (24h),True,True,True,False,Consignment,2300,1653,2091,438,20.9,Funcionalidad y discreción.
+HP-60122,Hermès,Picotin Lock 18,Clemence,Craie,Oro (GHW),2019,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Owned,3400,2129,3530,1401,39.7,El bucket bag de lujo por excelencia.
+HP-70476,Dior,Lady Dior ABC (Small),Lambskin,Craie,Champagne,2020,B - Buen estado,En Stock (24h),False,True,True,True,Owned,5900,2974,3971,997,25.1,El bolso de la Princesa Diana.
+HP-78066,Dior,Book Tote Medium,Toile de Jouy,Negro,Rutenio,2021,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,3300,3192,3771,579,15.3,El bolso de viaje de la élite.
+HP-30636,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gold,Oro Viejo,2023,N - Nuevo,En Stock (24h),False,True,True,False,Consignment,3500,3468,4243,775,18.3,Tamaño perfecto para diario.
+HP-10354,Louis Vuitton,Multi Pochette Accessoires,Monogram,Gold,Oro Viejo,2024,N - Nuevo,En Sourcing,True,True,True,False,Consignment,2600,2630,3152,522,16.5,El favorito del Street Style.
+HP-32716,Chanel,Chanel 19 Large,Goatskin,Beige Trench,Champagne,2023,B - Buen estado,Bajo Pedido (15 días),False,True,True,False,Owned,7100,3681,5095,1414,27.7,Modernidad con acolchado maxi.
+HP-27077,Fendi,Peekaboo ISeeU Small,Selleria,Craie,Oro Viejo,2020,N - Nuevo,Bajo Pedido (15 días),False,True,True,True,Owned,5400,4704,6454,1750,27.1,Artesanía romana.
+HP-67190,Celine,Belt Bag Nano,Grained Calf,Craie,Oro Viejo,2019,A - Excelente,Reservado,False,True,True,False,Consignment,2300,1741,2167,426,19.6,Funcionalidad y discreción.
+HP-54091,Gucci,Diana Bamboo Small,Leather,Rouge H,Oro (GHW),2025,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,3600,2359,3333,974,29.2,Asas de bambú neón.
+HP-68133,Celine,Belt Bag Nano,Grained Calf,Gold,Paladio (PHW),2018,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,2300,1193,2036,843,41.4,Funcionalidad y discreción.
+HP-70046,Bottega Veneta,Cassette Padded,Lambskin,Negro,Oro Viejo,2023,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,4500,4707,5569,862,15.5,El Intrecciato maxi.
+HP-11686,Louis Vuitton,Capucines BB,Taurillon,Rouge H,Paladio (PHW),2019,B - Buen estado,En Stock (24h),True,False,True,False,Consignment,6100,3759,4559,800,17.5,La apuesta de LV por el ultra-lujo.
+HP-25515,Gucci,Marmont Matelassé Small,Leather,Craie,Oro (GHW),2018,A - Excelente,En Stock (24h),True,True,True,False,Owned,2550,1701,2370,669,28.2,El superventas de la década.
+HP-61259,Louis Vuitton,Alma BB,Epi Leather,Azul Marino,Champagne,2024,A - Excelente,En Sourcing,False,True,True,False,Owned,1980,1097,1815,718,39.5,Estructura Art Deco atemporal.
+HP-41713,Chanel,Classic Flap Medium,Caviar,Gris Asfalto,Champagne,2021,A - Excelente,En Sourcing,False,True,True,False,Owned,10300,6239,10589,4350,41.1,El rey de la reventa. Piel resistente.
+HP-74187,Chanel,Classic Flap Medium,Caviar,Negro,Oro Viejo,2024,A - Excelente,En Stock (24h),True,False,True,True,Owned,10300,6695,10735,4040,37.6,El rey de la reventa. Piel resistente.
+HP-46219,Celine,Luggage Nano,Drummed Calf,Azul Marino,Oro (GHW),2024,N - Nuevo,En Stock (24h),False,True,True,False,Consignment,2600,2716,3342,626,18.7,El rostro inconfundible.
+HP-78125,Dior,Book Tote Medium,Toile de Jouy,Gold,Oro Viejo,2023,A - Excelente,En Stock (24h),True,False,True,False,Consignment,3300,2718,3420,702,20.5,El bolso de viaje de la élite.
+HP-42229,Hermès,Picotin Lock 18,Clemence,Gris Asfalto,Rutenio,2023,A - Excelente,En Stock (24h),True,True,True,True,Owned,3400,2248,3999,1751,43.8,El bucket bag de lujo por excelencia.
+HP-53834,Chanel,2.55 Reissue 226,Aged Calfskin,Negro,Champagne,2021,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,True,Consignment,10300,8492,10644,2152,20.2,El original de Coco Chanel.
+HP-83269,Bottega Veneta,Jodie Mini,Intrecciato,Negro,Oro (GHW),2019,A - Excelente,En Stock (24h),True,True,True,False,Consignment,2650,2252,2718,466,17.1,El nudo viral.
+HP-15164,Hermès,Constance 18,Evercolor,Verde,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,False,True,False,Owned,8900,5219,8482,3263,38.5,La H icónica. Perfecto para crossbody.
+HP-71637,Dior,Book Tote Medium,Toile de Jouy,Gold,Champagne,2021,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,3300,2157,3238,1081,33.4,El bolso de viaje de la élite.
+HP-57994,Louis Vuitton,Neverfull MM,Monogram,Negro,Paladio (PHW),2019,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Owned,1950,1088,1884,796,42.2,El tote más vendido de la historia.
+HP-77197,Loewe,Puzzle Small,Classic Calf,Etoupe,Oro Viejo,2018,B - Buen estado,Bajo Pedido (15 días),True,True,True,True,Owned,3100,1618,2506,888,35.4,Obra maestra geométrica.
+HP-68672,Chanel,Boy Bag Old Medium,Calfskin,Etoupe,Oro (GHW),2024,AB - Muy bueno,En Stock (24h),True,True,True,True,Consignment,6700,5915,7201,1286,17.9,Estilo rock-chic con bordes gráficos.
+HP-28226,Dior,Book Tote Medium,Toile de Jouy,Beige Trench,Champagne,2022,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,3300,2974,4001,1027,25.6,El bolso de viaje de la élite.
+HP-12376,Louis Vuitton,Pochette Métis,Monogram Reverse,Beige Trench,Oro (GHW),2021,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,2700,1564,2410,846,35.1,El satchel perfecto para diario.
+HP-18542,Celine,Belt Bag Nano,Grained Calf,Gris Asfalto,Oro (GHW),2025,AB - Muy bueno,Reservado,True,True,True,False,Owned,2300,1156,2036,880,43.2,Funcionalidad y discreción.
+HP-22078,Dior,30 Montaigne,Box Calf,Etoupe,Paladio (PHW),2020,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,3900,2305,3305,1000,30.2,Elegancia minimalista con cierre CD.
+HP-33536,Hermès,Constance 18,Evercolor,Gris Asfalto,Rutenio,2025,N - Nuevo,Bajo Pedido (15 días),False,True,True,True,Owned,8900,7626,10602,2976,28.1,La H icónica. Perfecto para crossbody.
+HP-58841,Fendi,Peekaboo ISeeU Small,Selleria,Verde,Champagne,2020,A - Excelente,Reservado,True,False,True,True,Owned,5400,3096,5243,2147,40.9,Artesanía romana.
+HP-66195,Gucci,Jackie 1961 Small,GG Supreme,Craie,Rutenio,2021,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,2950,2312,2934,622,21.2,El hobo bag renacido.
+HP-93783,Fendi,Fendi First Small,Nappa,Verde,Rutenio,2020,A - Excelente,En Stock (24h),True,False,True,False,Owned,3400,2225,3398,1173,34.5,La F arquitectónica.
+HP-91091,Prada,Cleo Brushed,Spazzolato,Gris Asfalto,Oro (GHW),2025,B - Buen estado,En Stock (24h),False,True,True,False,Consignment,2900,1634,2059,425,20.6,Futurismo retro.
+HP-33406,Louis Vuitton,Alma BB,Epi Leather,Azul Marino,Oro (GHW),2024,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,1980,1373,1838,465,25.3,Estructura Art Deco atemporal.
+HP-48552,Celine,Luggage Nano,Drummed Calf,Negro,Paladio (PHW),2019,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,2600,1593,2151,558,25.9,El rostro inconfundible.
+HP-19942,Prada,Cleo Brushed,Spazzolato,Gold,Oro (GHW),2021,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Consignment,2900,2173,2655,482,18.1,Futurismo retro.
+HP-19179,Hermès,Constance 18,Evercolor,Gris Asfalto,Oro Viejo,2022,B - Buen estado,En Stock (24h),False,True,True,False,Consignment,8900,4811,5992,1181,19.7,La H icónica. Perfecto para crossbody.
+HP-18122,Loewe,Puzzle Small,Classic Calf,Negro,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),True,False,True,True,Owned,3100,1546,2654,1108,41.7,Obra maestra geométrica.
+HP-11095,Prada,Cleo Brushed,Spazzolato,Verde,Paladio (PHW),2021,A - Excelente,En Stock (24h),False,True,True,False,Consignment,2900,2421,2871,450,15.6,Futurismo retro.
+HP-46504,Loewe,Flamenco Clutch,Nappa Calf,Etoupe,Rutenio,2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,2450,1212,2049,837,40.8,Suavidad y nudos característicos.
+HP-94577,Dior,Lady Dior Mini,Satin/Strass,Etoupe,Champagne,2021,A - Excelente,En Stock (24h),True,False,True,True,Consignment,5300,4390,5215,825,15.8,Joya de noche.
+HP-39887,Chanel,Wallet on Chain (WOC),Caviar,Gold,Oro (GHW),2024,AB - Muy bueno,En Stock (24h),True,False,True,True,Owned,3500,1812,2878,1066,37.0,El esencial de entrada a la marca.
+HP-61025,Louis Vuitton,Onthego GM,Giant Monogram,Rouge H,Oro (GHW),2025,AB - Muy bueno,Reservado,True,True,True,True,Owned,3100,2223,3222,999,31.0,Maxi logo para impacto visual.
+HP-26710,Hermès,Kelly 28 Sellier,Box Calf,Etoupe,Rutenio,2023,A - Excelente,En Stock (24h),False,False,True,True,Consignment,12500,9365,11784,2419,20.5,Elegancia estructurada con costuras visibles.
+HP-34476,Chanel,2.55 Reissue 226,Aged Calfskin,Negro,Paladio (PHW),2020,A - Excelente,En Stock (24h),False,False,True,True,Consignment,10300,7520,9363,1843,19.7,El original de Coco Chanel.
+HP-37656,Hermès,Kelly 28 Sellier,Box Calf,Etoupe,Paladio (PHW),2018,AB - Muy bueno,En Stock (24h),False,False,True,True,Owned,12500,8357,11366,3009,26.5,Elegancia estructurada con costuras visibles.
+HP-70374,Hermès,Constance 18,Evercolor,Beige Trench,Champagne,2022,A - Excelente,En Sourcing,True,True,True,True,Owned,8900,6292,10271,3979,38.7,La H icónica. Perfecto para crossbody.
+HP-71716,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,Oro Viejo,2019,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,1800,1199,1474,275,18.6,Icono urbano indestructible.
+HP-10451,Fendi,Peekaboo ISeeU Small,Selleria,Craie,Champagne,2018,AB - Muy bueno,Reservado,False,True,True,False,Consignment,5400,3666,4376,710,16.2,Artesanía romana.
+HP-11465,Loewe,Puzzle Small,Classic Calf,Craie,Rutenio,2021,N - Nuevo,En Stock (24h),False,False,True,False,Owned,3100,2521,3846,1325,34.4,Obra maestra geométrica.
+HP-87261,Chanel,Classic Flap Small,Lambskin,Verde,Oro Viejo,2018,AB - Muy bueno,Reservado,True,True,True,False,Owned,9600,5594,8654,3060,35.4,"Suavidad extrema, cuidado delicado."
+HP-15986,Bottega Veneta,Jodie Teen,Suede Intrecciato,Negro,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Consignment,3500,2541,3193,652,20.4,Tamaño perfecto para diario.
+HP-96850,Hermès,Evelyne III PM,Clemence,Negro,Paladio (PHW),2019,A - Excelente,En Stock (24h),True,False,True,True,Consignment,3800,3324,3960,636,16.0,Casual y funcional con la H perforada.
+HP-68197,Loewe,Gate Dual Mini,Soft Calf,Craie,Champagne,2024,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Consignment,1950,1616,1966,350,17.8,El saddle bag español.
+HP-17023,Louis Vuitton,Capucines BB,Taurillon,Etoupe,Paladio (PHW),2022,A - Excelente,En Stock (24h),True,False,True,True,Owned,6100,4044,5895,1851,31.4,La apuesta de LV por el ultra-lujo.
+HP-16753,Dior,Book Tote Medium,Toile de Jouy,Gris Asfalto,Oro Viejo,2024,A - Excelente,En Stock (24h),False,True,True,True,Owned,3300,1922,3184,1262,39.6,El bolso de viaje de la élite.
+HP-34398,Gucci,Marmont Matelassé Small,Leather,Azul Marino,Oro (GHW),2022,B - Buen estado,En Stock (24h),True,False,True,False,Owned,2550,1070,1808,738,40.8,El superventas de la década.
+HP-83929,Hermès,Evelyne III PM,Clemence,Gris Asfalto,Champagne,2020,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Owned,3800,2672,4397,1725,39.2,Casual y funcional con la H perforada.
+HP-72889,Louis Vuitton,Onthego GM,Giant Monogram,Gris Asfalto,Oro Viejo,2025,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,3100,1698,2702,1004,37.1,Maxi logo para impacto visual.
+HP-72832,Celine,Ava Bag,Triomphe Canvas,Rouge H,Oro Viejo,2025,AB - Muy bueno,Reservado,False,True,True,False,Owned,1700,901,1582,681,43.0,La silueta de media luna.
+HP-27199,Fendi,Peekaboo ISeeU Small,Selleria,Beige Trench,Oro Viejo,2018,A - Excelente,En Stock (24h),True,False,True,False,Owned,5400,3630,5083,1453,28.6,Artesanía romana.
+HP-33725,Louis Vuitton,Pochette Métis,Monogram Reverse,Azul Marino,Rutenio,2021,N - Nuevo,En Stock (24h),False,True,True,False,Owned,2700,2024,3081,1057,34.3,El satchel perfecto para diario.
+HP-63202,Louis Vuitton,Onthego GM,Giant Monogram,Verde,Paladio (PHW),2018,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Consignment,3100,3007,3698,691,18.7,Maxi logo para impacto visual.
+HP-19412,Loewe,Flamenco Clutch,Nappa Calf,Azul Marino,Paladio (PHW),2018,N - Nuevo,Bajo Pedido (15 días),True,False,True,True,Owned,2450,1963,2846,883,31.0,Suavidad y nudos característicos.
+HP-36111,Hermès,Picotin Lock 18,Clemence,Etoupe,Rutenio,2023,N - Nuevo,En Sourcing,False,True,True,True,Owned,3400,3040,4484,1444,32.2,El bucket bag de lujo por excelencia.
+HP-10262,Dior,Saddle Bag,Oblique Jacquard,Gold,Paladio (PHW),2024,N - Nuevo,En Sourcing,False,True,True,False,Consignment,4200,4149,5266,1117,21.2,El retorno del icono de los 2000.
+HP-85220,Louis Vuitton,Neverfull MM,Monogram,Verde,Champagne,2021,B - Buen estado,Bajo Pedido (15 días),True,True,True,True,Owned,1950,996,1541,545,35.3,El tote más vendido de la historia.
+HP-49002,Bottega Veneta,Jodie Mini,Intrecciato,Beige Trench,Oro Viejo,2024,B - Buen estado,Reservado,True,False,True,True,Owned,2650,1292,1889,597,31.6,El nudo viral.
+HP-79533,Fendi,Fendi First Small,Nappa,Negro,Oro Viejo,2022,A - Excelente,En Stock (24h),False,False,True,False,Owned,3400,2181,3525,1344,38.1,La F arquitectónica.
+HP-69411,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Craie,Rutenio,2020,A - Excelente,En Stock (24h),False,True,True,False,Owned,1800,1125,1700,575,33.8,Icono urbano indestructible.
+HP-12882,Hermès,Birkin 30,Epsom,Etoupe,Paladio (PHW),2018,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,11200,7816,10633,2817,26.5,"Tamaño clásico, estructura rígida."
+HP-59108,Celine,Triomphe Classique,Shiny Calf,Gold,Oro Viejo,2023,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,3950,2938,4039,1101,27.3,El nuevo clásico parisino.
+HP-48511,Chanel,Boy Bag Old Medium,Calfskin,Azul Marino,Oro Viejo,2022,A - Excelente,Reservado,True,True,True,False,Owned,6700,4519,6500,1981,30.5,Estilo rock-chic con bordes gráficos.
+HP-82269,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,Rutenio,2023,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,1800,1188,1458,270,18.5,Icono urbano indestructible.
+HP-99120,Hermès,Picotin Lock 18,Clemence,Beige Trench,Champagne,2022,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Consignment,3400,2597,3120,523,16.8,El bucket bag de lujo por excelencia.
+HP-11155,Fendi,Peekaboo ISeeU Small,Selleria,Beige Trench,Oro (GHW),2025,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,5400,3626,4581,955,20.8,Artesanía romana.
+HP-40869,Celine,Triomphe Classique,Shiny Calf,Gold,Paladio (PHW),2025,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,3950,1981,3362,1381,41.1,El nuevo clásico parisino.
+HP-16779,Dior,Lady Dior Mini,Satin/Strass,Gris Asfalto,Oro Viejo,2022,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,5300,3980,4953,973,19.6,Joya de noche.
+HP-95531,Hermès,Constance 18,Evercolor,Beige Trench,Oro (GHW),2021,N - Nuevo,En Stock (24h),False,True,True,False,Owned,8900,6292,10930,4638,42.4,La H icónica. Perfecto para crossbody.
+HP-33342,Dior,Lady Dior Mini,Satin/Strass,Craie,Rutenio,2018,N - Nuevo,En Stock (24h),False,False,True,False,Owned,5300,4283,6686,2403,35.9,Joya de noche.
+HP-10254,Chanel,Wallet on Chain (WOC),Caviar,Rouge H,Rutenio,2019,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,3500,2517,3441,924,26.8,El esencial de entrada a la marca.
+HP-36162,Chanel,Classic Flap Medium,Caviar,Craie,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,10300,7108,10476,3368,32.1,El rey de la reventa. Piel resistente.
+HP-53952,Chanel,Classic Flap Jumbo,Caviar,Verde,Champagne,2021,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,11000,8680,12771,4091,32.0,Para quien necesita más espacio.
+HP-65235,Chanel,Classic Flap Small,Lambskin,Etoupe,Oro Viejo,2019,AB - Muy bueno,Reservado,True,True,True,True,Consignment,9600,8049,10072,2023,20.1,"Suavidad extrema, cuidado delicado."
+HP-38244,Louis Vuitton,Capucines BB,Taurillon,Verde,Paladio (PHW),2022,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Owned,6100,3142,5431,2289,42.1,La apuesta de LV por el ultra-lujo.
+HP-46696,Chanel,Chanel 19 Large,Goatskin,Etoupe,Champagne,2018,A - Excelente,En Stock (24h),True,False,True,False,Owned,7100,5050,7073,2023,28.6,Modernidad con acolchado maxi.
+HP-29940,Louis Vuitton,Alma BB,Epi Leather,Etoupe,Oro Viejo,2018,A - Excelente,En Stock (24h),True,False,True,False,Owned,1980,1330,1853,523,28.2,Estructura Art Deco atemporal.
+HP-30359,Celine,Ava Bag,Triomphe Canvas,Azul Marino,Paladio (PHW),2018,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,1700,1166,1744,578,33.1,La silueta de media luna.
+HP-92953,Fendi,Fendi First Small,Nappa,Beige Trench,Rutenio,2024,A - Excelente,En Stock (24h),True,False,True,True,Consignment,3400,2623,3285,662,20.1,La F arquitectónica.
+HP-93996,Loewe,Hammock Compact,Soft Grain,Rouge H,Oro Viejo,2018,N - Nuevo,Reservado,False,False,True,True,Consignment,2950,3085,3774,689,18.3,Versatilidad total.
+HP-21328,Chanel,Classic Flap Medium,Caviar,Azul Marino,Champagne,2024,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Consignment,10300,7537,9309,1772,19.0,El rey de la reventa. Piel resistente.
+HP-56881,Hermès,Picotin Lock 18,Clemence,Craie,Champagne,2024,AB - Muy bueno,En Sourcing,True,True,True,False,Consignment,3400,2607,3073,466,15.1,El bucket bag de lujo por excelencia.
+HP-20893,Prada,Galleria Saffiano Small,Saffiano,Rouge H,Oro Viejo,2023,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,3600,2129,3374,1245,36.9,El maletín ejecutivo.
+HP-65523,Louis Vuitton,Onthego GM,Giant Monogram,Azul Marino,Rutenio,2019,A - Excelente,En Stock (24h),False,True,True,False,Owned,3100,1849,2803,954,34.0,Maxi logo para impacto visual.
+HP-63621,Loewe,Puzzle Small,Classic Calf,Craie,Paladio (PHW),2022,AB - Muy bueno,En Stock (24h),False,False,True,True,Owned,3100,1676,2558,882,34.5,Obra maestra geométrica.
+HP-82642,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Rouge H,Paladio (PHW),2020,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,1800,1365,2119,754,35.5,Icono urbano indestructible.
+HP-91204,Celine,Luggage Nano,Drummed Calf,Rouge H,Champagne,2023,A - Excelente,En Stock (24h),True,False,True,True,Consignment,2600,2132,2524,392,15.5,El rostro inconfundible.
+HP-99065,Hermès,Kelly 25 Retourne,Swift,Gold,Oro (GHW),2022,A - Excelente,En Stock (24h),False,True,True,False,Consignment,11800,8747,10750,2003,18.6,Acabado suave y relajado.
+HP-45437,Gucci,Dionysus Small,GG Supreme,Negro,Oro (GHW),2021,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,2980,1798,2933,1135,38.7,Cierre de cabeza de tigre mitológico.
+HP-13098,Fendi,Peekaboo ISeeU Small,Selleria,Verde,Rutenio,2020,A - Excelente,Reservado,True,False,True,False,Owned,5400,3713,5083,1370,26.9,Artesanía romana.
+HP-69866,Dior,Book Tote Medium,Toile de Jouy,Negro,Paladio (PHW),2023,B - Buen estado,Reservado,False,True,True,True,Consignment,3300,1905,2328,423,18.2,El bolso de viaje de la élite.
+HP-11386,Hermès,Evelyne III PM,Clemence,Azul Marino,Oro Viejo,2024,A - Excelente,En Stock (24h),False,True,True,True,Owned,3800,2493,3554,1061,29.8,Casual y funcional con la H perforada.
+HP-24298,Hermès,Constance 18,Evercolor,Azul Marino,Oro Viejo,2020,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,8900,5015,8310,3295,39.6,La H icónica. Perfecto para crossbody.
+HP-20509,Louis Vuitton,Onthego GM,Giant Monogram,Azul Marino,Rutenio,2020,N - Nuevo,En Stock (24h),False,False,True,True,Owned,3100,2497,3724,1227,32.9,Maxi logo para impacto visual.
+HP-34271,Louis Vuitton,Multi Pochette Accessoires,Monogram,Negro,Champagne,2018,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Owned,2600,2207,3094,887,28.6,El favorito del Street Style.
+HP-64843,Dior,Lady Dior ABC (Small),Lambskin,Gris Asfalto,Rutenio,2024,A - Excelente,Reservado,False,True,True,False,Consignment,5900,4484,5619,1135,20.2,El bolso de la Princesa Diana.
+HP-51919,Hermès,Picotin Lock 18,Clemence,Rouge H,Oro (GHW),2024,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Owned,3400,3030,4274,1244,29.1,El bucket bag de lujo por excelencia.
+HP-19458,Louis Vuitton,Neverfull MM,Monogram,Negro,Oro Viejo,2020,A - Excelente,En Stock (24h),False,True,True,False,Owned,1950,1227,2009,782,38.9,El tote más vendido de la historia.
+HP-57309,Louis Vuitton,Multi Pochette Accessoires,Monogram,Rouge H,Champagne,2023,N - Nuevo,Reservado,False,True,True,True,Owned,2600,1716,3069,1353,44.1,El favorito del Street Style.
+HP-76541,Chanel,Wallet on Chain (WOC),Caviar,Negro,Paladio (PHW),2018,AB - Muy bueno,En Sourcing,False,True,True,True,Consignment,3500,2364,2930,566,19.3,El esencial de entrada a la marca.
+HP-47674,Prada,Re-Edition 2005,Re-Nylon,Negro,Rutenio,2022,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,1980,1595,2023,428,21.1,El icono del Y2K.
+HP-47106,Celine,Belt Bag Nano,Grained Calf,Craie,Rutenio,2022,N - Nuevo,En Stock (24h),False,True,True,False,Consignment,2300,2451,2931,480,16.4,Funcionalidad y discreción.
+HP-91276,Bottega Veneta,Jodie Mini,Intrecciato,Etoupe,Rutenio,2021,A - Excelente,En Stock (24h),True,True,True,True,Owned,2650,1759,2767,1008,36.4,El nudo viral.
+HP-67034,Chanel,Chanel 19 Large,Goatskin,Verde,Oro Viejo,2019,N - Nuevo,En Stock (24h),True,False,True,False,Owned,7100,4916,8939,4023,45.0,Modernidad con acolchado maxi.
+HP-57353,Chanel,Chanel 19 Large,Goatskin,Etoupe,Paladio (PHW),2025,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,7100,4408,6767,2359,34.9,Modernidad con acolchado maxi.
+HP-63550,Dior,Book Tote Medium,Toile de Jouy,Beige Trench,Champagne,2025,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,3300,2022,2807,785,27.9,El bolso de viaje de la élite.
+HP-14962,Bottega Veneta,The Pouch,Butter Calf,Craie,Champagne,2023,A - Excelente,En Stock (24h),True,True,True,False,Consignment,3200,2641,3156,515,16.3,El clutch que inició la era.
+HP-43870,Louis Vuitton,Alma BB,Epi Leather,Azul Marino,Champagne,2020,N - Nuevo,En Stock (24h),False,False,True,True,Owned,1980,1331,2413,1082,44.8,Estructura Art Deco atemporal.
+HP-25326,Dior,30 Montaigne,Box Calf,Beige Trench,Champagne,2021,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Owned,3900,3182,4549,1367,30.0,Elegancia minimalista con cierre CD.
+HP-20322,Gucci,Marmont Matelassé Small,Leather,Beige Trench,Oro Viejo,2020,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,2550,1868,2611,743,28.4,El superventas de la década.
+HP-31967,Chanel,Classic Flap Medium,Caviar,Rouge H,Oro (GHW),2023,N - Nuevo,En Stock (24h),False,True,True,True,Owned,10300,6928,12167,5239,43.1,El rey de la reventa. Piel resistente.
+HP-66587,Dior,Lady Dior Mini,Satin/Strass,Verde,Rutenio,2020,B - Buen estado,En Stock (24h),True,True,True,True,Consignment,5300,3584,4567,983,21.5,Joya de noche.
+HP-57527,Louis Vuitton,Multi Pochette Accessoires,Monogram,Beige Trench,Rutenio,2024,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Owned,2600,1271,2131,860,40.3,El favorito del Street Style.
+HP-71589,Gucci,Marmont Matelassé Small,Leather,Rouge H,Champagne,2025,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,2550,1442,2093,651,31.1,El superventas de la década.
+HP-36042,Bottega Veneta,The Pouch,Butter Calf,Negro,Oro (GHW),2019,B - Buen estado,En Stock (24h),False,False,True,False,Owned,3200,1501,2279,778,34.1,El clutch que inició la era.
+HP-69012,Louis Vuitton,Pochette Métis,Monogram Reverse,Negro,Oro (GHW),2020,N - Nuevo,Bajo Pedido (15 días),False,False,True,True,Consignment,2700,2542,3146,604,19.2,El satchel perfecto para diario.
+HP-82584,Prada,Galleria Saffiano Small,Saffiano,Azul Marino,Oro Viejo,2025,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Owned,3600,2292,3400,1108,32.6,El maletín ejecutivo.
+HP-18772,Prada,Galleria Saffiano Small,Saffiano,Azul Marino,Paladio (PHW),2022,AB - Muy bueno,Reservado,False,True,True,False,Owned,3600,1873,3110,1237,39.8,El maletín ejecutivo.
+HP-43363,Prada,Cleo Brushed,Spazzolato,Craie,Rutenio,2018,AB - Muy bueno,En Stock (24h),True,False,True,True,Consignment,2900,2014,2462,448,18.2,Futurismo retro.
+HP-41218,Chanel,2.55 Reissue 226,Aged Calfskin,Gris Asfalto,Champagne,2025,B - Buen estado,En Stock (24h),False,False,True,True,Owned,10300,5155,7401,2246,30.3,El original de Coco Chanel.
+HP-17662,Louis Vuitton,Pochette Métis,Monogram Reverse,Negro,Paladio (PHW),2025,B - Buen estado,Reservado,True,True,True,False,Owned,2700,1316,1860,544,29.2,El satchel perfecto para diario.
+HP-76550,Celine,Belt Bag Nano,Grained Calf,Beige Trench,Oro Viejo,2024,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,True,Consignment,2300,1711,2031,320,15.8,Funcionalidad y discreción.
+HP-77694,Chanel,Classic Flap Jumbo,Caviar,Verde,Champagne,2020,A - Excelente,En Stock (24h),True,True,True,False,Owned,11000,8144,11187,3043,27.2,Para quien necesita más espacio.
+HP-25560,Celine,Belt Bag Nano,Grained Calf,Beige Trench,Oro Viejo,2022,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,2300,1264,2089,825,39.5,Funcionalidad y discreción.
+HP-72538,Bottega Veneta,Jodie Mini,Intrecciato,Verde,Rutenio,2018,A - Excelente,En Stock (24h),False,True,True,False,Owned,2650,1603,2690,1087,40.4,El nudo viral.
+HP-70982,Louis Vuitton,Alma BB,Epi Leather,Gris Asfalto,Champagne,2025,A - Excelente,En Stock (24h),True,False,True,False,Owned,1980,1423,1962,539,27.4,Estructura Art Deco atemporal.
+HP-79740,Celine,Belt Bag Nano,Grained Calf,Etoupe,Champagne,2022,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,2300,1327,1992,665,33.4,Funcionalidad y discreción.
+HP-81220,Hermès,Birkin 25,Togo,Gris Asfalto,Oro (GHW),2025,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Consignment,10400,8578,10841,2263,20.9,El bolso más deseado del mundo.
+HP-42412,Fendi,Peekaboo ISeeU Small,Selleria,Azul Marino,Rutenio,2025,N - Nuevo,En Stock (24h),True,True,True,False,Owned,5400,3869,6696,2827,42.2,Artesanía romana.
+HP-81327,Louis Vuitton,Neverfull MM,Monogram,Etoupe,Paladio (PHW),2020,A - Excelente,Reservado,False,True,True,False,Owned,1950,1126,1839,713,38.7,El tote más vendido de la historia.
+HP-70800,Hermès,Kelly 28 Sellier,Box Calf,Verde,Paladio (PHW),2019,A - Excelente,En Stock (24h),False,False,True,True,Owned,12500,7567,12702,5135,40.4,Elegancia estructurada con costuras visibles.
+HP-84355,Fendi,Baguette 1997,Zucca Canvas,Gris Asfalto,Champagne,2018,A - Excelente,En Stock (24h),False,False,True,False,Owned,3200,2099,3111,1012,32.5,"It's not a bag, it's a Baguette."
+HP-56834,Gucci,Diana Bamboo Small,Leather,Verde,Rutenio,2023,AB - Muy bueno,En Stock (24h),False,True,True,True,Consignment,3600,2699,3221,522,16.2,Asas de bambú neón.
+HP-74997,Hermès,Evelyne III PM,Clemence,Craie,Oro Viejo,2025,N - Nuevo,En Stock (24h),True,True,True,False,Owned,3800,2818,4350,1532,35.2,Casual y funcional con la H perforada.
+HP-27328,Bottega Veneta,Jodie Mini,Intrecciato,Rouge H,Champagne,2018,B - Buen estado,En Stock (24h),True,True,True,False,Consignment,2650,1658,2005,347,17.3,El nudo viral.
+HP-53249,Loewe,Puzzle Mini,Satin Calf,Craie,Paladio (PHW),2019,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,2400,1444,2399,955,39.8,El favorito de las influencers.
+HP-68794,Dior,Lady Dior ABC (Small),Lambskin,Craie,Paladio (PHW),2025,N - Nuevo,En Sourcing,True,False,True,True,Owned,5900,4401,7096,2695,38.0,El bolso de la Princesa Diana.
+HP-49566,Loewe,Flamenco Clutch,Nappa Calf,Etoupe,Champagne,2023,A - Excelente,En Stock (24h),False,False,True,False,Consignment,2450,1881,2223,342,15.4,Suavidad y nudos característicos.
+HP-18740,Dior,Lady Dior ABC (Small),Lambskin,Rouge H,Rutenio,2023,A - Excelente,En Stock (24h),False,True,True,False,Consignment,5900,4723,6022,1299,21.6,El bolso de la Princesa Diana.
+HP-20726,Dior,Lady Dior ABC (Small),Lambskin,Azul Marino,Oro (GHW),2025,B - Buen estado,Bajo Pedido (15 días),False,True,True,False,Owned,5900,2437,4295,1858,43.2,El bolso de la Princesa Diana.
+HP-93412,Loewe,Flamenco Clutch,Nappa Calf,Negro,Rutenio,2019,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,2450,1437,2436,999,41.0,Suavidad y nudos característicos.
+HP-56712,Bottega Veneta,Jodie Mini,Intrecciato,Verde,Oro Viejo,2023,A - Excelente,En Stock (24h),True,True,True,False,Owned,2650,1739,2523,784,31.1,El nudo viral.
+HP-27696,Prada,Galleria Saffiano Small,Saffiano,Azul Marino,Oro (GHW),2018,AB - Muy bueno,En Stock (24h),True,False,True,True,Consignment,3600,2440,3034,594,19.6,El maletín ejecutivo.
+HP-80541,Gucci,Marmont Matelassé Small,Leather,Verde,Rutenio,2019,A - Excelente,En Sourcing,True,False,True,False,Owned,2550,1832,2534,702,27.7,El superventas de la década.
+HP-11550,Loewe,Flamenco Clutch,Nappa Calf,Etoupe,Paladio (PHW),2023,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,2450,1304,2278,974,42.7,Suavidad y nudos característicos.
+HP-94584,Loewe,Hammock Compact,Soft Grain,Negro,Oro Viejo,2020,N - Nuevo,Bajo Pedido (15 días),True,True,True,True,Owned,2950,2918,4195,1277,30.4,Versatilidad total.
+HP-51246,Hermès,Evelyne III PM,Clemence,Negro,Champagne,2024,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,3800,2125,3408,1283,37.6,Casual y funcional con la H perforada.
+HP-15726,Louis Vuitton,Capucines BB,Taurillon,Gris Asfalto,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,6100,3963,6280,2317,36.9,La apuesta de LV por el ultra-lujo.
+HP-96190,Prada,Cleo Brushed,Spazzolato,Rouge H,Rutenio,2021,A - Excelente,En Sourcing,True,False,True,False,Owned,2900,2028,2885,857,29.7,Futurismo retro.
+HP-74266,Loewe,Puzzle Small,Classic Calf,Rouge H,Champagne,2018,A - Excelente,Reservado,True,False,True,False,Owned,3100,2379,3204,825,25.7,Obra maestra geométrica.
+HP-29966,Chanel,Classic Flap Jumbo,Caviar,Craie,Rutenio,2019,A - Excelente,En Stock (24h),True,True,True,True,Owned,11000,9411,12898,3487,27.0,Para quien necesita más espacio.
+HP-61179,Hermès,Evelyne III PM,Clemence,Rouge H,Champagne,2024,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,3800,2664,3320,656,19.7,Casual y funcional con la H perforada.
+HP-41124,Chanel,Boy Bag Old Medium,Calfskin,Beige Trench,Oro (GHW),2023,B - Buen estado,Bajo Pedido (15 días),False,True,True,False,Consignment,6700,3884,4824,940,19.5,Estilo rock-chic con bordes gráficos.
+HP-56645,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Etoupe,Paladio (PHW),2021,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Owned,1800,1371,2083,712,34.2,Icono urbano indestructible.
+HP-54043,Louis Vuitton,Capucines BB,Taurillon,Gris Asfalto,Oro (GHW),2021,N - Nuevo,En Sourcing,True,False,True,False,Owned,6100,4842,7108,2266,31.9,La apuesta de LV por el ultra-lujo.
+HP-97535,Celine,Triomphe Classique,Shiny Calf,Verde,Oro (GHW),2022,A - Excelente,Reservado,False,False,True,False,Consignment,3950,3035,3832,797,20.8,El nuevo clásico parisino.
+HP-91791,Dior,30 Montaigne,Box Calf,Craie,Oro Viejo,2020,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,3900,4153,5023,870,17.3,Elegancia minimalista con cierre CD.
+HP-98708,Hermès,Kelly 28 Sellier,Box Calf,Craie,Oro (GHW),2020,A - Excelente,En Stock (24h),False,False,True,False,Owned,12500,8077,13041,4964,38.1,Elegancia estructurada con costuras visibles.
+HP-88721,Bottega Veneta,Cassette Padded,Lambskin,Beige Trench,Paladio (PHW),2019,B - Buen estado,Reservado,True,True,True,True,Consignment,4500,3163,3763,600,15.9,El Intrecciato maxi.
+HP-29905,Chanel,Classic Flap Medium,Caviar,Gris Asfalto,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,10300,6930,10137,3207,31.6,El rey de la reventa. Piel resistente.
+HP-48309,Louis Vuitton,Alma BB,Epi Leather,Negro,Rutenio,2025,A - Excelente,En Stock (24h),True,True,True,False,Owned,1980,1210,2039,829,40.6,Estructura Art Deco atemporal.
+HP-88755,Bottega Veneta,Jodie Teen,Suede Intrecciato,Verde,Paladio (PHW),2018,AB - Muy bueno,En Stock (24h),True,True,True,False,Owned,3500,1739,2912,1173,40.3,Tamaño perfecto para diario.
+HP-28091,Gucci,Marmont Matelassé Small,Leather,Craie,Champagne,2021,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Owned,2550,1369,2256,887,39.3,El superventas de la década.
+HP-72646,Hermès,Kelly 28 Sellier,Box Calf,Gris Asfalto,Oro (GHW),2025,N - Nuevo,En Stock (24h),False,True,True,True,Owned,12500,9359,14541,5182,35.6,Elegancia estructurada con costuras visibles.
+HP-73786,Fendi,Fendi First Small,Nappa,Gris Asfalto,Oro Viejo,2022,N - Nuevo,En Stock (24h),False,False,True,True,Owned,3400,2217,3884,1667,42.9,La F arquitectónica.
+HP-63000,Louis Vuitton,Alma BB,Epi Leather,Beige Trench,Paladio (PHW),2019,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,1980,1335,1815,480,26.4,Estructura Art Deco atemporal.
+HP-23596,Louis Vuitton,Multi Pochette Accessoires,Monogram,Beige Trench,Oro Viejo,2025,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,2600,1585,2552,967,37.9,El favorito del Street Style.
+HP-96612,Loewe,Puzzle Small,Classic Calf,Rouge H,Champagne,2025,AB - Muy bueno,En Stock (24h),True,True,True,False,Owned,3100,1481,2528,1047,41.4,Obra maestra geométrica.
+HP-12776,Louis Vuitton,Capucines BB,Taurillon,Gold,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Owned,6100,4460,6126,1666,27.2,La apuesta de LV por el ultra-lujo.
+HP-78770,Celine,Ava Bag,Triomphe Canvas,Beige Trench,Rutenio,2020,N - Nuevo,En Stock (24h),True,False,True,False,Consignment,1700,1645,2071,426,20.5,La silueta de media luna.
+HP-88671,Bottega Veneta,Jodie Mini,Intrecciato,Gris Asfalto,Rutenio,2020,AB - Muy bueno,En Stock (24h),False,False,True,True,Consignment,2650,2036,2435,399,16.4,El nudo viral.
+HP-52179,Prada,Re-Edition 2005,Re-Nylon,Azul Marino,Rutenio,2025,N - Nuevo,Reservado,True,False,True,False,Owned,1980,1682,2407,725,30.1,El icono del Y2K.
+HP-63854,Louis Vuitton,Neverfull MM,Monogram,Azul Marino,Champagne,2019,N - Nuevo,En Sourcing,True,True,True,False,Consignment,1950,1828,2322,494,21.2,El tote más vendido de la historia.
+HP-84743,Fendi,Fendi First Small,Nappa,Verde,Oro (GHW),2025,N - Nuevo,Reservado,False,True,True,True,Owned,3400,2582,4015,1433,35.7,La F arquitectónica.
+HP-65152,Louis Vuitton,Pochette Métis,Monogram Reverse,Craie,Oro Viejo,2021,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Consignment,2700,2715,3262,547,16.8,El satchel perfecto para diario.
+HP-73940,Dior,Book Tote Medium,Toile de Jouy,Etoupe,Oro Viejo,2020,A - Excelente,En Sourcing,True,False,True,False,Owned,3300,2248,3373,1125,33.3,El bolso de viaje de la élite.
+HP-72838,Dior,Saddle Bag,Oblique Jacquard,Verde,Oro (GHW),2019,N - Nuevo,En Stock (24h),True,False,True,False,Consignment,4200,4325,5424,1099,20.3,El retorno del icono de los 2000.
+HP-62866,Louis Vuitton,Capucines BB,Taurillon,Verde,Oro Viejo,2024,A - Excelente,En Stock (24h),False,False,True,False,Owned,6100,3923,5598,1675,29.9,La apuesta de LV por el ultra-lujo.
+HP-47409,Hermès,Kelly 28 Sellier,Box Calf,Craie,Oro Viejo,2020,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Consignment,12500,10772,12887,2115,16.4,Elegancia estructurada con costuras visibles.
+HP-17824,Chanel,Wallet on Chain (WOC),Caviar,Etoupe,Champagne,2023,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,3500,1934,3209,1275,39.7,El esencial de entrada a la marca.
+HP-38673,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Negro,Rutenio,2020,A - Excelente,En Stock (24h),True,False,True,False,Consignment,1800,1464,1807,343,19.0,Icono urbano indestructible.
+HP-95899,Chanel,Classic Flap Small,Lambskin,Craie,Oro Viejo,2018,AB - Muy bueno,En Stock (24h),False,False,True,True,Consignment,9600,7189,8497,1308,15.4,"Suavidad extrema, cuidado delicado."
+HP-73069,Chanel,2.55 Reissue 226,Aged Calfskin,Etoupe,Oro Viejo,2025,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,10300,6310,8473,2163,25.5,El original de Coco Chanel.
+HP-67027,Hermès,Constance 18,Evercolor,Gold,Oro Viejo,2021,B - Buen estado,En Stock (24h),True,False,True,False,Consignment,8900,4747,5966,1219,20.4,La H icónica. Perfecto para crossbody.
+HP-35251,Hermès,Constance 18,Evercolor,Gris Asfalto,Rutenio,2023,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,True,Owned,8900,5801,9338,3537,37.9,La H icónica. Perfecto para crossbody.
+HP-63337,Dior,30 Montaigne,Box Calf,Craie,Oro Viejo,2021,N - Nuevo,En Stock (24h),True,False,True,False,Consignment,3900,4150,4991,841,16.8,Elegancia minimalista con cierre CD.
+HP-18754,Fendi,Fendi First Small,Nappa,Gold,Paladio (PHW),2020,B - Buen estado,En Stock (24h),True,False,True,False,Owned,3400,1421,2543,1122,44.1,La F arquitectónica.
+HP-26966,Bottega Veneta,The Pouch,Butter Calf,Rouge H,Rutenio,2019,N - Nuevo,En Sourcing,False,True,True,True,Consignment,3200,3044,3740,696,18.6,El clutch que inició la era.
+HP-30165,Hermès,Kelly 28 Sellier,Box Calf,Rouge H,Oro Viejo,2024,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,12500,7418,10694,3276,30.6,Elegancia estructurada con costuras visibles.
+HP-82616,Louis Vuitton,Capucines BB,Taurillon,Verde,Champagne,2022,A - Excelente,En Stock (24h),True,False,True,False,Owned,6100,3702,5612,1910,34.0,La apuesta de LV por el ultra-lujo.
+HP-19851,Chanel,Chanel 19 Large,Goatskin,Azul Marino,Paladio (PHW),2025,N - Nuevo,Bajo Pedido (15 días),False,True,True,True,Owned,7100,5947,8136,2189,26.9,Modernidad con acolchado maxi.
+HP-56908,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gold,Champagne,2019,A - Excelente,En Stock (24h),False,False,True,False,Consignment,3500,2717,3333,616,18.5,Tamaño perfecto para diario.
+HP-81207,Chanel,Classic Flap Jumbo,Caviar,Verde,Paladio (PHW),2023,A - Excelente,Reservado,True,True,True,True,Consignment,11000,10170,12340,2170,17.6,Para quien necesita más espacio.
+HP-56445,Bottega Veneta,Jodie Mini,Intrecciato,Azul Marino,Oro (GHW),2023,N - Nuevo,En Stock (24h),True,True,True,True,Owned,2650,2479,3633,1154,31.7,El nudo viral.
+HP-46708,Louis Vuitton,Multi Pochette Accessoires,Monogram,Etoupe,Paladio (PHW),2022,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,2600,1928,3207,1279,39.9,El favorito del Street Style.
+HP-59150,Dior,Saddle Bag,Oblique Jacquard,Gris Asfalto,Oro (GHW),2018,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,4200,2199,3452,1253,36.3,El retorno del icono de los 2000.
+HP-49575,Chanel,Classic Flap Small,Lambskin,Beige Trench,Oro (GHW),2024,AB - Muy bueno,Reservado,False,True,True,True,Consignment,9600,6442,7886,1444,18.3,"Suavidad extrema, cuidado delicado."
+HP-50642,Chanel,2.55 Reissue 226,Aged Calfskin,Craie,Oro (GHW),2021,N - Nuevo,Bajo Pedido (15 días),True,False,True,True,Consignment,10300,10634,12685,2051,16.2,El original de Coco Chanel.
+HP-91544,Louis Vuitton,Pochette Métis,Monogram Reverse,Gold,Rutenio,2024,B - Buen estado,En Stock (24h),True,False,True,True,Owned,2700,1227,1844,617,33.4,El satchel perfecto para diario.
+HP-35001,Dior,30 Montaigne,Box Calf,Gold,Oro Viejo,2023,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,True,Consignment,3900,2670,3222,552,17.1,Elegancia minimalista con cierre CD.
+HP-30233,Hermès,Picotin Lock 18,Clemence,Etoupe,Rutenio,2025,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Consignment,3400,2772,3467,695,20.0,El bucket bag de lujo por excelencia.
+HP-66292,Prada,Galleria Saffiano Small,Saffiano,Gold,Oro Viejo,2019,N - Nuevo,En Stock (24h),True,True,True,False,Owned,3600,2771,4267,1496,35.1,El maletín ejecutivo.
+HP-46075,Bottega Veneta,Cassette Padded,Lambskin,Rouge H,Paladio (PHW),2018,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,4500,2109,3658,1549,42.3,El Intrecciato maxi.
+HP-76998,Dior,Lady Dior ABC (Small),Lambskin,Negro,Oro Viejo,2018,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Owned,5900,4555,7265,2710,37.3,El bolso de la Princesa Diana.
+HP-52723,Chanel,Classic Flap Small,Lambskin,Azul Marino,Champagne,2018,A - Excelente,En Stock (24h),True,False,True,True,Owned,9600,6600,9549,2949,30.9,"Suavidad extrema, cuidado delicado."
+HP-14685,Gucci,Jackie 1961 Small,GG Supreme,Craie,Oro (GHW),2020,A - Excelente,En Sourcing,False,False,True,False,Owned,2950,2150,3041,891,29.3,El hobo bag renacido.
+HP-37315,Celine,Belt Bag Nano,Grained Calf,Gold,Rutenio,2019,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,2300,1595,1908,313,16.4,Funcionalidad y discreción.
+HP-69231,Fendi,Peekaboo ISeeU Small,Selleria,Verde,Oro Viejo,2019,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,5400,2813,4852,2039,42.0,Artesanía romana.
+HP-95866,Louis Vuitton,Pochette Métis,Monogram Reverse,Beige Trench,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,True,True,False,Owned,2700,1535,2488,953,38.3,El satchel perfecto para diario.
+HP-16997,Bottega Veneta,Cassette Padded,Lambskin,Azul Marino,Oro (GHW),2023,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Consignment,4500,4591,5540,949,17.1,El Intrecciato maxi.
+HP-90899,Hermès,Kelly 28 Sellier,Box Calf,Negro,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),True,False,True,True,Owned,12500,6541,11349,4808,42.4,Elegancia estructurada con costuras visibles.
+HP-11498,Chanel,Boy Bag Old Medium,Calfskin,Beige Trench,Paladio (PHW),2025,A - Excelente,Reservado,True,False,True,False,Owned,6700,4350,6267,1917,30.6,Estilo rock-chic con bordes gráficos.
+HP-52030,Gucci,Diana Bamboo Small,Leather,Craie,Champagne,2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,3600,1892,3332,1440,43.2,Asas de bambú neón.
+HP-53054,Gucci,Diana Bamboo Small,Leather,Negro,Champagne,2025,B - Buen estado,Reservado,False,False,True,False,Consignment,3600,1963,2434,471,19.3,Asas de bambú neón.
+HP-76019,Fendi,Peekaboo ISeeU Small,Selleria,Verde,Oro Viejo,2023,A - Excelente,En Stock (24h),False,True,True,False,Owned,5400,3404,5324,1920,36.1,Artesanía romana.
+HP-93854,Louis Vuitton,Capucines BB,Taurillon,Craie,Rutenio,2018,A - Excelente,En Stock (24h),False,False,True,True,Owned,6100,3319,5880,2561,43.6,La apuesta de LV por el ultra-lujo.
+HP-93106,Celine,Luggage Nano,Drummed Calf,Rouge H,Champagne,2022,A - Excelente,En Stock (24h),False,True,True,False,Consignment,2600,1957,2382,425,17.8,El rostro inconfundible.
+HP-84355,Dior,Saddle Bag,Oblique Jacquard,Beige Trench,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,True,True,False,Owned,4200,2823,4247,1424,33.5,El retorno del icono de los 2000.
+HP-72008,Chanel,Classic Flap Jumbo,Caviar,Verde,Oro (GHW),2019,AB - Muy bueno,En Sourcing,True,False,True,True,Owned,11000,5880,9086,3206,35.3,Para quien necesita más espacio.
+HP-45269,Hermès,Kelly 28 Sellier,Box Calf,Beige Trench,Oro (GHW),2018,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,12500,7258,11425,4167,36.5,Elegancia estructurada con costuras visibles.
+HP-12535,Louis Vuitton,Onthego GM,Giant Monogram,Etoupe,Paladio (PHW),2024,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Consignment,3100,3029,3718,689,18.5,Maxi logo para impacto visual.
+HP-67721,Celine,Belt Bag Nano,Grained Calf,Etoupe,Rutenio,2023,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Owned,2300,1271,2289,1018,44.4,Funcionalidad y discreción.
+HP-22455,Prada,Re-Edition 2005,Re-Nylon,Negro,Rutenio,2023,A - Excelente,En Sourcing,True,False,True,False,Owned,1980,1211,2061,850,41.2,El icono del Y2K.
+HP-87344,Louis Vuitton,Pochette Métis,Monogram Reverse,Etoupe,Oro (GHW),2023,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,2700,1437,2494,1057,42.4,El satchel perfecto para diario.
+HP-40180,Louis Vuitton,Onthego GM,Giant Monogram,Craie,Oro (GHW),2018,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,3100,2127,2579,452,17.5,Maxi logo para impacto visual.
+HP-12764,Hermès,Birkin 25,Togo,Verde,Paladio (PHW),2019,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,10400,8056,9543,1487,15.6,El bolso más deseado del mundo.
+HP-97823,Hermès,Kelly 28 Sellier,Box Calf,Gold,Oro Viejo,2020,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Consignment,12500,12936,15974,3038,19.0,Elegancia estructurada con costuras visibles.
+HP-30756,Loewe,Puzzle Small,Classic Calf,Negro,Rutenio,2023,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,3100,1836,2741,905,33.0,Obra maestra geométrica.
+HP-88266,Dior,Saddle Bag,Oblique Jacquard,Rouge H,Oro (GHW),2018,AB - Muy bueno,En Sourcing,True,True,True,False,Owned,4200,2437,3827,1390,36.3,El retorno del icono de los 2000.
+HP-10753,Celine,Triomphe Classique,Shiny Calf,Craie,Paladio (PHW),2020,B - Buen estado,En Stock (24h),False,False,True,False,Consignment,3950,2173,2764,591,21.4,El nuevo clásico parisino.
+HP-62725,Celine,Triomphe Classique,Shiny Calf,Verde,Oro Viejo,2018,B - Buen estado,Bajo Pedido (15 días),False,True,True,False,Consignment,3950,2495,3018,523,17.3,El nuevo clásico parisino.
+HP-46414,Gucci,Marmont Matelassé Small,Leather,Etoupe,Oro Viejo,2023,AB - Muy bueno,En Stock (24h),False,True,True,True,Consignment,2550,1874,2309,435,18.8,El superventas de la década.
+HP-46349,Gucci,Horsebit 1955,GG Supreme,Rouge H,Paladio (PHW),2019,A - Excelente,En Stock (24h),False,False,True,False,Consignment,2890,2185,2777,592,21.3,Estilo ecuestre vintage.
+HP-61725,Celine,Ava Bag,Triomphe Canvas,Gold,Oro (GHW),2024,A - Excelente,En Sourcing,False,True,True,False,Owned,1700,1168,1628,460,28.2,La silueta de media luna.
+HP-50734,Hermès,Kelly 28 Sellier,Box Calf,Azul Marino,Rutenio,2025,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,12500,7477,11461,3984,34.8,Elegancia estructurada con costuras visibles.
+HP-82205,Prada,Galleria Saffiano Small,Saffiano,Craie,Rutenio,2020,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Owned,3600,1860,3119,1259,40.3,El maletín ejecutivo.
+HP-17967,Hermès,Kelly 25 Retourne,Swift,Beige Trench,Rutenio,2023,AB - Muy bueno,Reservado,False,True,True,False,Consignment,11800,8375,10526,2151,20.4,Acabado suave y relajado.
+HP-29471,Gucci,Horsebit 1955,GG Supreme,Azul Marino,Paladio (PHW),2020,A - Excelente,En Stock (24h),True,True,True,False,Consignment,2890,2350,2901,551,19.0,Estilo ecuestre vintage.
+HP-83706,Bottega Veneta,The Pouch,Butter Calf,Gris Asfalto,Oro Viejo,2020,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Consignment,3200,2353,2811,458,16.3,El clutch que inició la era.
+HP-54859,Louis Vuitton,Multi Pochette Accessoires,Monogram,Azul Marino,Champagne,2025,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,2600,1794,2234,440,19.7,El favorito del Street Style.
+HP-49923,Hermès,Evelyne III PM,Clemence,Craie,Champagne,2022,AB - Muy bueno,Reservado,True,False,True,False,Owned,3800,1932,3180,1248,39.2,Casual y funcional con la H perforada.
+HP-45033,Fendi,Baguette 1997,Zucca Canvas,Craie,Champagne,2025,AB - Muy bueno,En Stock (24h),True,True,True,False,Consignment,3200,2212,2727,515,18.9,"It's not a bag, it's a Baguette."
+HP-75912,Celine,Luggage Nano,Drummed Calf,Craie,Oro (GHW),2019,B - Buen estado,En Stock (24h),True,False,True,True,Owned,2600,1394,1993,599,30.0,El rostro inconfundible.
+HP-86078,Chanel,Classic Flap Jumbo,Caviar,Etoupe,Oro Viejo,2020,B - Buen estado,En Stock (24h),False,True,True,False,Consignment,11000,6865,8304,1439,17.3,Para quien necesita más espacio.
+HP-26582,Louis Vuitton,Neverfull MM,Monogram,Rouge H,Champagne,2023,AB - Muy bueno,En Stock (24h),True,True,True,False,Consignment,1950,1311,1611,300,18.6,El tote más vendido de la historia.
+HP-16707,Fendi,Fendi First Small,Nappa,Gris Asfalto,Oro Viejo,2024,AB - Muy bueno,En Stock (24h),True,True,True,True,Owned,3400,1907,3408,1501,44.0,La F arquitectónica.
+HP-72062,Fendi,Fendi First Small,Nappa,Verde,Oro Viejo,2024,N - Nuevo,En Stock (24h),False,True,True,False,Consignment,3400,3289,3922,633,16.1,La F arquitectónica.
+HP-53614,Celine,Ava Bag,Triomphe Canvas,Azul Marino,Rutenio,2018,N - Nuevo,Reservado,True,False,True,False,Owned,1700,1200,1998,798,39.9,La silueta de media luna.
+HP-27148,Dior,Lady Dior ABC (Small),Lambskin,Craie,Oro (GHW),2025,A - Excelente,En Stock (24h),True,False,True,False,Owned,5900,3369,5503,2134,38.8,El bolso de la Princesa Diana.
+HP-29214,Gucci,Dionysus Small,GG Supreme,Craie,Rutenio,2025,AB - Muy bueno,En Sourcing,False,False,True,False,Owned,2980,1614,2465,851,34.5,Cierre de cabeza de tigre mitológico.
+HP-97312,Hermès,Kelly 25 Retourne,Swift,Gold,Oro Viejo,2022,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,11800,6299,10724,4425,41.3,Acabado suave y relajado.
+HP-83516,Loewe,Gate Dual Mini,Soft Calf,Gris Asfalto,Rutenio,2024,B - Buen estado,En Stock (24h),True,False,True,True,Owned,1950,1041,1421,380,26.7,El saddle bag español.
+HP-47058,Fendi,Fendi First Small,Nappa,Beige Trench,Oro Viejo,2019,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,3400,2577,3114,537,17.2,La F arquitectónica.
+HP-37993,Chanel,Classic Flap Small,Lambskin,Negro,Paladio (PHW),2022,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,9600,5569,9065,3496,38.6,"Suavidad extrema, cuidado delicado."
+HP-58568,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gris Asfalto,Rutenio,2020,A - Excelente,En Sourcing,True,False,True,True,Owned,3500,2207,3487,1280,36.7,Tamaño perfecto para diario.
+HP-51485,Hermès,Evelyne III PM,Clemence,Craie,Oro (GHW),2023,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,3800,2474,3570,1096,30.7,Casual y funcional con la H perforada.
+HP-68186,Prada,Galleria Saffiano Small,Saffiano,Craie,Paladio (PHW),2025,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Consignment,3600,2742,3447,705,20.4,El maletín ejecutivo.
+HP-86126,Prada,Cleo Brushed,Spazzolato,Negro,Rutenio,2025,A - Excelente,En Stock (24h),False,False,True,True,Consignment,2900,2460,3005,545,18.1,Futurismo retro.
+HP-30168,Bottega Veneta,Jodie Teen,Suede Intrecciato,Rouge H,Oro Viejo,2022,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,3500,2272,3223,951,29.5,Tamaño perfecto para diario.
+HP-40710,Dior,30 Montaigne,Box Calf,Azul Marino,Rutenio,2023,A - Excelente,En Stock (24h),False,False,True,False,Owned,3900,2217,3987,1770,44.4,Elegancia minimalista con cierre CD.
+HP-37594,Hermès,Evelyne III PM,Clemence,Etoupe,Rutenio,2023,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,3800,3040,3862,822,21.3,Casual y funcional con la H perforada.
+HP-58926,Hermès,Picotin Lock 18,Clemence,Gold,Paladio (PHW),2021,AB - Muy bueno,En Stock (24h),False,True,True,True,Consignment,3400,2404,2979,575,19.3,El bucket bag de lujo por excelencia.
+HP-73473,Hermès,Evelyne III PM,Clemence,Azul Marino,Champagne,2022,AB - Muy bueno,En Stock (24h),True,True,True,False,Consignment,3800,2567,3138,571,18.2,Casual y funcional con la H perforada.
+HP-37104,Hermès,Birkin 25,Togo,Rouge H,Oro Viejo,2023,A - Excelente,En Sourcing,False,False,True,True,Consignment,10400,8348,10128,1780,17.6,El bolso más deseado del mundo.
+HP-36127,Bottega Veneta,The Pouch,Butter Calf,Verde,Paladio (PHW),2024,A - Excelente,En Stock (24h),False,True,True,False,Owned,3200,2200,3072,872,28.4,El clutch que inició la era.
+HP-29951,Hermès,Constance 18,Evercolor,Negro,Oro (GHW),2020,A - Excelente,En Stock (24h),False,False,True,True,Owned,8900,5694,8525,2831,33.2,La H icónica. Perfecto para crossbody.
+HP-28704,Hermès,Birkin 25,Togo,Azul Marino,Champagne,2021,B - Buen estado,Bajo Pedido (15 días),True,False,True,True,Owned,10400,4754,7908,3154,39.9,El bolso más deseado del mundo.
+HP-21655,Louis Vuitton,Onthego GM,Giant Monogram,Etoupe,Champagne,2023,A - Excelente,Reservado,False,False,True,False,Owned,3100,2318,3209,891,27.8,Maxi logo para impacto visual.
+HP-20739,Gucci,Diana Bamboo Small,Leather,Beige Trench,Rutenio,2018,A - Excelente,En Stock (24h),True,True,True,False,Consignment,3600,2693,3323,630,18.9,Asas de bambú neón.
+HP-73141,Chanel,Classic Flap Small,Lambskin,Beige Trench,Paladio (PHW),2021,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,9600,5256,9249,3993,43.2,"Suavidad extrema, cuidado delicado."
+HP-51836,Louis Vuitton,Capucines BB,Taurillon,Beige Trench,Oro Viejo,2018,AB - Muy bueno,En Stock (24h),False,False,True,True,Owned,6100,3804,5384,1580,29.3,La apuesta de LV por el ultra-lujo.
+HP-40217,Dior,Saddle Bag,Oblique Jacquard,Gris Asfalto,Oro (GHW),2022,N - Nuevo,Reservado,False,True,True,True,Consignment,4200,4292,5329,1037,19.4,El retorno del icono de los 2000.
+HP-67845,Loewe,Puzzle Small,Classic Calf,Azul Marino,Champagne,2022,A - Excelente,En Stock (24h),False,True,True,True,Consignment,3100,2262,2864,602,21.0,Obra maestra geométrica.
+HP-39999,Hermès,Birkin 25,Togo,Negro,Paladio (PHW),2018,A - Excelente,En Stock (24h),True,True,True,True,Consignment,10400,10131,12336,2205,17.9,El bolso más deseado del mundo.
+HP-75028,Dior,Lady Dior ABC (Small),Lambskin,Azul Marino,Oro (GHW),2023,A - Excelente,En Stock (24h),False,False,True,False,Owned,5900,4025,6058,2033,33.5,El bolso de la Princesa Diana.
+HP-79387,Dior,30 Montaigne,Box Calf,Gold,Oro (GHW),2022,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,3900,2851,4925,2074,42.1,Elegancia minimalista con cierre CD.
+HP-67330,Celine,Luggage Nano,Drummed Calf,Etoupe,Oro (GHW),2023,N - Nuevo,Bajo Pedido (15 días),False,False,True,True,Consignment,2600,2812,3357,545,16.2,El rostro inconfundible.
+HP-74784,Bottega Veneta,Cassette Padded,Lambskin,Gris Asfalto,Oro (GHW),2018,B - Buen estado,Bajo Pedido (15 días),False,False,True,False,Owned,4500,2328,3324,996,29.9,El Intrecciato maxi.
+HP-27696,Gucci,Dionysus Small,GG Supreme,Etoupe,Oro Viejo,2021,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,2980,2185,2641,456,17.2,Cierre de cabeza de tigre mitológico.
+HP-27504,Chanel,Boy Bag Old Medium,Calfskin,Gris Asfalto,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Consignment,6700,6023,7628,1605,21.0,Estilo rock-chic con bordes gráficos.
+HP-92219,Celine,Triomphe Classique,Shiny Calf,Verde,Rutenio,2023,AB - Muy bueno,En Stock (24h),True,False,True,True,Consignment,3950,2637,3200,563,17.6,El nuevo clásico parisino.
+HP-91197,Chanel,Classic Flap Jumbo,Caviar,Etoupe,Oro Viejo,2022,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,11000,8552,10691,2139,20.0,Para quien necesita más espacio.
+HP-76402,Bottega Veneta,Jodie Mini,Intrecciato,Etoupe,Oro (GHW),2021,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Consignment,2650,2049,2485,436,17.5,El nudo viral.
+HP-10294,Celine,Triomphe Classique,Shiny Calf,Negro,Rutenio,2024,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Consignment,3950,4127,4892,765,15.6,El nuevo clásico parisino.
+HP-34812,Louis Vuitton,Neverfull MM,Monogram,Gris Asfalto,Paladio (PHW),2025,N - Nuevo,En Sourcing,False,True,True,False,Owned,1950,1909,2562,653,25.4,El tote más vendido de la historia.
+HP-10876,Gucci,Dionysus Small,GG Supreme,Craie,Oro Viejo,2022,AB - Muy bueno,Reservado,True,False,True,True,Consignment,2980,2081,2480,399,16.1,Cierre de cabeza de tigre mitológico.
+HP-43995,Loewe,Flamenco Clutch,Nappa Calf,Verde,Champagne,2021,B - Buen estado,En Stock (24h),True,True,True,False,Owned,2450,1052,1810,758,41.9,Suavidad y nudos característicos.
+HP-25109,Gucci,Horsebit 1955,GG Supreme,Rouge H,Rutenio,2022,A - Excelente,En Stock (24h),True,False,True,False,Owned,2890,1700,2720,1020,37.5,Estilo ecuestre vintage.
+HP-10848,Hermès,Birkin 25,Togo,Gris Asfalto,Rutenio,2019,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Consignment,10400,7880,9723,1843,18.9,El bolso más deseado del mundo.
+HP-92304,Louis Vuitton,Neverfull MM,Monogram,Beige Trench,Paladio (PHW),2020,AB - Muy bueno,Reservado,False,True,True,False,Owned,1950,1085,1600,515,32.2,El tote más vendido de la historia.
+HP-79800,Loewe,Gate Dual Mini,Soft Calf,Etoupe,Paladio (PHW),2023,B - Buen estado,Reservado,True,False,True,False,Consignment,1950,1093,1399,306,21.9,El saddle bag español.
+HP-51809,Prada,Cleo Brushed,Spazzolato,Verde,Oro Viejo,2018,B - Buen estado,Bajo Pedido (15 días),True,False,True,True,Owned,2900,1349,2109,760,36.0,Futurismo retro.
+HP-48179,Chanel,Classic Flap Medium,Caviar,Rouge H,Rutenio,2024,AB - Muy bueno,En Sourcing,False,False,True,False,Consignment,10300,7391,8892,1501,16.9,El rey de la reventa. Piel resistente.
+HP-74974,Chanel,Classic Flap Jumbo,Caviar,Negro,Champagne,2020,A - Excelente,En Stock (24h),False,False,True,False,Owned,11000,7447,10126,2679,26.5,Para quien necesita más espacio.
+HP-14853,Celine,Belt Bag Nano,Grained Calf,Azul Marino,Paladio (PHW),2019,N - Nuevo,En Stock (24h),True,True,True,True,Owned,2300,2324,3281,957,29.1,Funcionalidad y discreción.
+HP-94593,Louis Vuitton,Alma BB,Epi Leather,Gold,Rutenio,2020,B - Buen estado,Bajo Pedido (15 días),False,True,True,False,Owned,1980,888,1469,581,39.5,Estructura Art Deco atemporal.
+HP-63413,Loewe,Hammock Compact,Soft Grain,Gold,Oro Viejo,2025,N - Nuevo,En Stock (24h),True,False,True,False,Consignment,2950,3240,3821,581,15.2,Versatilidad total.
+HP-44993,Gucci,Diana Bamboo Small,Leather,Negro,Rutenio,2024,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,3600,2101,2910,809,27.8,Asas de bambú neón.
+HP-75903,Louis Vuitton,Onthego GM,Giant Monogram,Negro,Champagne,2023,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Owned,3100,1796,2952,1156,39.1,Maxi logo para impacto visual.
+HP-15032,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gold,Paladio (PHW),2018,A - Excelente,En Stock (24h),False,False,True,False,Consignment,3500,2737,3399,662,19.5,Tamaño perfecto para diario.
+HP-53018,Dior,Saddle Bag,Oblique Jacquard,Beige Trench,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,4200,2601,3507,906,25.8,El retorno del icono de los 2000.
+HP-79109,Bottega Veneta,Jodie Mini,Intrecciato,Negro,Oro Viejo,2023,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Owned,2650,1417,2384,967,40.5,El nudo viral.
+HP-76865,Hermès,Kelly 28 Sellier,Box Calf,Gold,Oro (GHW),2020,B - Buen estado,Bajo Pedido (15 días),True,True,True,False,Owned,12500,5427,8863,3436,38.8,Elegancia estructurada con costuras visibles.
+HP-11509,Celine,Triomphe Classique,Shiny Calf,Rouge H,Oro (GHW),2021,AB - Muy bueno,En Sourcing,True,True,True,False,Owned,3950,2147,3380,1233,36.5,El nuevo clásico parisino.
+HP-66844,Bottega Veneta,Jodie Mini,Intrecciato,Negro,Oro (GHW),2021,A - Excelente,En Stock (24h),False,True,True,True,Owned,2650,1900,2602,702,27.0,El nudo viral.
+HP-35554,Hermès,Constance 18,Evercolor,Craie,Oro (GHW),2024,N - Nuevo,En Stock (24h),False,True,True,True,Consignment,8900,9250,10940,1690,15.4,La H icónica. Perfecto para crossbody.
+HP-80417,Dior,Lady Dior Mini,Satin/Strass,Etoupe,Oro Viejo,2024,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,5300,3919,4914,995,20.2,Joya de noche.
+HP-81331,Celine,Triomphe Classique,Shiny Calf,Gris Asfalto,Oro Viejo,2020,N - Nuevo,En Stock (24h),False,True,True,True,Owned,3950,3160,4782,1622,33.9,El nuevo clásico parisino.
+HP-52152,Gucci,Horsebit 1955,GG Supreme,Gris Asfalto,Oro Viejo,2018,AB - Muy bueno,En Stock (24h),True,True,True,False,Owned,2890,2002,2694,692,25.7,Estilo ecuestre vintage.
+HP-81593,Dior,Saddle Bag,Oblique Jacquard,Gris Asfalto,Oro (GHW),2024,N - Nuevo,En Stock (24h),False,False,True,False,Owned,4200,3279,5316,2037,38.3,El retorno del icono de los 2000.
+HP-74479,Gucci,Jackie 1961 Small,GG Supreme,Verde,Rutenio,2020,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,2950,2289,2718,429,15.8,El hobo bag renacido.
+HP-76092,Gucci,Marmont Matelassé Small,Leather,Gold,Oro (GHW),2020,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,2550,2413,2990,577,19.3,El superventas de la década.
+HP-84844,Hermès,Evelyne III PM,Clemence,Craie,Champagne,2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,3800,2673,3343,670,20.0,Casual y funcional con la H perforada.
+HP-39724,Fendi,Baguette 1997,Zucca Canvas,Verde,Oro (GHW),2024,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,3200,1871,3180,1309,41.1,"It's not a bag, it's a Baguette."
+HP-59837,Hermès,Birkin 25,Togo,Craie,Rutenio,2021,A - Excelente,En Stock (24h),True,True,True,True,Owned,10400,8609,11593,2984,25.7,El bolso más deseado del mundo.
+HP-63888,Bottega Veneta,Jodie Mini,Intrecciato,Gris Asfalto,Champagne,2021,N - Nuevo,Reservado,True,True,True,False,Owned,2650,2336,3407,1071,31.4,El nudo viral.
+HP-41247,Dior,Lady Dior Mini,Satin/Strass,Rouge H,Oro Viejo,2022,A - Excelente,En Stock (24h),True,False,True,False,Owned,5300,3124,5250,2126,40.5,Joya de noche.
+HP-85634,Dior,Lady Dior ABC (Small),Lambskin,Gold,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,True,True,False,Owned,5900,3314,5370,2056,38.3,El bolso de la Princesa Diana.
+HP-74095,Celine,Triomphe Classique,Shiny Calf,Craie,Rutenio,2020,A - Excelente,En Stock (24h),True,False,True,False,Owned,3950,2245,3802,1557,41.0,El nuevo clásico parisino.
+HP-99993,Gucci,Marmont Matelassé Small,Leather,Gold,Paladio (PHW),2023,A - Excelente,En Stock (24h),False,True,True,False,Consignment,2550,2044,2592,548,21.1,El superventas de la década.
+HP-76964,Hermès,Kelly 25 Retourne,Swift,Gold,Rutenio,2022,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,11800,8844,10946,2102,19.2,Acabado suave y relajado.
+HP-31238,Bottega Veneta,The Pouch,Butter Calf,Beige Trench,Champagne,2022,A - Excelente,En Stock (24h),True,False,True,False,Consignment,3200,2622,3255,633,19.4,El clutch que inició la era.
+HP-43600,Dior,Saddle Bag,Oblique Jacquard,Rouge H,Rutenio,2024,A - Excelente,En Stock (24h),True,True,True,False,Consignment,4200,3585,4264,679,15.9,El retorno del icono de los 2000.
+HP-51598,Bottega Veneta,Jodie Mini,Intrecciato,Gold,Oro (GHW),2021,N - Nuevo,En Stock (24h),False,True,True,True,Consignment,2650,2863,3421,558,16.3,El nudo viral.
+HP-25698,Louis Vuitton,Onthego GM,Giant Monogram,Azul Marino,Champagne,2021,A - Excelente,En Stock (24h),True,False,True,False,Consignment,3100,2606,3108,502,16.1,Maxi logo para impacto visual.
+HP-49583,Dior,Saddle Bag,Oblique Jacquard,Gold,Oro Viejo,2018,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,4200,2297,3779,1482,39.2,El retorno del icono de los 2000.
+HP-61811,Bottega Veneta,Cassette Padded,Lambskin,Craie,Paladio (PHW),2019,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,4500,2760,3732,972,26.0,El Intrecciato maxi.
+HP-99591,Louis Vuitton,Capucines BB,Taurillon,Beige Trench,Rutenio,2019,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Consignment,6100,4292,5191,899,17.3,La apuesta de LV por el ultra-lujo.
+HP-20780,Bottega Veneta,The Pouch,Butter Calf,Azul Marino,Paladio (PHW),2024,AB - Muy bueno,En Sourcing,True,True,True,False,Owned,3200,1590,2845,1255,44.1,El clutch que inició la era.
+HP-26274,Dior,Lady Dior Mini,Satin/Strass,Beige Trench,Oro Viejo,2025,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,5300,3920,4814,894,18.6,Joya de noche.
+HP-13181,Gucci,Diana Bamboo Small,Leather,Rouge H,Paladio (PHW),2025,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,3600,2667,3237,570,17.6,Asas de bambú neón.
+HP-86277,Hermès,Kelly 25 Retourne,Swift,Azul Marino,Paladio (PHW),2025,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,11800,8595,12041,3446,28.6,Acabado suave y relajado.
+HP-63924,Prada,Galleria Saffiano Small,Saffiano,Etoupe,Rutenio,2023,B - Buen estado,En Sourcing,True,False,True,False,Consignment,3600,2034,2487,453,18.2,El maletín ejecutivo.
+HP-92468,Hermès,Constance 18,Evercolor,Gris Asfalto,Oro (GHW),2023,N - Nuevo,En Stock (24h),False,True,True,True,Owned,8900,7803,11645,3842,33.0,La H icónica. Perfecto para crossbody.
+HP-80613,Hermès,Kelly 25 Retourne,Swift,Etoupe,Paladio (PHW),2025,B - Buen estado,En Stock (24h),False,True,True,True,Owned,11800,5684,8773,3089,35.2,Acabado suave y relajado.
+HP-75439,Bottega Veneta,Jodie Mini,Intrecciato,Negro,Champagne,2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,2650,1341,2368,1027,43.4,El nudo viral.
+HP-44394,Louis Vuitton,Capucines BB,Taurillon,Gold,Oro (GHW),2025,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Consignment,6100,5626,7046,1420,20.1,La apuesta de LV por el ultra-lujo.
+HP-70767,Dior,30 Montaigne,Box Calf,Gold,Oro (GHW),2020,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Consignment,3900,3585,4481,896,20.0,Elegancia minimalista con cierre CD.
+HP-77496,Bottega Veneta,Jodie Teen,Suede Intrecciato,Azul Marino,Oro (GHW),2022,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Owned,3500,3229,4527,1298,28.7,Tamaño perfecto para diario.
+HP-30774,Chanel,Wallet on Chain (WOC),Caviar,Gold,Rutenio,2025,N - Nuevo,En Stock (24h),True,True,True,True,Owned,3500,3239,4686,1447,30.9,El esencial de entrada a la marca.
+HP-59330,Bottega Veneta,Cassette Padded,Lambskin,Etoupe,Oro Viejo,2019,B - Buen estado,Reservado,True,False,True,True,Owned,4500,1994,3037,1043,34.3,El Intrecciato maxi.
+HP-81671,Chanel,Classic Flap Small,Lambskin,Gold,Oro Viejo,2020,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Consignment,9600,6209,7772,1563,20.1,"Suavidad extrema, cuidado delicado."
+HP-75516,Hermès,Birkin 25,Togo,Gris Asfalto,Paladio (PHW),2020,AB - Muy bueno,En Stock (24h),True,True,True,False,Owned,10400,6740,9105,2365,26.0,El bolso más deseado del mundo.
+HP-68057,Dior,30 Montaigne,Box Calf,Rouge H,Champagne,2022,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Consignment,3900,2858,3513,655,18.6,Elegancia minimalista con cierre CD.
+HP-40897,Dior,Lady Dior ABC (Small),Lambskin,Rouge H,Champagne,2023,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,5900,4450,5943,1493,25.1,El bolso de la Princesa Diana.
+HP-47437,Bottega Veneta,Jodie Mini,Intrecciato,Etoupe,Oro Viejo,2022,AB - Muy bueno,Reservado,True,False,True,False,Owned,2650,1321,2295,974,42.4,El nudo viral.
+HP-43399,Hermès,Kelly 25 Retourne,Swift,Craie,Oro Viejo,2023,A - Excelente,En Stock (24h),False,False,True,True,Consignment,11800,9572,11811,2239,19.0,Acabado suave y relajado.
+HP-47682,Chanel,Boy Bag Old Medium,Calfskin,Negro,Oro (GHW),2020,N - Nuevo,En Stock (24h),False,False,True,False,Consignment,6700,6988,8795,1807,20.5,Estilo rock-chic con bordes gráficos.
+HP-19161,Louis Vuitton,Onthego GM,Giant Monogram,Gris Asfalto,Oro Viejo,2021,N - Nuevo,En Stock (24h),True,True,True,True,Owned,3100,2400,4208,1808,42.9,Maxi logo para impacto visual.
+HP-10529,Gucci,Jackie 1961 Small,GG Supreme,Negro,Paladio (PHW),2021,A - Excelente,En Stock (24h),True,False,True,False,Consignment,2950,2289,2867,578,20.1,El hobo bag renacido.
+HP-47301,Loewe,Hammock Compact,Soft Grain,Gris Asfalto,Champagne,2020,B - Buen estado,En Stock (24h),True,False,True,True,Owned,2950,1392,2082,690,33.1,Versatilidad total.
+HP-14026,Bottega Veneta,The Pouch,Butter Calf,Negro,Oro Viejo,2020,AB - Muy bueno,En Stock (24h),False,False,True,True,Consignment,3200,2209,2675,466,17.4,El clutch que inició la era.
+HP-41435,Loewe,Puzzle Small,Classic Calf,Verde,Champagne,2024,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,3100,1581,2628,1047,39.8,Obra maestra geométrica.
+HP-72481,Dior,Lady Dior ABC (Small),Lambskin,Verde,Champagne,2019,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,5900,3968,5470,1502,27.4,El bolso de la Princesa Diana.
+HP-49897,Loewe,Flamenco Clutch,Nappa Calf,Etoupe,Oro (GHW),2022,B - Buen estado,Bajo Pedido (15 días),False,False,True,False,Owned,2450,1120,1871,751,40.1,Suavidad y nudos característicos.
+HP-62172,Hermès,Kelly 25 Retourne,Swift,Gold,Champagne,2025,AB - Muy bueno,En Sourcing,True,True,True,True,Consignment,11800,8807,11116,2309,20.8,Acabado suave y relajado.
+HP-16857,Louis Vuitton,Alma BB,Epi Leather,Azul Marino,Oro (GHW),2018,A - Excelente,En Stock (24h),True,False,True,False,Consignment,1980,1663,1989,326,16.4,Estructura Art Deco atemporal.
+HP-87845,Louis Vuitton,Alma BB,Epi Leather,Azul Marino,Rutenio,2019,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Owned,1980,915,1617,702,43.4,Estructura Art Deco atemporal.
+HP-49499,Prada,Re-Edition 2005,Re-Nylon,Azul Marino,Champagne,2024,A - Excelente,En Stock (24h),False,True,True,True,Owned,1980,1359,1969,610,31.0,El icono del Y2K.
+HP-64473,Chanel,Chanel 19 Large,Goatskin,Etoupe,Oro Viejo,2024,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,7100,5051,6123,1072,17.5,Modernidad con acolchado maxi.
+HP-38593,Chanel,Chanel 19 Large,Goatskin,Rouge H,Rutenio,2023,B - Buen estado,En Stock (24h),True,True,True,True,Owned,7100,3941,5956,2015,33.8,Modernidad con acolchado maxi.
+HP-97500,Hermès,Birkin 30,Epsom,Verde,Paladio (PHW),2025,A - Excelente,En Sourcing,False,True,True,False,Consignment,11200,8686,10695,2009,18.8,"Tamaño clásico, estructura rígida."
+HP-60767,Loewe,Flamenco Clutch,Nappa Calf,Craie,Rutenio,2025,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Owned,2450,1680,3049,1369,44.9,Suavidad y nudos característicos.
+HP-88850,Louis Vuitton,Neverfull MM,Monogram,Verde,Oro (GHW),2022,A - Excelente,En Sourcing,True,False,True,True,Owned,1950,1162,1909,747,39.1,El tote más vendido de la historia.
+HP-42108,Hermès,Birkin 25,Togo,Verde,Paladio (PHW),2023,A - Excelente,En Stock (24h),True,False,True,True,Consignment,10400,8688,10719,2031,18.9,El bolso más deseado del mundo.
+HP-97201,Gucci,Horsebit 1955,GG Supreme,Azul Marino,Champagne,2022,A - Excelente,En Stock (24h),True,True,True,True,Owned,2890,2339,3393,1054,31.1,Estilo ecuestre vintage.
+HP-74297,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gold,Oro (GHW),2023,B - Buen estado,Bajo Pedido (15 días),True,False,True,False,Consignment,3500,2080,2577,497,19.3,Tamaño perfecto para diario.
+HP-72640,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Beige Trench,Rutenio,2023,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Owned,1800,1241,2239,998,44.6,Icono urbano indestructible.
+HP-99583,Celine,Ava Bag,Triomphe Canvas,Gold,Rutenio,2023,B - Buen estado,Bajo Pedido (15 días),True,False,True,False,Owned,1700,661,1181,520,44.0,La silueta de media luna.
+HP-26008,Loewe,Gate Dual Mini,Soft Calf,Beige Trench,Oro (GHW),2024,A - Excelente,En Stock (24h),True,False,True,False,Owned,1950,1382,1882,500,26.6,El saddle bag español.
+HP-33032,Hermès,Picotin Lock 18,Clemence,Verde,Oro Viejo,2024,AB - Muy bueno,En Stock (24h),True,False,True,True,Owned,3400,2008,3043,1035,34.0,El bucket bag de lujo por excelencia.
+HP-58321,Louis Vuitton,Capucines BB,Taurillon,Negro,Paladio (PHW),2021,A - Excelente,Reservado,True,False,True,False,Owned,6100,4131,5604,1473,26.3,La apuesta de LV por el ultra-lujo.
+HP-24472,Louis Vuitton,Pochette Métis,Monogram Reverse,Gold,Oro Viejo,2025,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,2700,1540,2605,1065,40.9,El satchel perfecto para diario.
+HP-57590,Celine,Ava Bag,Triomphe Canvas,Craie,Rutenio,2020,B - Buen estado,Bajo Pedido (15 días),True,False,True,True,Owned,1700,641,1134,493,43.4,La silueta de media luna.
+HP-15541,Chanel,Classic Flap Small,Lambskin,Gris Asfalto,Oro (GHW),2022,N - Nuevo,Bajo Pedido (15 días),True,True,True,True,Owned,9600,9842,13427,3585,26.7,"Suavidad extrema, cuidado delicado."
+HP-31843,Chanel,Wallet on Chain (WOC),Caviar,Negro,Paladio (PHW),2020,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,3500,2730,3346,616,18.4,El esencial de entrada a la marca.
+HP-50982,Dior,30 Montaigne,Box Calf,Beige Trench,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Consignment,3900,3740,4527,787,17.4,Elegancia minimalista con cierre CD.
+HP-49121,Gucci,Marmont Matelassé Small,Leather,Craie,Champagne,2021,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,2550,1677,2303,626,27.2,El superventas de la década.
+HP-77683,Fendi,Peekaboo ISeeU Small,Selleria,Gold,Champagne,2018,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Consignment,5400,5369,6331,962,15.2,Artesanía romana.
+HP-98951,Louis Vuitton,Onthego GM,Giant Monogram,Gold,Oro Viejo,2021,B - Buen estado,En Stock (24h),True,True,True,False,Consignment,3100,1898,2307,409,17.7,Maxi logo para impacto visual.
+HP-36517,Chanel,Classic Flap Medium,Caviar,Etoupe,Rutenio,2024,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,10300,6395,9506,3111,32.7,El rey de la reventa. Piel resistente.
+HP-42352,Chanel,Classic Flap Small,Lambskin,Gold,Oro Viejo,2025,A - Excelente,Reservado,False,True,True,False,Consignment,9600,7545,9200,1655,18.0,"Suavidad extrema, cuidado delicado."
+HP-45111,Celine,Belt Bag Nano,Grained Calf,Azul Marino,Rutenio,2020,AB - Muy bueno,Reservado,False,True,True,True,Owned,2300,1391,1869,478,25.5,Funcionalidad y discreción.
+HP-91861,Fendi,Baguette 1997,Zucca Canvas,Rouge H,Champagne,2021,N - Nuevo,Bajo Pedido (15 días),False,True,True,False,Owned,3200,2714,3824,1110,29.0,"It's not a bag, it's a Baguette."
+HP-26705,Celine,Belt Bag Nano,Grained Calf,Gris Asfalto,Champagne,2019,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,2300,1717,2046,329,16.1,Funcionalidad y discreción.
+HP-49494,Celine,Luggage Nano,Drummed Calf,Craie,Champagne,2018,B - Buen estado,Reservado,False,True,True,True,Owned,2600,1201,1878,677,36.0,El rostro inconfundible.
+HP-19307,Loewe,Flamenco Clutch,Nappa Calf,Rouge H,Champagne,2018,AB - Muy bueno,En Sourcing,False,True,True,True,Owned,2450,1354,2229,875,39.2,Suavidad y nudos característicos.
+HP-37188,Hermès,Evelyne III PM,Clemence,Craie,Rutenio,2023,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Owned,3800,1912,3475,1563,45.0,Casual y funcional con la H perforada.
+HP-39824,Celine,Triomphe Classique,Shiny Calf,Etoupe,Paladio (PHW),2021,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,3950,2158,3737,1579,42.2,El nuevo clásico parisino.
+HP-39132,Prada,Cleo Brushed,Spazzolato,Rouge H,Rutenio,2022,AB - Muy bueno,En Sourcing,False,False,True,False,Owned,2900,2011,2688,677,25.2,Futurismo retro.
+HP-32369,Louis Vuitton,Pochette Métis,Monogram Reverse,Craie,Rutenio,2023,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,2700,2101,2611,510,19.5,El satchel perfecto para diario.
+HP-25935,Dior,Book Tote Medium,Toile de Jouy,Etoupe,Oro Viejo,2020,A - Excelente,En Stock (24h),False,True,True,True,Consignment,3300,2717,3321,604,18.2,El bolso de viaje de la élite.
+HP-24342,Louis Vuitton,Alma BB,Epi Leather,Craie,Champagne,2025,A - Excelente,En Stock (24h),False,False,True,False,Consignment,1980,1569,1933,364,18.8,Estructura Art Deco atemporal.
+HP-96660,Gucci,Jackie 1961 Small,GG Supreme,Beige Trench,Paladio (PHW),2019,N - Nuevo,En Stock (24h),False,False,True,True,Owned,2950,2342,3716,1374,37.0,El hobo bag renacido.
+HP-88937,Hermès,Evelyne III PM,Clemence,Gold,Oro Viejo,2020,A - Excelente,En Sourcing,False,True,True,False,Owned,3800,2305,3769,1464,38.8,Casual y funcional con la H perforada.
+HP-63442,Chanel,Classic Flap Small,Lambskin,Negro,Champagne,2019,A - Excelente,En Stock (24h),True,True,True,True,Owned,9600,6980,11050,4070,36.8,"Suavidad extrema, cuidado delicado."
+HP-82391,Chanel,Classic Flap Medium,Caviar,Negro,Paladio (PHW),2022,N - Nuevo,Bajo Pedido (15 días),True,True,True,False,Owned,10300,7855,13542,5687,42.0,El rey de la reventa. Piel resistente.
+HP-77719,Celine,Triomphe Classique,Shiny Calf,Beige Trench,Rutenio,2020,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,3950,3242,3895,653,16.8,El nuevo clásico parisino.
+HP-49607,Hermès,Kelly 25 Retourne,Swift,Etoupe,Paladio (PHW),2023,A - Excelente,En Stock (24h),True,False,True,True,Owned,11800,7791,10900,3109,28.5,Acabado suave y relajado.
+HP-21346,Hermès,Evelyne III PM,Clemence,Beige Trench,Champagne,2021,A - Excelente,En Stock (24h),False,False,True,False,Owned,3800,2234,3970,1736,43.7,Casual y funcional con la H perforada.
+HP-79883,Celine,Triomphe Classique,Shiny Calf,Gold,Paladio (PHW),2019,A - Excelente,En Stock (24h),False,True,True,False,Owned,3950,2832,4014,1182,29.4,El nuevo clásico parisino.
+HP-79504,Gucci,Jackie 1961 Small,GG Supreme,Azul Marino,Oro Viejo,2024,A - Excelente,En Stock (24h),False,False,True,False,Consignment,2950,2302,2833,531,18.7,El hobo bag renacido.
+HP-20586,Loewe,Gate Dual Mini,Soft Calf,Gold,Oro Viejo,2020,N - Nuevo,En Sourcing,False,False,True,False,Consignment,1950,2163,2555,392,15.3,El saddle bag español.
+HP-16131,Louis Vuitton,Capucines BB,Taurillon,Etoupe,Champagne,2020,B - Buen estado,En Stock (24h),True,False,True,False,Owned,6100,3278,4696,1418,30.2,La apuesta de LV por el ultra-lujo.
+HP-65296,Chanel,Wallet on Chain (WOC),Caviar,Negro,Oro (GHW),2025,N - Nuevo,En Stock (24h),False,False,True,True,Owned,3500,3089,4240,1151,27.1,El esencial de entrada a la marca.
+HP-31533,Chanel,Boy Bag Old Medium,Calfskin,Negro,Paladio (PHW),2018,B - Buen estado,Reservado,True,False,True,True,Consignment,6700,3651,4529,878,19.4,Estilo rock-chic con bordes gráficos.
+HP-87387,Louis Vuitton,Capucines BB,Taurillon,Rouge H,Oro (GHW),2024,A - Excelente,En Stock (24h),False,False,True,True,Owned,6100,3334,5505,2171,39.4,La apuesta de LV por el ultra-lujo.
+HP-57720,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Etoupe,Rutenio,2018,A - Excelente,En Stock (24h),True,True,True,False,Owned,1800,1214,1769,555,31.4,Icono urbano indestructible.
+HP-62009,Gucci,Marmont Matelassé Small,Leather,Gold,Oro (GHW),2024,A - Excelente,En Stock (24h),True,True,True,False,Owned,2550,1454,2645,1191,45.0,El superventas de la década.
+HP-59404,Prada,Cleo Brushed,Spazzolato,Negro,Rutenio,2018,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,2900,2019,2440,421,17.3,Futurismo retro.
+HP-26092,Hermès,Constance 18,Evercolor,Azul Marino,Rutenio,2025,AB - Muy bueno,En Stock (24h),True,False,True,True,Consignment,8900,6639,8283,1644,19.8,La H icónica. Perfecto para crossbody.
+HP-32765,Hermès,Birkin 30,Epsom,Rouge H,Champagne,2021,A - Excelente,En Stock (24h),True,True,True,True,Consignment,11200,9477,11715,2238,19.1,"Tamaño clásico, estructura rígida."
+HP-17530,Fendi,Baguette 1997,Zucca Canvas,Beige Trench,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,3200,1806,2818,1012,35.9,"It's not a bag, it's a Baguette."
+HP-41783,Loewe,Gate Dual Mini,Soft Calf,Beige Trench,Rutenio,2025,B - Buen estado,Bajo Pedido (15 días),False,False,True,False,Owned,1950,958,1333,375,28.1,El saddle bag español.
+HP-88347,Gucci,Horsebit 1955,GG Supreme,Gold,Oro (GHW),2021,A - Excelente,En Stock (24h),True,True,True,False,Consignment,2890,2410,2848,438,15.4,Estilo ecuestre vintage.
+HP-51931,Dior,30 Montaigne,Box Calf,Craie,Paladio (PHW),2019,AB - Muy bueno,Reservado,True,False,True,False,Consignment,3900,2674,3412,738,21.6,Elegancia minimalista con cierre CD.
+HP-97107,Hermès,Picotin Lock 18,Clemence,Craie,Oro (GHW),2025,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,3400,1976,3339,1363,40.8,El bucket bag de lujo por excelencia.
+HP-87013,Bottega Veneta,The Pouch,Butter Calf,Gold,Oro Viejo,2019,A - Excelente,En Stock (24h),True,False,True,False,Consignment,3200,2472,3112,640,20.6,El clutch que inició la era.
+HP-78387,Bottega Veneta,The Pouch,Butter Calf,Negro,Rutenio,2024,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,3200,1941,2864,923,32.2,El clutch que inició la era.
+HP-53975,Louis Vuitton,Neverfull MM,Monogram,Gold,Rutenio,2019,A - Excelente,En Stock (24h),True,True,True,False,Owned,1950,1350,1984,634,31.9,El tote más vendido de la historia.
+HP-70363,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Gold,Champagne,2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Owned,1800,951,1609,658,40.8,Icono urbano indestructible.
+HP-71989,Gucci,Dionysus Small,GG Supreme,Beige Trench,Rutenio,2023,N - Nuevo,En Stock (24h),False,False,True,True,Owned,2980,2403,3492,1089,31.2,Cierre de cabeza de tigre mitológico.
+HP-34443,Prada,Re-Edition 2005,Re-Nylon,Gold,Oro (GHW),2025,A - Excelente,Reservado,False,False,True,True,Owned,1980,1137,1866,729,39.0,El icono del Y2K.
+HP-56162,Dior,Saddle Bag,Oblique Jacquard,Gris Asfalto,Champagne,2021,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,4200,2076,3712,1636,44.0,El retorno del icono de los 2000.
+HP-15330,Gucci,Horsebit 1955,GG Supreme,Etoupe,Rutenio,2025,A - Excelente,En Stock (24h),True,False,True,True,Owned,2890,1695,2820,1125,39.9,Estilo ecuestre vintage.
+HP-96663,Fendi,Fendi First Small,Nappa,Rouge H,Paladio (PHW),2020,N - Nuevo,En Stock (24h),True,True,True,False,Owned,3400,2990,4449,1459,32.8,La F arquitectónica.
+HP-26108,Prada,Galleria Saffiano Small,Saffiano,Gris Asfalto,Rutenio,2020,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Consignment,3600,2536,3178,642,20.2,El maletín ejecutivo.
+HP-26782,Hermès,Kelly 28 Sellier,Box Calf,Rouge H,Oro Viejo,2022,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,12500,9329,11088,1759,15.9,Elegancia estructurada con costuras visibles.
+HP-90816,Loewe,Hammock Compact,Soft Grain,Gold,Rutenio,2021,A - Excelente,En Sourcing,False,True,True,False,Owned,2950,1812,2920,1108,37.9,Versatilidad total.
+HP-85786,Celine,Belt Bag Nano,Grained Calf,Gold,Paladio (PHW),2024,AB - Muy bueno,Reservado,True,True,True,False,Owned,2300,1439,2124,685,32.2,Funcionalidad y discreción.
+HP-41835,Chanel,2.55 Reissue 226,Aged Calfskin,Beige Trench,Paladio (PHW),2024,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,10300,4770,8604,3834,44.6,El original de Coco Chanel.
+HP-42931,Gucci,Jackie 1961 Small,GG Supreme,Negro,Oro Viejo,2018,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,2950,2044,2441,397,16.2,El hobo bag renacido.
+HP-60767,Celine,Ava Bag,Triomphe Canvas,Rouge H,Champagne,2020,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,1700,1587,1954,367,18.8,La silueta de media luna.
+HP-19203,Dior,Lady Dior ABC (Small),Lambskin,Negro,Rutenio,2024,A - Excelente,Reservado,True,False,True,False,Owned,5900,4034,5851,1817,31.1,El bolso de la Princesa Diana.
+HP-52983,Hermès,Birkin 25,Togo,Etoupe,Paladio (PHW),2023,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,True,Consignment,10400,7915,9857,1942,19.7,El bolso más deseado del mundo.
+HP-25033,Loewe,Puzzle Small,Classic Calf,Beige Trench,Oro Viejo,2025,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Consignment,3100,2305,2848,543,19.0,Obra maestra geométrica.
+HP-49966,Prada,Galleria Saffiano Small,Saffiano,Gris Asfalto,Oro Viejo,2024,A - Excelente,En Stock (24h),True,False,True,True,Owned,3600,2108,3704,1596,43.1,El maletín ejecutivo.
+HP-30688,Gucci,Jackie 1961 Small,GG Supreme,Gold,Oro Viejo,2022,A - Excelente,En Stock (24h),True,False,True,False,Consignment,2950,2436,3063,627,20.5,El hobo bag renacido.
+HP-80715,Chanel,Chanel 19 Large,Goatskin,Azul Marino,Rutenio,2021,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Consignment,7100,7203,8580,1377,16.0,Modernidad con acolchado maxi.
+HP-16174,Bottega Veneta,Cassette Padded,Lambskin,Verde,Oro (GHW),2025,A - Excelente,En Stock (24h),True,False,True,False,Owned,4500,2450,4205,1755,41.7,El Intrecciato maxi.
+HP-69767,Celine,Belt Bag Nano,Grained Calf,Verde,Paladio (PHW),2018,N - Nuevo,En Stock (24h),True,True,True,False,Owned,2300,1873,2689,816,30.3,Funcionalidad y discreción.
+HP-33910,Hermès,Kelly 28 Sellier,Box Calf,Craie,Paladio (PHW),2022,AB - Muy bueno,En Sourcing,True,False,True,False,Owned,12500,8212,11218,3006,26.8,Elegancia estructurada con costuras visibles.
+HP-27759,Chanel,Chanel 19 Large,Goatskin,Azul Marino,Paladio (PHW),2023,N - Nuevo,En Stock (24h),True,True,True,True,Consignment,7100,8529,10171,1642,16.1,Modernidad con acolchado maxi.
+HP-47747,Gucci,Diana Bamboo Small,Leather,Gris Asfalto,Oro Viejo,2018,A - Excelente,En Stock (24h),True,False,True,False,Owned,3600,1961,3345,1384,41.4,Asas de bambú neón.
+HP-39307,Bottega Veneta,Jodie Mini,Intrecciato,Craie,Oro Viejo,2023,AB - Muy bueno,En Sourcing,False,True,True,False,Owned,2650,1375,2243,868,38.7,El nudo viral.
+HP-37203,Bottega Veneta,Cassette Padded,Lambskin,Verde,Champagne,2022,A - Excelente,En Stock (24h),True,False,True,False,Consignment,4500,3733,4690,957,20.4,El Intrecciato maxi.
+HP-32854,Dior,30 Montaigne,Box Calf,Craie,Rutenio,2022,AB - Muy bueno,En Sourcing,True,True,True,False,Owned,3900,2044,3397,1353,39.8,Elegancia minimalista con cierre CD.
+HP-81524,Louis Vuitton,Alma BB,Epi Leather,Verde,Champagne,2021,A - Excelente,En Stock (24h),True,False,True,False,Consignment,1980,1709,2060,351,17.0,Estructura Art Deco atemporal.
+HP-92800,Dior,30 Montaigne,Box Calf,Gris Asfalto,Oro (GHW),2023,B - Buen estado,Bajo Pedido (15 días),False,False,True,False,Owned,3900,2012,2729,717,26.3,Elegancia minimalista con cierre CD.
+HP-47262,Louis Vuitton,Multi Pochette Accessoires,Monogram,Gold,Paladio (PHW),2025,B - Buen estado,En Sourcing,False,True,True,True,Owned,2600,1474,1972,498,25.2,El favorito del Street Style.
+HP-56591,Gucci,Diana Bamboo Small,Leather,Verde,Oro Viejo,2023,A - Excelente,En Stock (24h),False,False,True,False,Owned,3600,2589,3471,882,25.4,Asas de bambú neón.
+HP-98981,Loewe,Flamenco Clutch,Nappa Calf,Craie,Champagne,2022,N - Nuevo,En Stock (24h),False,False,True,False,Consignment,2450,2313,2842,529,18.6,Suavidad y nudos característicos.
+HP-52250,Loewe,Hammock Compact,Soft Grain,Gris Asfalto,Paladio (PHW),2022,A - Excelente,Reservado,False,False,True,False,Consignment,2950,2290,2802,512,18.3,Versatilidad total.
+HP-49939,Louis Vuitton,Pochette Métis,Monogram Reverse,Azul Marino,Rutenio,2022,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Owned,2700,1685,2390,705,29.5,El satchel perfecto para diario.
+HP-13238,Hermès,Constance 18,Evercolor,Etoupe,Oro (GHW),2022,A - Excelente,En Stock (24h),True,True,True,False,Consignment,8900,7232,9006,1774,19.7,La H icónica. Perfecto para crossbody.
+HP-84216,Loewe,Flamenco Clutch,Nappa Calf,Negro,Paladio (PHW),2020,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Owned,2450,1205,2009,804,40.0,Suavidad y nudos característicos.
+HP-56718,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Verde,Champagne,2018,B - Buen estado,En Stock (24h),True,True,True,True,Owned,1800,796,1414,618,43.7,Icono urbano indestructible.
+HP-53929,Prada,Galleria Saffiano Small,Saffiano,Beige Trench,Champagne,2024,A - Excelente,En Sourcing,True,True,True,False,Owned,3600,2188,3726,1538,41.3,El maletín ejecutivo.
+HP-16685,Louis Vuitton,Capucines BB,Taurillon,Beige Trench,Oro (GHW),2021,AB - Muy bueno,En Stock (24h),False,False,True,False,Consignment,6100,4621,5542,921,16.6,La apuesta de LV por el ultra-lujo.
+HP-43017,Prada,Re-Edition 2005,Re-Nylon,Azul Marino,Rutenio,2021,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Owned,1980,1769,2600,831,31.9,El icono del Y2K.
+HP-48235,Fendi,Peekaboo ISeeU Small,Selleria,Craie,Champagne,2024,A - Excelente,En Stock (24h),True,True,True,False,Owned,5400,3041,5241,2200,42.0,Artesanía romana.
+HP-12848,Celine,Luggage Nano,Drummed Calf,Gris Asfalto,Oro Viejo,2022,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,2600,1635,2409,774,32.1,El rostro inconfundible.
+HP-43860,Hermès,Birkin 25,Togo,Gris Asfalto,Paladio (PHW),2021,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,10400,7148,8761,1613,18.4,El bolso más deseado del mundo.
+HP-53241,Chanel,Classic Flap Medium,Caviar,Gris Asfalto,Champagne,2025,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,10300,5748,9508,3760,39.5,El rey de la reventa. Piel resistente.
+HP-30651,Hermès,Evelyne III PM,Clemence,Beige Trench,Paladio (PHW),2025,A - Excelente,En Sourcing,True,False,True,True,Consignment,3800,3136,3938,802,20.3,Casual y funcional con la H perforada.
+HP-33827,Celine,Luggage Nano,Drummed Calf,Etoupe,Champagne,2021,A - Excelente,En Stock (24h),False,True,True,False,Owned,2600,1745,2380,635,26.7,El rostro inconfundible.
+HP-24079,Fendi,Fendi First Small,Nappa,Gold,Oro Viejo,2020,B - Buen estado,En Stock (24h),True,True,True,False,Consignment,3400,1848,2336,488,20.9,La F arquitectónica.
+HP-11345,Loewe,Hammock Compact,Soft Grain,Craie,Oro (GHW),2024,AB - Muy bueno,En Stock (24h),False,False,True,True,Owned,2950,1517,2480,963,38.8,Versatilidad total.
+HP-53268,Hermès,Constance 18,Evercolor,Craie,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Owned,8900,5458,8658,3200,37.0,La H icónica. Perfecto para crossbody.
+HP-90255,Louis Vuitton,Capucines BB,Taurillon,Craie,Oro Viejo,2025,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Owned,6100,4079,5578,1499,26.9,La apuesta de LV por el ultra-lujo.
+HP-56277,Louis Vuitton,Capucines BB,Taurillon,Etoupe,Rutenio,2019,B - Buen estado,En Stock (24h),True,False,True,True,Consignment,6100,3569,4272,703,16.5,La apuesta de LV por el ultra-lujo.
+HP-87485,Chanel,Classic Flap Jumbo,Caviar,Craie,Champagne,2021,A - Excelente,En Stock (24h),False,True,True,True,Owned,11000,5602,9976,4374,43.8,Para quien necesita más espacio.
+HP-31145,Chanel,2.55 Reissue 226,Aged Calfskin,Azul Marino,Rutenio,2024,AB - Muy bueno,Bajo Pedido (15 días),False,False,True,False,Owned,10300,6405,9274,2869,30.9,El original de Coco Chanel.
+HP-89959,Prada,Re-Edition 2005,Re-Nylon,Verde,Champagne,2023,B - Buen estado,En Stock (24h),False,False,True,True,Owned,1980,780,1382,602,43.5,El icono del Y2K.
+HP-45869,Chanel,Classic Flap Small,Lambskin,Beige Trench,Rutenio,2023,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,9600,5490,8946,3456,38.6,"Suavidad extrema, cuidado delicado."
+HP-66580,Louis Vuitton,Multi Pochette Accessoires,Monogram,Gold,Rutenio,2021,N - Nuevo,Bajo Pedido (15 días),True,False,True,True,Consignment,2600,2469,3001,532,17.7,El favorito del Street Style.
+HP-99388,Fendi,Fendi First Small,Nappa,Verde,Rutenio,2022,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Consignment,3400,2605,3331,726,21.8,La F arquitectónica.
+HP-63900,Dior,Saddle Bag,Oblique Jacquard,Rouge H,Oro (GHW),2020,B - Buen estado,En Stock (24h),True,True,True,False,Consignment,4200,2401,2835,434,15.3,El retorno del icono de los 2000.
+HP-90919,Chanel,Chanel 19 Large,Goatskin,Gold,Paladio (PHW),2018,A - Excelente,En Stock (24h),True,True,True,True,Owned,7100,5552,7674,2122,27.6,Modernidad con acolchado maxi.
+HP-59304,Loewe,Flamenco Clutch,Nappa Calf,Craie,Rutenio,2022,A - Excelente,En Stock (24h),False,True,True,False,Owned,2450,1558,2238,680,30.3,Suavidad y nudos característicos.
+HP-81621,Chanel,2.55 Reissue 226,Aged Calfskin,Etoupe,Champagne,2019,A - Excelente,En Sourcing,True,True,True,False,Owned,10300,7142,9914,2772,28.0,El original de Coco Chanel.
+HP-76131,Gucci,Marmont Matelassé Small,Leather,Verde,Champagne,2019,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,2550,1390,2091,701,33.5,El superventas de la década.
+HP-74393,Gucci,Marmont Matelassé Small,Leather,Azul Marino,Rutenio,2021,N - Nuevo,En Stock (24h),True,False,True,False,Owned,2550,1996,3093,1097,35.5,El superventas de la década.
+HP-62164,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gris Asfalto,Champagne,2021,A - Excelente,En Stock (24h),False,False,True,False,Owned,3500,1770,3184,1414,44.4,Tamaño perfecto para diario.
+HP-17384,Chanel,Classic Flap Small,Lambskin,Gris Asfalto,Champagne,2021,A - Excelente,En Stock (24h),False,True,True,False,Consignment,9600,7754,9198,1444,15.7,"Suavidad extrema, cuidado delicado."
+HP-59895,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Etoupe,Paladio (PHW),2021,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,1800,1478,1830,352,19.2,Icono urbano indestructible.
+HP-21744,Bottega Veneta,Jodie Teen,Suede Intrecciato,Verde,Rutenio,2018,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,3500,1824,3181,1357,42.6,Tamaño perfecto para diario.
+HP-53632,Chanel,Classic Flap Small,Lambskin,Gris Asfalto,Champagne,2025,N - Nuevo,En Stock (24h),False,True,True,False,Owned,9600,7929,12314,4385,35.6,"Suavidad extrema, cuidado delicado."
+HP-34411,Gucci,Jackie 1961 Small,GG Supreme,Azul Marino,Oro (GHW),2024,B - Buen estado,En Stock (24h),False,True,True,False,Owned,2950,1333,2051,718,35.0,El hobo bag renacido.
+HP-60608,Fendi,Fendi First Small,Nappa,Azul Marino,Oro Viejo,2022,N - Nuevo,En Stock (24h),False,False,True,False,Consignment,3400,3087,3906,819,20.9,La F arquitectónica.
+HP-41926,Loewe,Gate Dual Mini,Soft Calf,Etoupe,Oro Viejo,2020,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Consignment,1950,1308,1654,346,20.9,El saddle bag español.
+HP-77846,Dior,Lady Dior ABC (Small),Lambskin,Gold,Rutenio,2022,A - Excelente,Reservado,False,True,True,True,Owned,5900,4361,5831,1470,25.2,El bolso de la Princesa Diana.
+HP-29977,Hermès,Evelyne III PM,Clemence,Negro,Oro (GHW),2020,A - Excelente,En Stock (24h),True,True,True,False,Owned,3800,2102,3563,1461,41.0,Casual y funcional con la H perforada.
+HP-52161,Gucci,Marmont Matelassé Small,Leather,Craie,Oro (GHW),2019,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,2550,1711,2065,354,17.1,El superventas de la década.
+HP-99914,Chanel,Classic Flap Jumbo,Caviar,Negro,Paladio (PHW),2018,B - Buen estado,Bajo Pedido (15 días),True,True,True,True,Owned,11000,5641,9592,3951,41.2,Para quien necesita más espacio.
+HP-82909,Bottega Veneta,Jodie Teen,Suede Intrecciato,Beige Trench,Oro Viejo,2023,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,3500,1928,3323,1395,42.0,Tamaño perfecto para diario.
+HP-46848,Dior,Lady Dior Mini,Satin/Strass,Beige Trench,Rutenio,2021,A - Excelente,En Stock (24h),True,False,True,True,Owned,5300,3836,5186,1350,26.0,Joya de noche.
+HP-63876,Hermès,Kelly 25 Retourne,Swift,Verde,Paladio (PHW),2023,B - Buen estado,En Stock (24h),True,True,True,False,Owned,11800,6211,8656,2445,28.2,Acabado suave y relajado.
+HP-56445,Chanel,Boy Bag Old Medium,Calfskin,Gris Asfalto,Oro (GHW),2019,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Owned,6700,5340,7242,1902,26.3,Estilo rock-chic con bordes gráficos.
+HP-72329,Chanel,Wallet on Chain (WOC),Caviar,Gold,Champagne,2022,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,3500,1855,3160,1305,41.3,El esencial de entrada a la marca.
+HP-22613,Chanel,Boy Bag Old Medium,Calfskin,Etoupe,Paladio (PHW),2019,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,False,Owned,6700,4266,6232,1966,31.5,Estilo rock-chic con bordes gráficos.
+HP-69304,Celine,Triomphe Classique,Shiny Calf,Gold,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,3950,2189,3646,1457,40.0,El nuevo clásico parisino.
+HP-35757,Louis Vuitton,Alma BB,Epi Leather,Gris Asfalto,Oro Viejo,2025,A - Excelente,Bajo Pedido (15 días),False,True,True,False,Owned,1980,1064,1837,773,42.0,Estructura Art Deco atemporal.
+HP-12317,Louis Vuitton,Pochette Métis,Monogram Reverse,Verde,Paladio (PHW),2019,A - Excelente,Bajo Pedido (15 días),True,True,True,True,Owned,2700,1770,3134,1364,43.5,El satchel perfecto para diario.
+HP-67341,Chanel,Classic Flap Medium,Caviar,Gold,Oro Viejo,2019,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,10300,7125,9568,2443,25.5,El rey de la reventa. Piel resistente.
+HP-63294,Celine,Triomphe Classique,Shiny Calf,Azul Marino,Oro (GHW),2020,N - Nuevo,En Stock (24h),True,False,True,False,Consignment,3950,4062,4896,834,17.0,El nuevo clásico parisino.
+HP-70668,Loewe,Hammock Compact,Soft Grain,Gold,Champagne,2018,A - Excelente,En Stock (24h),True,True,True,False,Consignment,2950,2188,2761,573,20.7,Versatilidad total.
+HP-46853,Loewe,Gate Dual Mini,Soft Calf,Gold,Oro (GHW),2024,A - Excelente,En Stock (24h),False,False,True,False,Owned,1950,1261,1766,505,28.6,El saddle bag español.
+HP-18461,Loewe,Puzzle Small,Classic Calf,Gris Asfalto,Champagne,2022,AB - Muy bueno,En Stock (24h),True,False,True,False,Owned,3100,1832,2612,780,29.9,Obra maestra geométrica.
+HP-73228,Loewe,Puzzle Small,Classic Calf,Craie,Oro (GHW),2021,AB - Muy bueno,En Stock (24h),True,False,True,False,Consignment,3100,2164,2748,584,21.2,Obra maestra geométrica.
+HP-20901,Loewe,Hammock Compact,Soft Grain,Etoupe,Oro Viejo,2023,N - Nuevo,En Stock (24h),True,True,True,False,Consignment,2950,3057,3787,730,19.3,Versatilidad total.
+HP-60810,Loewe,Flamenco Clutch,Nappa Calf,Rouge H,Champagne,2022,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Consignment,2450,2551,3211,660,20.5,Suavidad y nudos característicos.
+HP-45399,Fendi,Baguette 1997,Zucca Canvas,Beige Trench,Oro (GHW),2021,A - Excelente,En Stock (24h),False,False,True,True,Owned,3200,2182,3216,1034,32.1,"It's not a bag, it's a Baguette."
+HP-39194,Fendi,Baguette 1997,Zucca Canvas,Craie,Oro (GHW),2024,AB - Muy bueno,Bajo Pedido (15 días),True,True,True,True,Owned,3200,1842,3142,1300,41.4,"It's not a bag, it's a Baguette."
+HP-41514,Hermès,Birkin 25,Togo,Verde,Oro Viejo,2020,B - Buen estado,Bajo Pedido (15 días),False,False,True,False,Owned,10400,5206,7647,2441,31.9,El bolso más deseado del mundo.
+HP-96719,Chanel,Boy Bag Old Medium,Calfskin,Gold,Oro Viejo,2021,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Owned,6700,4106,6468,2362,36.5,Estilo rock-chic con bordes gráficos.
+HP-62457,Hermès,Evelyne III PM,Clemence,Etoupe,Oro (GHW),2024,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,False,Consignment,3800,2877,3396,519,15.3,Casual y funcional con la H perforada.
+HP-94302,Dior,Lady Dior ABC (Small),Lambskin,Etoupe,Oro (GHW),2020,N - Nuevo,Bajo Pedido (15 días),True,False,True,False,Consignment,5900,6280,7422,1142,15.4,El bolso de la Princesa Diana.
+HP-38658,Bottega Veneta,Jodie Teen,Suede Intrecciato,Gris Asfalto,Oro (GHW),2022,N - Nuevo,Reservado,True,True,True,False,Consignment,3500,3615,4415,800,18.1,Tamaño perfecto para diario.
+HP-44559,Prada,Re-Edition 2005,Re-Nylon,Rouge H,Champagne,2022,A - Excelente,Bajo Pedido (15 días),False,False,True,False,Consignment,1980,1629,1981,352,17.8,El icono del Y2K.
+HP-96688,Chanel,Boy Bag Old Medium,Calfskin,Verde,Rutenio,2023,A - Excelente,En Stock (24h),False,True,True,True,Owned,6700,4151,6706,2555,38.1,Estilo rock-chic con bordes gráficos.
+HP-69964,Loewe,Hammock Compact,Soft Grain,Gold,Champagne,2021,A - Excelente,Bajo Pedido (15 días),True,False,True,False,Owned,2950,1898,2867,969,33.8,Versatilidad total.
+HP-50573,Fendi,Fendi First Small,Nappa,Verde,Champagne,2022,A - Excelente,En Stock (24h),False,False,True,False,Owned,3400,2170,3532,1362,38.5,La F arquitectónica.
+HP-76656,Louis Vuitton,Speedy 25 Bandoulière,Damier Ebene,Gris Asfalto,Paladio (PHW),2021,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,1800,1096,1627,531,32.6,Icono urbano indestructible.
+HP-17429,Chanel,Classic Flap Medium,Caviar,Azul Marino,Oro Viejo,2025,A - Excelente,En Stock (24h),True,True,True,False,Consignment,10300,8385,10372,1987,19.2,El rey de la reventa. Piel resistente.
+HP-13140,Gucci,Marmont Matelassé Small,Leather,Negro,Oro Viejo,2025,A - Excelente,En Sourcing,False,True,True,False,Consignment,2550,1877,2353,476,20.2,El superventas de la década.
+HP-20484,Hermès,Constance 18,Evercolor,Verde,Champagne,2022,B - Buen estado,En Sourcing,True,False,True,True,Consignment,8900,5420,6767,1347,19.9,La H icónica. Perfecto para crossbody.
+HP-19206,Loewe,Gate Dual Mini,Soft Calf,Craie,Champagne,2021,A - Excelente,En Stock (24h),True,False,True,False,Owned,1950,1179,1775,596,33.5,El saddle bag español.
+HP-78592,Fendi,Peekaboo ISeeU Small,Selleria,Etoupe,Oro Viejo,2022,AB - Muy bueno,En Stock (24h),True,True,True,False,Owned,5400,3063,4394,1331,30.3,Artesanía romana.
+HP-51249,Bottega Veneta,Cassette Padded,Lambskin,Azul Marino,Oro (GHW),2024,A - Excelente,En Stock (24h),True,True,True,False,Owned,4500,3081,4200,1119,26.6,El Intrecciato maxi.
+HP-85338,Celine,Triomphe Classique,Shiny Calf,Rouge H,Rutenio,2021,N - Nuevo,Reservado,False,False,True,False,Consignment,3950,4006,4921,915,18.6,El nuevo clásico parisino.
+HP-73780,Bottega Veneta,The Pouch,Butter Calf,Rouge H,Paladio (PHW),2019,N - Nuevo,En Stock (24h),False,True,True,True,Owned,3200,2289,3758,1469,39.1,El clutch que inició la era.
+HP-23016,Celine,Triomphe Classique,Shiny Calf,Etoupe,Paladio (PHW),2018,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,3950,1896,3344,1448,43.3,El nuevo clásico parisino.
+HP-62898,Louis Vuitton,Multi Pochette Accessoires,Monogram,Verde,Oro (GHW),2024,N - Nuevo,En Sourcing,False,True,True,False,Owned,2600,1856,3106,1250,40.2,El favorito del Street Style.
+HP-82347,Fendi,Peekaboo ISeeU Small,Selleria,Gold,Rutenio,2024,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Owned,5400,3746,5007,1261,25.2,Artesanía romana.
+HP-25201,Loewe,Puzzle Mini,Satin Calf,Etoupe,Champagne,2023,AB - Muy bueno,En Sourcing,True,False,True,False,Owned,2400,1546,2098,552,26.3,El favorito de las influencers.
+HP-43827,Dior,Saddle Bag,Oblique Jacquard,Azul Marino,Champagne,2022,A - Excelente,En Stock (24h),False,False,True,True,Owned,4200,2214,3806,1592,41.8,El retorno del icono de los 2000.
+HP-93275,Chanel,2.55 Reissue 226,Aged Calfskin,Rouge H,Champagne,2020,B - Buen estado,En Sourcing,False,False,True,False,Consignment,10300,5955,7066,1111,15.7,El original de Coco Chanel.
+HP-18426,Fendi,Fendi First Small,Nappa,Gris Asfalto,Paladio (PHW),2018,N - Nuevo,En Stock (24h),False,True,True,False,Owned,3400,3111,4213,1102,26.1,La F arquitectónica.
+HP-41336,Gucci,Dionysus Small,GG Supreme,Beige Trench,Champagne,2024,N - Nuevo,En Stock (24h),False,True,True,False,Consignment,2980,2950,3518,568,16.1,Cierre de cabeza de tigre mitológico.
+HP-69852,Celine,Luggage Nano,Drummed Calf,Gold,Rutenio,2023,A - Excelente,En Sourcing,True,True,True,False,Owned,2600,1563,2402,839,34.9,El rostro inconfundible.
+HP-58606,Celine,Triomphe Classique,Shiny Calf,Azul Marino,Oro (GHW),2021,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,3950,2106,3672,1566,42.6,El nuevo clásico parisino.
+HP-48125,Loewe,Gate Dual Mini,Soft Calf,Gris Asfalto,Paladio (PHW),2020,A - Excelente,En Stock (24h),False,True,True,True,Owned,1950,1108,1912,804,42.0,El saddle bag español.
+HP-43952,Hermès,Kelly 28 Sellier,Box Calf,Craie,Oro (GHW),2023,AB - Muy bueno,En Stock (24h),False,False,True,True,Consignment,12500,9402,11126,1724,15.5,Elegancia estructurada con costuras visibles.
+HP-99949,Celine,Luggage Nano,Drummed Calf,Negro,Paladio (PHW),2023,AB - Muy bueno,En Sourcing,False,False,True,True,Owned,2600,1437,2300,863,37.5,El rostro inconfundible.
+HP-42710,Hermès,Constance 18,Evercolor,Gris Asfalto,Oro Viejo,2021,N - Nuevo,En Sourcing,True,False,True,False,Owned,8900,7209,10229,3020,29.5,La H icónica. Perfecto para crossbody.
+HP-25417,Hermès,Kelly 25 Retourne,Swift,Rouge H,Champagne,2025,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,False,Consignment,11800,8315,9846,1531,15.5,Acabado suave y relajado.
+HP-39178,Prada,Re-Edition 2005,Re-Nylon,Gold,Rutenio,2020,A - Excelente,Reservado,True,False,True,True,Owned,1980,1220,1798,578,32.1,El icono del Y2K.
+HP-79143,Prada,Galleria Saffiano Small,Saffiano,Verde,Champagne,2023,AB - Muy bueno,En Stock (24h),False,True,True,False,Consignment,3600,2411,2948,537,18.2,El maletín ejecutivo.
+HP-39502,Celine,Triomphe Classique,Shiny Calf,Gris Asfalto,Champagne,2023,A - Excelente,En Stock (24h),True,False,True,True,Consignment,3950,3198,3923,725,18.5,El nuevo clásico parisino.
+HP-58427,Chanel,Boy Bag Old Medium,Calfskin,Verde,Champagne,2019,B - Buen estado,Bajo Pedido (15 días),False,False,True,False,Consignment,6700,3722,4684,962,20.5,Estilo rock-chic con bordes gráficos.
+HP-86982,Chanel,Boy Bag Old Medium,Calfskin,Craie,Champagne,2020,N - Nuevo,En Stock (24h),False,False,True,False,Consignment,6700,7176,8528,1352,15.9,Estilo rock-chic con bordes gráficos.
+HP-89439,Hermès,Evelyne III PM,Clemence,Gold,Champagne,2022,A - Excelente,En Stock (24h),True,True,True,False,Owned,3800,2511,3487,976,28.0,Casual y funcional con la H perforada.
+HP-53760,Celine,Triomphe Classique,Shiny Calf,Negro,Paladio (PHW),2025,N - Nuevo,Bajo Pedido (15 días),False,False,True,False,Consignment,3950,4113,5039,926,18.4,El nuevo clásico parisino.
+HP-48963,Fendi,Peekaboo ISeeU Small,Selleria,Azul Marino,Rutenio,2021,A - Excelente,En Stock (24h),True,True,True,False,Consignment,5400,4196,5009,813,16.2,Artesanía romana.
+HP-20390,Louis Vuitton,Capucines BB,Taurillon,Craie,Champagne,2025,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Owned,6100,3924,6310,2386,37.8,La apuesta de LV por el ultra-lujo.
+HP-55650,Bottega Veneta,Jodie Mini,Intrecciato,Beige Trench,Oro (GHW),2024,A - Excelente,En Sourcing,False,False,True,False,Consignment,2650,2197,2657,460,17.3,El nudo viral.
+HP-24963,Louis Vuitton,Alma BB,Epi Leather,Verde,Paladio (PHW),2023,A - Excelente,Bajo Pedido (15 días),False,True,True,True,Consignment,1980,1514,1868,354,18.9,Estructura Art Deco atemporal.
+HP-89666,Louis Vuitton,Neverfull MM,Monogram,Gold,Rutenio,2021,AB - Muy bueno,En Stock (24h),False,False,True,False,Owned,1950,1002,1767,765,43.3,El tote más vendido de la historia.
+HP-52831,Chanel,Classic Flap Jumbo,Caviar,Azul Marino,Oro Viejo,2021,A - Excelente,En Stock (24h),True,True,True,False,Owned,11000,7478,10497,3019,28.8,Para quien necesita más espacio.
+HP-13835,Louis Vuitton,Multi Pochette Accessoires,Monogram,Beige Trench,Rutenio,2022,A - Excelente,En Sourcing,True,True,True,False,Consignment,2600,1930,2358,428,18.1,El favorito del Street Style.
+HP-96984,Chanel,Classic Flap Jumbo,Caviar,Azul Marino,Oro (GHW),2019,A - Excelente,En Stock (24h),False,True,True,True,Owned,11000,6384,10628,4244,39.9,Para quien necesita más espacio.
+HP-98703,Chanel,Wallet on Chain (WOC),Caviar,Etoupe,Champagne,2019,AB - Muy bueno,En Stock (24h),False,True,True,True,Consignment,3500,2540,3110,570,18.3,El esencial de entrada a la marca.
+HP-40480,Chanel,Boy Bag Old Medium,Calfskin,Rouge H,Oro Viejo,2022,A - Excelente,Reservado,True,False,True,False,Owned,6700,4549,6378,1829,28.7,Estilo rock-chic con bordes gráficos.
+HP-82198,Gucci,Horsebit 1955,GG Supreme,Craie,Rutenio,2023,N - Nuevo,En Stock (24h),False,True,True,False,Owned,2890,1932,3338,1406,42.1,Estilo ecuestre vintage.
+HP-89041,Fendi,Baguette 1997,Zucca Canvas,Verde,Rutenio,2022,AB - Muy bueno,Bajo Pedido (15 días),False,True,True,True,Owned,3200,1894,2954,1060,35.9,"It's not a bag, it's a Baguette."
+HP-98430,Chanel,Classic Flap Small,Lambskin,Etoupe,Oro Viejo,2022,AB - Muy bueno,En Stock (24h),True,True,True,True,Owned,9600,5642,9792,4150,42.4,"Suavidad extrema, cuidado delicado."
+HP-96987,Louis Vuitton,Onthego GM,Giant Monogram,Etoupe,Champagne,2021,A - Excelente,En Stock (24h),True,False,True,False,Owned,3100,1792,3123,1331,42.6,Maxi logo para impacto visual.
+HP-32819,Gucci,Diana Bamboo Small,Leather,Gold,Champagne,2021,AB - Muy bueno,En Stock (24h),True,True,True,True,Consignment,3600,2829,3626,797,22.0,Asas de bambú neón.
+HP-12073,Hermès,Constance 18,Evercolor,Gold,Champagne,2022,N - Nuevo,En Stock (24h),True,True,True,True,Consignment,8900,9692,11930,2238,18.8,La H icónica. Perfecto para crossbody.
+HP-81783,Loewe,Puzzle Mini,Satin Calf,Etoupe,Paladio (PHW),2020,AB - Muy bueno,Bajo Pedido (15 días),True,False,True,True,Owned,2400,1344,2176,832,38.2,El favorito de las influencers.
+HP-41693,Chanel,Classic Flap Small,Lambskin,Rouge H,Oro Viejo,2019,A - Excelente,Bajo Pedido (15 días),False,False,True,True,Consignment,9600,7404,8777,1373,15.6,"Suavidad extrema, cuidado delicado."
+HP-70536,Dior,30 Montaigne,Box Calf,Craie,Rutenio,2021,A - Excelente,En Sourcing,True,False,True,True,Owned,3900,2898,4056,1158,28.5,Elegancia minimalista con cierre CD.
+HP-47914,Chanel,Classic Flap Medium,Caviar,Etoupe,Oro Viejo,2024,A - Excelente,Reservado,True,False,True,True,Owned,10300,6634,9794,3160,32.3,El rey de la reventa. Piel resistente.
+HP-70461,Chanel,Classic Flap Small,Lambskin,Gold,Oro Viejo,2021,A - Excelente,En Stock (24h),False,False,True,False,Consignment,9600,6895,8675,1780,20.5,"Suavidad extrema, cuidado delicado."
+HP-56854,Hermès,Birkin 25,Togo,Gris Asfalto,Paladio (PHW),2018,AB - Muy bueno,En Stock (24h),False,True,True,True,Owned,10400,5868,9601,3733,38.9,El bolso más deseado del mundo.
+HP-29218,Dior,Book Tote Medium,Toile de Jouy,Rouge H,Oro Viejo,2022,AB - Muy bueno,Reservado,False,True,True,True,Consignment,3300,2386,2909,523,18.0,El bolso de viaje de la élite.
+HP-17456,Prada,Re-Edition 2005,Re-Nylon,Gold,Champagne,2019,AB - Muy bueno,En Sourcing,True,False,True,True,Owned,1980,1100,1831,731,39.9,El icono del Y2K.
+HP-24361,Prada,Re-Edition 2005,Re-Nylon,Etoupe,Rutenio,2024,A - Excelente,En Stock (24h),True,True,True,False,Owned,1980,1496,2033,537,26.4,El icono del Y2K.
+HP-92120,Loewe,Puzzle Mini,Satin Calf,Azul Marino,Paladio (PHW),2019,N - Nuevo,Bajo Pedido (15 días),True,True,True,True,Consignment,2400,2648,3302,654,19.8,El favorito de las influencers.
+HP-65221,Prada,Cleo Brushed,Spazzolato,Azul Marino,Oro (GHW),2020,A - Excelente,En Stock (24h),True,False,True,True,Owned,2900,1674,2967,1293,43.6,Futurismo retro.
+HP-46038,Celine,Triomphe Classique,Shiny Calf,Etoupe,Rutenio,2024,AB - Muy bueno,Reservado,False,True,True,True,Owned,3950,2455,3400,945,27.8,El nuevo clásico parisino.
+HP-22090,Celine,Triomphe Classique,Shiny Calf,Verde,Paladio (PHW),2025,A - Excelente,Bajo Pedido (15 días),True,True,True,False,Consignment,3950,2970,3698,728,19.7,El nuevo clásico parisino.
+HP-18584,Dior,Lady Dior Mini,Satin/Strass,Gold,Oro Viejo,2019,A - Excelente,En Stock (24h),True,False,True,False,Owned,5300,3174,5272,2098,39.8,Joya de noche.
+HP-14957,Dior,Lady Dior ABC (Small),Lambskin,Rouge H,Oro (GHW),2024,A - Excelente,En Sourcing,False,True,True,False,Consignment,5900,4857,5940,1083,18.2,El bolso de la Princesa Diana.
+HP-16109,Celine,Belt Bag Nano,Grained Calf,Gris Asfalto,Champagne,2024,A - Excelente,Bajo Pedido (15 días),True,False,True,True,Consignment,2300,1805,2169,364,16.8,Funcionalidad y discreción.
