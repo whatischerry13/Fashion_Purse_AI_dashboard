@@ -90,7 +90,7 @@ def render_aura_widget():
 
     # --- WIDGET FLOTANTE (POPOVER) ---
     # Usamos un emoji "💬" para el icono de la burbuja
-    with st.popover("💬", use_container_width=False):
+    with st.popover("Aura AI chatbot", use_container_width=False):
         st.markdown("### Aura AI")
         st.caption("Private Concierge & Strategy")
         
