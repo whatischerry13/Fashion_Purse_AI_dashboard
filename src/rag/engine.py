@@ -11,7 +11,7 @@ from dotenv import load_dotenv
 
 # --- NUEVAS IMPORTACIONES PARA EL RERANKER ---
 from langchain.retrievers import ContextualCompressionRetriever
-from langchain.retrievers.document_compressors import CrossEncoderReranker
+from langchain_community.document_compressors import CrossEncoderReranker
 from langchain_community.cross_encoders import HuggingFaceCrossEncoder
 
 current_dir = Path(__file__).resolve().parent
