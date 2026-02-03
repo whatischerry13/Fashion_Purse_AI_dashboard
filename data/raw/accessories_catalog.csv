@@ -1,0 +1,152 @@
+ID,Category,Subcategory,Name,Brand_Target,Price,Cost,Margin,Sociological_Fit,Tags,Description
+JEW-CHA-0001,Jewelry,Earrings,Pendientes Chanel Vintage Coco Mark Redondos,Chanel,449,250.0,199.0,Classic,"Vintage, Gold, Round, 90s",Pieza seleccionada de alta demanda.
+JEW-CHA-0002,Jewelry,Earrings,Pendientes Chanel Vintage Perla Imitación,Chanel,499,280.0,219.0,Classic,"Vintage, Pearl, Elegant",Pieza seleccionada de alta demanda.
+JEW-CHA-0003,Jewelry,Earrings,Pendientes Chanel Vintage Bicolor (Colección 98A),Chanel,590,320.0,270.0,Collector,"Vintage, 98A, Rare, Two-tone",Pieza seleccionada de alta demanda.
+JEW-CHA-0004,Jewelry,Brooch,Broche Chanel Gripoix Vintage,Chanel,1200,600.0,600.0,Collector,"Vintage, Poured Glass, Rare",Pieza seleccionada de alta demanda.
+JEW-HER-0005,Jewelry,Bracelet,Brazalete Hermès Kelly Dog (Black/Gold),Hermès,550,280.0,270.0,Trendsetter,"Leather, Gold, Rock",Pieza seleccionada de alta demanda.
+JEW-HER-0006,Jewelry,Necklace,Collar Hermès Farandole 120cm,Hermès,1400,800.0,600.0,Classic,"Silver, Chaine d'Ancre, Long",Pieza seleccionada de alta demanda.
+JEW-DIO-0007,Jewelry,Necklace,Gargantilla Dior J'Adior (Antique Gold),Dior,420,180.0,240.0,Trendsetter,"Choker, Logo, Gold",Pieza seleccionada de alta demanda.
+ADO-CHA-0008,Adornment,Belt,Cinturón Chanel Chain & Leather (Vintage),Chanel,850,400.0,450.0,Style,"Vintage, Chain, Waist",Pieza seleccionada de alta demanda.
+LEA-LOU-0009,Leather Goods,Card Holder,Zippy Coin Purse (Black),Louis Vuitton,450,202.5,247.50000000000003,Pragmatic,"SLG, Louis Vuitton, Black, Daily",Accesorio esencial de Louis Vuitton en color Black.
+LEA-LOU-0010,Leather Goods,Card Holder,Zippy Coin Purse (Gold),Louis Vuitton,450,202.5,247.50000000000003,Style,"SLG, Louis Vuitton, Gold, Daily",Accesorio esencial de Louis Vuitton en color Gold.
+LEA-LOU-0011,Leather Goods,Card Holder,Zippy Coin Purse (Beige),Louis Vuitton,450,202.5,247.50000000000003,Style,"SLG, Louis Vuitton, Beige, Daily",Accesorio esencial de Louis Vuitton en color Beige.
+LEA-LOU-0012,Leather Goods,Card Holder,Key Pouch (Black),Louis Vuitton,320,144.0,176.0,Pragmatic,"SLG, Louis Vuitton, Black, Daily",Accesorio esencial de Louis Vuitton en color Black.
+LEA-LOU-0013,Leather Goods,Card Holder,Key Pouch (Gold),Louis Vuitton,320,144.0,176.0,Style,"SLG, Louis Vuitton, Gold, Daily",Accesorio esencial de Louis Vuitton en color Gold.
+LEA-LOU-0014,Leather Goods,Card Holder,Key Pouch (Beige),Louis Vuitton,320,144.0,176.0,Style,"SLG, Louis Vuitton, Beige, Daily",Accesorio esencial de Louis Vuitton en color Beige.
+LEA-LOU-0015,Leather Goods,Wallet,Victorine Wallet (Black),Louis Vuitton,550,247.5,302.5,Pragmatic,"SLG, Louis Vuitton, Black, Daily",Accesorio esencial de Louis Vuitton en color Black.
+LEA-LOU-0016,Leather Goods,Wallet,Victorine Wallet (Gold),Louis Vuitton,550,247.5,302.5,Style,"SLG, Louis Vuitton, Gold, Daily",Accesorio esencial de Louis Vuitton en color Gold.
+LEA-LOU-0017,Leather Goods,Wallet,Victorine Wallet (Beige),Louis Vuitton,550,247.5,302.5,Style,"SLG, Louis Vuitton, Beige, Daily",Accesorio esencial de Louis Vuitton en color Beige.
+LEA-LOU-0018,Leather Goods,Card Holder,Victorine Wallet (Blue),Louis Vuitton,570,247.5,313.5,Trendsetter,"SLG, Louis Vuitton, Blue, Pop",Edición estacional en Blue.
+LEA-LOU-0019,Leather Goods,Card Holder,Toiletry 26 (Black),Louis Vuitton,680,306.0,374.00000000000006,Pragmatic,"SLG, Louis Vuitton, Black, Daily",Accesorio esencial de Louis Vuitton en color Black.
+LEA-LOU-0020,Leather Goods,Card Holder,Toiletry 26 (Gold),Louis Vuitton,680,306.0,374.00000000000006,Style,"SLG, Louis Vuitton, Gold, Daily",Accesorio esencial de Louis Vuitton en color Gold.
+LEA-LOU-0021,Leather Goods,Card Holder,Toiletry 26 (Beige),Louis Vuitton,680,306.0,374.00000000000006,Style,"SLG, Louis Vuitton, Beige, Daily",Accesorio esencial de Louis Vuitton en color Beige.
+LEA-CHA-0022,Leather Goods,Card Holder,Classic Card Holder (Black),Chanel,550,247.5,302.5,Pragmatic,"SLG, Chanel, Black, Daily",Accesorio esencial de Chanel en color Black.
+LEA-CHA-0023,Leather Goods,Card Holder,Classic Card Holder (Gold),Chanel,550,247.5,302.5,Style,"SLG, Chanel, Gold, Daily",Accesorio esencial de Chanel en color Gold.
+LEA-CHA-0024,Leather Goods,Card Holder,Classic Card Holder (Beige),Chanel,550,247.5,302.5,Style,"SLG, Chanel, Beige, Daily",Accesorio esencial de Chanel en color Beige.
+LEA-CHA-0025,Leather Goods,Card Holder,Classic Card Holder (Red),Chanel,570,247.5,313.5,Trendsetter,"SLG, Chanel, Red, Pop",Edición estacional en Red.
+LEA-CHA-0026,Leather Goods,Card Holder,Flap Coin Purse (Black),Chanel,620,279.0,341.0,Pragmatic,"SLG, Chanel, Black, Daily",Accesorio esencial de Chanel en color Black.
+LEA-CHA-0027,Leather Goods,Card Holder,Flap Coin Purse (Gold),Chanel,620,279.0,341.0,Style,"SLG, Chanel, Gold, Daily",Accesorio esencial de Chanel en color Gold.
+LEA-CHA-0028,Leather Goods,Card Holder,Flap Coin Purse (Beige),Chanel,620,279.0,341.0,Style,"SLG, Chanel, Beige, Daily",Accesorio esencial de Chanel en color Beige.
+LEA-CHA-0029,Leather Goods,Card Holder,O-Case Mini (Black),Chanel,490,220.5,269.5,Pragmatic,"SLG, Chanel, Black, Daily",Accesorio esencial de Chanel en color Black.
+LEA-CHA-0030,Leather Goods,Card Holder,O-Case Mini (Gold),Chanel,490,220.5,269.5,Style,"SLG, Chanel, Gold, Daily",Accesorio esencial de Chanel en color Gold.
+LEA-CHA-0031,Leather Goods,Card Holder,O-Case Mini (Beige),Chanel,490,220.5,269.5,Style,"SLG, Chanel, Beige, Daily",Accesorio esencial de Chanel en color Beige.
+LEA-HER-0032,Leather Goods,Card Holder,Calvi Card Holder (Black),Hermès,390,175.5,214.50000000000003,Pragmatic,"SLG, Hermès, Black, Daily",Accesorio esencial de Hermès en color Black.
+LEA-HER-0033,Leather Goods,Card Holder,Calvi Card Holder (Etoupe),Hermès,390,175.5,214.50000000000003,Pragmatic,"SLG, Hermès, Etoupe, Daily",Accesorio esencial de Hermès en color Etoupe.
+LEA-HER-0034,Leather Goods,Card Holder,Calvi Card Holder (Beige),Hermès,390,175.5,214.50000000000003,Style,"SLG, Hermès, Beige, Daily",Accesorio esencial de Hermès en color Beige.
+LEA-HER-0035,Leather Goods,Card Holder,Calvi Card Holder (Pink),Hermès,410,175.5,225.50000000000003,Trendsetter,"SLG, Hermès, Pink, Pop",Edición estacional en Pink.
+LEA-HER-0036,Leather Goods,Card Holder,Bastia Coin Purse (Black),Hermès,250,112.5,137.5,Pragmatic,"SLG, Hermès, Black, Daily",Accesorio esencial de Hermès en color Black.
+LEA-HER-0037,Leather Goods,Card Holder,Bastia Coin Purse (Etoupe),Hermès,250,112.5,137.5,Pragmatic,"SLG, Hermès, Etoupe, Daily",Accesorio esencial de Hermès en color Etoupe.
+LEA-HER-0038,Leather Goods,Card Holder,Bastia Coin Purse (Beige),Hermès,250,112.5,137.5,Style,"SLG, Hermès, Beige, Daily",Accesorio esencial de Hermès en color Beige.
+LEA-HER-0039,Leather Goods,Card Holder,Bastia Coin Purse (Red),Hermès,270,112.5,148.5,Trendsetter,"SLG, Hermès, Red, Pop",Edición estacional en Red.
+LEA-HER-0040,Leather Goods,Card Holder,Bearn Mini (Black),Hermès,1400,630.0,770.0000000000001,Pragmatic,"SLG, Hermès, Black, Daily",Accesorio esencial de Hermès en color Black.
+LEA-HER-0041,Leather Goods,Card Holder,Bearn Mini (Etoupe),Hermès,1400,630.0,770.0000000000001,Pragmatic,"SLG, Hermès, Etoupe, Daily",Accesorio esencial de Hermès en color Etoupe.
+LEA-HER-0042,Leather Goods,Card Holder,Bearn Mini (Beige),Hermès,1400,630.0,770.0000000000001,Style,"SLG, Hermès, Beige, Daily",Accesorio esencial de Hermès en color Beige.
+LEA-GUC-0043,Leather Goods,Card Holder,GG Marmont Card Case (Black),Gucci,290,130.5,159.5,Pragmatic,"SLG, Gucci, Black, Daily",Accesorio esencial de Gucci en color Black.
+LEA-GUC-0044,Leather Goods,Card Holder,GG Marmont Card Case (Gold),Gucci,290,130.5,159.5,Style,"SLG, Gucci, Gold, Daily",Accesorio esencial de Gucci en color Gold.
+LEA-GUC-0045,Leather Goods,Card Holder,GG Marmont Card Case (Beige),Gucci,290,130.5,159.5,Style,"SLG, Gucci, Beige, Daily",Accesorio esencial de Gucci en color Beige.
+LEA-GUC-0046,Leather Goods,Card Holder,Dionysus Coin Purse (Black),Gucci,350,157.5,192.50000000000003,Pragmatic,"SLG, Gucci, Black, Daily",Accesorio esencial de Gucci en color Black.
+LEA-GUC-0047,Leather Goods,Card Holder,Dionysus Coin Purse (Gold),Gucci,350,157.5,192.50000000000003,Style,"SLG, Gucci, Gold, Daily",Accesorio esencial de Gucci en color Gold.
+LEA-GUC-0048,Leather Goods,Card Holder,Dionysus Coin Purse (Beige),Gucci,350,157.5,192.50000000000003,Style,"SLG, Gucci, Beige, Daily",Accesorio esencial de Gucci en color Beige.
+LEA-GUC-0049,Leather Goods,Card Holder,Dionysus Coin Purse (Blue),Gucci,370,157.5,203.50000000000003,Trendsetter,"SLG, Gucci, Blue, Pop",Edición estacional en Blue.
+LEA-GUC-0050,Leather Goods,Wallet,Horsebit 1955 Wallet (Black),Gucci,480,216.0,264.0,Pragmatic,"SLG, Gucci, Black, Daily",Accesorio esencial de Gucci en color Black.
+LEA-GUC-0051,Leather Goods,Wallet,Horsebit 1955 Wallet (Gold),Gucci,480,216.0,264.0,Style,"SLG, Gucci, Gold, Daily",Accesorio esencial de Gucci en color Gold.
+LEA-GUC-0052,Leather Goods,Wallet,Horsebit 1955 Wallet (Beige),Gucci,480,216.0,264.0,Style,"SLG, Gucci, Beige, Daily",Accesorio esencial de Gucci en color Beige.
+LEA-GUC-0053,Leather Goods,Card Holder,Horsebit 1955 Wallet (Blue),Gucci,500,216.0,275.0,Trendsetter,"SLG, Gucci, Blue, Pop",Edición estacional en Blue.
+LEA-SAI-0054,Leather Goods,Card Holder,Cassandre Matelassé Holder (Black),Saint Laurent,320,144.0,176.0,Pragmatic,"SLG, Saint Laurent, Black, Daily",Accesorio esencial de Saint Laurent en color Black.
+LEA-SAI-0055,Leather Goods,Card Holder,Cassandre Matelassé Holder (Gold),Saint Laurent,320,144.0,176.0,Style,"SLG, Saint Laurent, Gold, Daily",Accesorio esencial de Saint Laurent en color Gold.
+LEA-SAI-0056,Leather Goods,Card Holder,Cassandre Matelassé Holder (Beige),Saint Laurent,320,144.0,176.0,Style,"SLG, Saint Laurent, Beige, Daily",Accesorio esencial de Saint Laurent en color Beige.
+LEA-SAI-0057,Leather Goods,Wallet,Envelope Wallet (Black),Saint Laurent,450,202.5,247.50000000000003,Pragmatic,"SLG, Saint Laurent, Black, Daily",Accesorio esencial de Saint Laurent en color Black.
+LEA-SAI-0058,Leather Goods,Wallet,Envelope Wallet (Gold),Saint Laurent,450,202.5,247.50000000000003,Style,"SLG, Saint Laurent, Gold, Daily",Accesorio esencial de Saint Laurent en color Gold.
+LEA-SAI-0059,Leather Goods,Wallet,Envelope Wallet (Beige),Saint Laurent,450,202.5,247.50000000000003,Style,"SLG, Saint Laurent, Beige, Daily",Accesorio esencial de Saint Laurent en color Beige.
+LEA-DIO-0060,Leather Goods,Card Holder,Saddle Flap Card Holder (Black),Dior,420,189.0,231.00000000000003,Pragmatic,"SLG, Dior, Black, Daily",Accesorio esencial de Dior en color Black.
+LEA-DIO-0061,Leather Goods,Card Holder,Saddle Flap Card Holder (Gold),Dior,420,189.0,231.00000000000003,Style,"SLG, Dior, Gold, Daily",Accesorio esencial de Dior en color Gold.
+LEA-DIO-0062,Leather Goods,Card Holder,Saddle Flap Card Holder (Beige),Dior,420,189.0,231.00000000000003,Style,"SLG, Dior, Beige, Daily",Accesorio esencial de Dior en color Beige.
+LEA-DIO-0063,Leather Goods,Card Holder,Saddle Flap Card Holder (Pink),Dior,440,189.0,242.00000000000003,Trendsetter,"SLG, Dior, Pink, Pop",Edición estacional en Pink.
+LEA-DIO-0064,Leather Goods,Card Holder,Lady Dior Voyageur (Black),Dior,650,292.5,357.50000000000006,Pragmatic,"SLG, Dior, Black, Daily",Accesorio esencial de Dior en color Black.
+LEA-DIO-0065,Leather Goods,Card Holder,Lady Dior Voyageur (Gold),Dior,650,292.5,357.50000000000006,Style,"SLG, Dior, Gold, Daily",Accesorio esencial de Dior en color Gold.
+LEA-DIO-0066,Leather Goods,Card Holder,Lady Dior Voyageur (Beige),Dior,650,292.5,357.50000000000006,Style,"SLG, Dior, Beige, Daily",Accesorio esencial de Dior en color Beige.
+LEA-DIO-0067,Leather Goods,Card Holder,Lady Dior Voyageur (Green),Dior,670,292.5,368.50000000000006,Trendsetter,"SLG, Dior, Green, Pop",Edición estacional en Green.
+LEA-PRA-0068,Leather Goods,Card Holder,Saffiano Metal Holder (Black),Prada,380,171.0,209.00000000000003,Pragmatic,"SLG, Prada, Black, Daily",Accesorio esencial de Prada en color Black.
+LEA-PRA-0069,Leather Goods,Card Holder,Saffiano Metal Holder (Gold),Prada,380,171.0,209.00000000000003,Style,"SLG, Prada, Gold, Daily",Accesorio esencial de Prada en color Gold.
+LEA-PRA-0070,Leather Goods,Card Holder,Saffiano Metal Holder (Beige),Prada,380,171.0,209.00000000000003,Style,"SLG, Prada, Beige, Daily",Accesorio esencial de Prada en color Beige.
+LEA-PRA-0071,Leather Goods,Card Holder,Saffiano Metal Holder (Red),Prada,400,171.0,220.00000000000003,Trendsetter,"SLG, Prada, Red, Pop",Edición estacional en Red.
+LEA-PRA-0072,Leather Goods,Wallet,Triangle Logo Wallet (Black),Prada,520,234.0,286.0,Pragmatic,"SLG, Prada, Black, Daily",Accesorio esencial de Prada en color Black.
+LEA-PRA-0073,Leather Goods,Wallet,Triangle Logo Wallet (Gold),Prada,520,234.0,286.0,Style,"SLG, Prada, Gold, Daily",Accesorio esencial de Prada en color Gold.
+LEA-PRA-0074,Leather Goods,Wallet,Triangle Logo Wallet (Beige),Prada,520,234.0,286.0,Style,"SLG, Prada, Beige, Daily",Accesorio esencial de Prada en color Beige.
+LEA-BOT-0075,Leather Goods,Card Holder,Intrecciato Card Case (Black),Bottega Veneta,350,157.5,192.50000000000003,Pragmatic,"SLG, Bottega Veneta, Black, Daily",Accesorio esencial de Bottega Veneta en color Black.
+LEA-BOT-0076,Leather Goods,Card Holder,Intrecciato Card Case (Gold),Bottega Veneta,350,157.5,192.50000000000003,Style,"SLG, Bottega Veneta, Gold, Daily",Accesorio esencial de Bottega Veneta en color Gold.
+LEA-BOT-0077,Leather Goods,Card Holder,Intrecciato Card Case (Beige),Bottega Veneta,350,157.5,192.50000000000003,Style,"SLG, Bottega Veneta, Beige, Daily",Accesorio esencial de Bottega Veneta en color Beige.
+LEA-BOT-0078,Leather Goods,Card Holder,Cassette Zippered (Black),Bottega Veneta,490,220.5,269.5,Pragmatic,"SLG, Bottega Veneta, Black, Daily",Accesorio esencial de Bottega Veneta en color Black.
+LEA-BOT-0079,Leather Goods,Card Holder,Cassette Zippered (Gold),Bottega Veneta,490,220.5,269.5,Style,"SLG, Bottega Veneta, Gold, Daily",Accesorio esencial de Bottega Veneta en color Gold.
+LEA-BOT-0080,Leather Goods,Card Holder,Cassette Zippered (Beige),Bottega Veneta,490,220.5,269.5,Style,"SLG, Bottega Veneta, Beige, Daily",Accesorio esencial de Bottega Veneta en color Beige.
+LEA-CEL-0081,Leather Goods,Card Holder,Triomphe Card Holder (Black),Celine,360,162.0,198.00000000000003,Pragmatic,"SLG, Celine, Black, Daily",Accesorio esencial de Celine en color Black.
+LEA-CEL-0082,Leather Goods,Card Holder,Triomphe Card Holder (Gold),Celine,360,162.0,198.00000000000003,Style,"SLG, Celine, Gold, Daily",Accesorio esencial de Celine en color Gold.
+LEA-CEL-0083,Leather Goods,Card Holder,Triomphe Card Holder (Beige),Celine,360,162.0,198.00000000000003,Style,"SLG, Celine, Beige, Daily",Accesorio esencial de Celine en color Beige.
+LEA-CEL-0084,Leather Goods,Card Holder,Triomphe Card Holder (Silver),Celine,380,162.0,209.00000000000003,Trendsetter,"SLG, Celine, Silver, Pop",Edición estacional en Silver.
+LEA-CEL-0085,Leather Goods,Wallet,Strap Wallet Medium (Black),Celine,620,279.0,341.0,Pragmatic,"SLG, Celine, Black, Daily",Accesorio esencial de Celine en color Black.
+LEA-CEL-0086,Leather Goods,Wallet,Strap Wallet Medium (Gold),Celine,620,279.0,341.0,Style,"SLG, Celine, Gold, Daily",Accesorio esencial de Celine en color Gold.
+LEA-CEL-0087,Leather Goods,Wallet,Strap Wallet Medium (Beige),Celine,620,279.0,341.0,Style,"SLG, Celine, Beige, Daily",Accesorio esencial de Celine en color Beige.
+LEA-LOE-0088,Leather Goods,Card Holder,Puzzle Coin Cardholder (Black),Loewe,380,171.0,209.00000000000003,Pragmatic,"SLG, Loewe, Black, Daily",Accesorio esencial de Loewe en color Black.
+LEA-LOE-0089,Leather Goods,Card Holder,Puzzle Coin Cardholder (Gold),Loewe,380,171.0,209.00000000000003,Style,"SLG, Loewe, Gold, Daily",Accesorio esencial de Loewe en color Gold.
+LEA-LOE-0090,Leather Goods,Card Holder,Puzzle Coin Cardholder (Beige),Loewe,380,171.0,209.00000000000003,Style,"SLG, Loewe, Beige, Daily",Accesorio esencial de Loewe en color Beige.
+LEA-LOE-0091,Leather Goods,Card Holder,Puzzle Coin Cardholder (Silver),Loewe,400,171.0,220.00000000000003,Trendsetter,"SLG, Loewe, Silver, Pop",Edición estacional en Silver.
+LEA-LOE-0092,Leather Goods,Wallet,Anagram Square Wallet (Black),Loewe,490,220.5,269.5,Pragmatic,"SLG, Loewe, Black, Daily",Accesorio esencial de Loewe en color Black.
+LEA-LOE-0093,Leather Goods,Wallet,Anagram Square Wallet (Gold),Loewe,490,220.5,269.5,Style,"SLG, Loewe, Gold, Daily",Accesorio esencial de Loewe en color Gold.
+LEA-LOE-0094,Leather Goods,Wallet,Anagram Square Wallet (Beige),Loewe,490,220.5,269.5,Style,"SLG, Loewe, Beige, Daily",Accesorio esencial de Loewe en color Beige.
+LEA-LOE-0095,Leather Goods,Card Holder,Anagram Square Wallet (Green),Loewe,510,220.5,280.5,Trendsetter,"SLG, Loewe, Green, Pop",Edición estacional en Green.
+LEA-FEN-0096,Leather Goods,Wallet,Peekaboo Micro Wallet (Black),Fendi,520,234.0,286.0,Pragmatic,"SLG, Fendi, Black, Daily",Accesorio esencial de Fendi en color Black.
+LEA-FEN-0097,Leather Goods,Wallet,Peekaboo Micro Wallet (Gold),Fendi,520,234.0,286.0,Style,"SLG, Fendi, Gold, Daily",Accesorio esencial de Fendi en color Gold.
+LEA-FEN-0098,Leather Goods,Wallet,Peekaboo Micro Wallet (Beige),Fendi,520,234.0,286.0,Style,"SLG, Fendi, Beige, Daily",Accesorio esencial de Fendi en color Beige.
+LEA-FEN-0099,Leather Goods,Card Holder,Baguette Card Case (Black),Fendi,310,139.5,170.5,Pragmatic,"SLG, Fendi, Black, Daily",Accesorio esencial de Fendi en color Black.
+LEA-FEN-0100,Leather Goods,Card Holder,Baguette Card Case (Gold),Fendi,310,139.5,170.5,Style,"SLG, Fendi, Gold, Daily",Accesorio esencial de Fendi en color Gold.
+LEA-FEN-0101,Leather Goods,Card Holder,Baguette Card Case (Beige),Fendi,310,139.5,170.5,Style,"SLG, Fendi, Beige, Daily",Accesorio esencial de Fendi en color Beige.
+LEA-FEN-0102,Leather Goods,Card Holder,Baguette Card Case (Red),Fendi,330,139.5,181.50000000000003,Trendsetter,"SLG, Fendi, Red, Pop",Edición estacional en Red.
+JEW-HER-0103,Jewelry,Bracelet,Clic H Bracelet (Gold),Hermès,700,280.0,420.0,Classic,"Jewelry, Bracelet, Gold, Hermès",Acabado en tono Gold.
+JEW-HER-0104,Jewelry,Bracelet,Clic H Bracelet (Silver),Hermès,690,276.0,414.0,Modern,"Jewelry, Bracelet, Silver, Hermès",Acabado en tono Silver.
+JEW-HER-0105,Jewelry,Necklace,Pop H Pendant (Gold),Hermès,460,184.0,276.0,Classic,"Jewelry, Necklace, Gold, Hermès",Acabado en tono Gold.
+JEW-HER-0106,Jewelry,Necklace,Pop H Pendant (Silver),Hermès,450,180.0,270.0,Modern,"Jewelry, Necklace, Silver, Hermès",Acabado en tono Silver.
+JEW-HER-0107,Jewelry,Bracelet,Glenan Bracelet (Gold),Hermès,340,136.0,204.0,Classic,"Jewelry, Bracelet, Gold, Hermès",Acabado en tono Gold.
+JEW-HER-0108,Jewelry,Bracelet,Glenan Bracelet (Silver),Hermès,350,140.0,210.0,Modern,"Jewelry, Bracelet, Silver, Hermès",Acabado en tono Silver.
+JEW-CHA-0109,Jewelry,Earrings,CC Crystal Studs (Gold),Chanel,640,256.0,384.0,Classic,"Jewelry, Earrings, Gold, Chanel",Acabado en tono Gold.
+JEW-CHA-0110,Jewelry,Earrings,CC Crystal Studs (Silver),Chanel,640,256.0,384.0,Modern,"Jewelry, Earrings, Silver, Chanel",Acabado en tono Silver.
+JEW-CHA-0111,Jewelry,Earrings,Pearl Drop Earrings (Gold),Chanel,820,328.0,492.0,Classic,"Jewelry, Earrings, Gold, Chanel",Acabado en tono Gold.
+JEW-CHA-0112,Jewelry,Earrings,Pearl Drop Earrings (Silver),Chanel,810,324.0,486.0,Modern,"Jewelry, Earrings, Silver, Chanel",Acabado en tono Silver.
+JEW-CHA-0113,Jewelry,Brooch,Camellia Brooch (Gold),Chanel,550,220.0,330.0,Classic,"Jewelry, Brooch, Gold, Chanel",Acabado en tono Gold.
+JEW-CHA-0114,Jewelry,Brooch,Camellia Brooch (Silver),Chanel,550,220.0,330.0,Modern,"Jewelry, Brooch, Silver, Chanel",Acabado en tono Silver.
+JEW-DIO-0115,Jewelry,Earrings,Tribales Earrings (Gold),Dior,580,232.0,348.0,Classic,"Jewelry, Earrings, Gold, Dior",Acabado en tono Gold.
+JEW-DIO-0116,Jewelry,Earrings,Tribales Earrings (Silver),Dior,580,232.0,348.0,Modern,"Jewelry, Earrings, Silver, Dior",Acabado en tono Silver.
+JEW-DIO-0117,Jewelry,Ring,Dio(r)evolution Ring (Gold),Dior,380,152.0,228.0,Classic,"Jewelry, Ring, Gold, Dior",Acabado en tono Gold.
+JEW-DIO-0118,Jewelry,Ring,Dio(r)evolution Ring (Silver),Dior,400,160.0,240.0,Modern,"Jewelry, Ring, Silver, Dior",Acabado en tono Silver.
+JEW-DIO-0119,Jewelry,Necklace,Clair D Lune Necklace (Gold),Dior,470,188.0,282.0,Classic,"Jewelry, Necklace, Gold, Dior",Acabado en tono Gold.
+JEW-DIO-0120,Jewelry,Necklace,Clair D Lune Necklace (Silver),Dior,480,192.0,288.0,Modern,"Jewelry, Necklace, Silver, Dior",Acabado en tono Silver.
+JEW-LOU-0121,Jewelry,Necklace,Essential V Necklace (Gold),Louis Vuitton,450,180.0,270.0,Classic,"Jewelry, Necklace, Gold, Louis Vuitton",Acabado en tono Gold.
+JEW-LOU-0122,Jewelry,Necklace,Essential V Necklace (Silver),Louis Vuitton,450,180.0,270.0,Modern,"Jewelry, Necklace, Silver, Louis Vuitton",Acabado en tono Silver.
+JEW-LOU-0123,Jewelry,Bracelet,Blooming Bracelet (Gold),Louis Vuitton,500,200.0,300.0,Classic,"Jewelry, Bracelet, Gold, Louis Vuitton",Acabado en tono Gold.
+JEW-LOU-0124,Jewelry,Bracelet,Blooming Bracelet (Silver),Louis Vuitton,500,200.0,300.0,Modern,"Jewelry, Bracelet, Silver, Louis Vuitton",Acabado en tono Silver.
+JEW-LOU-0125,Jewelry,Bracelet,Nanogram Cuff (Gold),Louis Vuitton,610,244.0,366.0,Classic,"Jewelry, Bracelet, Gold, Louis Vuitton",Acabado en tono Gold.
+JEW-LOU-0126,Jewelry,Bracelet,Nanogram Cuff (Silver),Louis Vuitton,610,244.0,366.0,Modern,"Jewelry, Bracelet, Silver, Louis Vuitton",Acabado en tono Silver.
+JEW-GUC-0127,Jewelry,Earrings,Double G Studs (Gold),Gucci,300,120.0,180.0,Classic,"Jewelry, Earrings, Gold, Gucci",Acabado en tono Gold.
+JEW-GUC-0128,Jewelry,Earrings,Double G Studs (Silver),Gucci,290,116.0,174.0,Modern,"Jewelry, Earrings, Silver, Gucci",Acabado en tono Silver.
+JEW-GUC-0129,Jewelry,Ring,Interlocking G Ring (Gold),Gucci,310,124.0,186.0,Classic,"Jewelry, Ring, Gold, Gucci",Acabado en tono Gold.
+JEW-GUC-0130,Jewelry,Ring,Interlocking G Ring (Silver),Gucci,320,128.0,192.0,Modern,"Jewelry, Ring, Silver, Gucci",Acabado en tono Silver.
+JEW-FEN-0131,Jewelry,Earrings,F is Fendi Earrings (Gold),Fendi,330,132.0,198.0,Classic,"Jewelry, Earrings, Gold, Fendi",Acabado en tono Gold.
+JEW-FEN-0132,Jewelry,Earrings,F is Fendi Earrings (Silver),Fendi,330,132.0,198.0,Modern,"Jewelry, Earrings, Silver, Fendi",Acabado en tono Silver.
+JEW-FEN-0133,Jewelry,Necklace,O'Lock Choker (Gold),Fendi,540,216.0,324.0,Classic,"Jewelry, Necklace, Gold, Fendi",Acabado en tono Gold.
+JEW-FEN-0134,Jewelry,Necklace,O'Lock Choker (Silver),Fendi,550,220.0,330.0,Modern,"Jewelry, Necklace, Silver, Fendi",Acabado en tono Silver.
+TEC-LOU-0135,Tech,Case,iPhone 15 Pro Case (Louis Vuitton),Louis Vuitton,393,100.0,250.0,Trendsetter,"Tech, Case, Logo",Funda de lujo para smartphone.
+TEC-LOU-0136,Tech,Case,AirPods Pro Case (Louis Vuitton),Louis Vuitton,266,80.0,170.0,Trendsetter,"Tech, AirPods, Gift",Estuche protector con logo.
+TEC-GUC-0137,Tech,Case,iPhone 15 Pro Case (Gucci),Gucci,430,100.0,250.0,Trendsetter,"Tech, Case, Logo",Funda de lujo para smartphone.
+TEC-GUC-0138,Tech,Case,AirPods Pro Case (Gucci),Gucci,299,80.0,170.0,Trendsetter,"Tech, AirPods, Gift",Estuche protector con logo.
+TEC-PRA-0139,Tech,Case,iPhone 15 Pro Case (Prada),Prada,394,100.0,250.0,Trendsetter,"Tech, Case, Logo",Funda de lujo para smartphone.
+TEC-PRA-0140,Tech,Case,AirPods Pro Case (Prada),Prada,251,80.0,170.0,Trendsetter,"Tech, AirPods, Gift",Estuche protector con logo.
+TEC-DIO-0141,Tech,Case,iPhone 15 Pro Case (Dior),Dior,450,100.0,250.0,Trendsetter,"Tech, Case, Logo",Funda de lujo para smartphone.
+TEC-DIO-0142,Tech,Case,AirPods Pro Case (Dior),Dior,253,80.0,170.0,Trendsetter,"Tech, AirPods, Gift",Estuche protector con logo.
+TEC-SAI-0143,Tech,Case,iPhone 15 Pro Case (Saint Laurent),Saint Laurent,402,100.0,250.0,Trendsetter,"Tech, Case, Logo",Funda de lujo para smartphone.
+TEC-SAI-0144,Tech,Case,AirPods Pro Case (Saint Laurent),Saint Laurent,261,80.0,170.0,Trendsetter,"Tech, AirPods, Gift",Estuche protector con logo.
+CAR-UNI-0145,Care,Leather,Saphir Médaille d'Or Renovateur,Universal,24,12.0,12.0,Pragmatic,"Care, Maintenance",Nutrición esencial.
+CAR-UNI-0146,Care,Protection,Collonil Carbon Pro Spray,Universal,19,9.0,10.0,Pragmatic,"Care, Maintenance",Impermeabilizante.
+CAR-UNI-0147,Care,Hardware,Kit Limpieza Herrajes,Universal,29,10.0,19.0,Pragmatic,"Care, Maintenance",Pulido de metales.
+SER-UNI-0148,Service,Spa,Spa: Limpieza & Ozonización,Universal,120,25.0,95.0,Pragmatic,"Care, Maintenance",Desinfección y limpieza.
+SER-UNI-0149,Service,Repair,Spa: Restauración Color,Universal,220,40.0,180.0,Pragmatic,"Care, Maintenance",Retoque de esquinas.
+SER-UNI-0150,Service,Auth,Autenticación Entrupy,Universal,60,15.0,45.0,Pragmatic,"Care, Maintenance",Certificado digital.
+STO-UNI-0151,Storage,Organizer,Organizador Fieltro (Universal),Universal,35,8.0,27.0,Pragmatic,"Care, Maintenance",Para tote bags.
