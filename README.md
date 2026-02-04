@@ -9,11 +9,24 @@ Este proyecto simula el ecosistema de datos de una firma de moda ("Heras") y uti
 
 El dashboard cuenta con 9 módulos integrados:
 
-### 🧠 Inteligencia Artificial Generativa (RAG)
-- **Aura (AI Assistant):** Asistente virtual experto impulsado por **Llama 3 (vía Groq)**.
-- **RAG Avanzado:** Utiliza una base de datos vectorial (**ChromaDB**) para responder preguntas sobre el catálogo, ventas y políticas internas de la empresa.
-- **Memoria & Contexto:** Aura recuerda la conversación y utiliza *Rerankers* para asegurar la máxima precisión en sus respuestas.
+## 🧠 Arquitectura de Inteligencia Artificial
 
+El sistema se fundamenta en tres motores de IA que trabajan en paralelo:
+
+### 1. IA Generativa & NLP (El Asistente "Aura")
+* **Motor RAG (Retrieval-Augmented Generation):** Conecta un LLM con el conocimiento corporativo privado.
+* **Tecnología:** Llama 3 (70B) vía Groq, LangChain y ChromaDB (Vector Store).
+* **Capabilities:** Chat con memoria contextual, reranking de documentos para máxima precisión y cero alucinaciones sobre precios o stock.
+
+### 2. Aprendizaje No Supervisado (Segmentación)
+* **Clustering de Clientes:** Utilizamos algoritmos **K-Means** para descubrir patrones ocultos en la base de datos de clientes.
+* **Perfiles Detectados:** Identificación automática de segmentos como *"VIPs Leales"*, *"Cazadores de Tendencias"* o *"Compradores Ocasionales"* basándose en Recencia, Frecuencia y Valor Monetario (RFM).
+
+### 3. IA Predictiva & Recomendación
+* **Predicción de Demanda:** Modelos de series temporales para anticipar roturas de stock.
+* **Cross-Selling Inteligente:** Motor de recomendación basado en filtrado de contenido para sugerir accesorios complementarios (ej. *Bolso Hermès -> Pañuelo de Seda*).
+
+* **Elasticidad de Precios:** Algoritmos que simulan cómo variaciones en el precio impactan en el margen de beneficio neto.
 ### 📊 Módulos de Analítica & ML
 1.  **Resumen General:** KPIs en tiempo real de ventas, margen y satisfacción.
 2.  **Marketing Insights:** Análisis del rendimiento de campañas (ROI, CPC) y canales.
@@ -30,6 +43,7 @@ El dashboard cuenta con 9 módulos integrados:
 * **Frontend:** Streamlit (Python).
 * **LLM & Inference:** Groq API (Llama 3.3 70B Versatile).
 * **Orquestación IA:** LangChain (Core, Community, Groq).
+* **Machine Learning:** Scikit-Learn (K-Means, Regression), XGBoost, Pandas.
 * **Base de Datos Vectorial:** ChromaDB.
 * **Embeddings & Reranking:** HuggingFace (`sentence-transformers`, `cross-encoder`).
 * **Ciencia de Datos:** Pandas, NumPy, Scikit-learn, XGBoost.
