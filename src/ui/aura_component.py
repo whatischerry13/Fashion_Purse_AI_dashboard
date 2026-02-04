@@ -59,7 +59,7 @@ def render_aura(context=""):
         init_aura()
 
     # 3. BURBUJA FLOTANTE
-    with st.popover("", use_container_width=False):
+    with st.popover("Aura AI", use_container_width=False):
         st.markdown("### Aura AI")
         st.caption("Asistente Virtual")
         
