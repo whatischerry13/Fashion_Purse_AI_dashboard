@@ -56,7 +56,7 @@ def render_aura(context=""):
             st.session_state.aura_bot = None
 
     # UI BURBUJA
-    with st.popover("💬", use_container_width=False):
+    with st.popover("Heras Purse AI chatbot", use_container_width=False):
         c1, c2 = st.columns([3, 1])
         with c1: st.markdown("### Aura AI")
         with c2: 

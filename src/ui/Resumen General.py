@@ -3,46 +3,7 @@ import pandas as pd
 import plotly.graph_objects as go
 from pathlib import Path
 import sys
-# --- INICIO BLOQUE RADIOGRAFÍA (BORRAR LUEGO) ---
-import os
-st.divider()
-st.subheader("🔍 Radiografía de Archivos en Nube")
 
-# 1. ¿Dónde cree Python que estamos?
-current_working_dir = os.getcwd()
-st.write(f"📂 Directorio de trabajo actual: `{current_working_dir}`")
-
-# 2. Reconstrucción de la ruta
-try:
-    # Ajusta esto si tu estructura es diferente
-    base_path = Path(__file__).resolve().parent.parent.parent
-    expected_db_path = base_path / 'data/chroma_db'
-    
-    st.write(f"📍 Ruta calculada para la DB: `{expected_db_path}`")
-    
-    # 3. ¿Existe la carpeta?
-    if expected_db_path.exists():
-        st.success("✅ La carpeta 'data/chroma_db' EXISTE.")
-        
-        # 4. ¿Qué hay dentro?
-        files = os.listdir(expected_db_path)
-        if files:
-            st.info(f"📄 Archivos encontrados ({len(files)}): {files}")
-            if "chroma.sqlite3" in files:
-                st.success("✅ 'chroma.sqlite3' detectado.")
-            else:
-                st.error("❌ FALTA 'chroma.sqlite3'. La DB está corrupta.")
-        else:
-            st.error("❌ La carpeta está VACÍA (Git subió la carpeta pero no los archivos).")
-    else:
-        st.error("❌ La carpeta NO EXISTE en esa ruta.")
-        # Vamos a listar qué hay en la raíz para orientarnos
-        st.write("Contenido de la raíz:", os.listdir(base_path))
-
-except Exception as e:
-    st.error(f"Error en diagnóstico: {e}")
-st.divider()
-# --- FIN BLOQUE RADIOGRAFÍA ---
 
 # --- 1. MAGIC PATH FIX (ESTO VA LO PRIMERO DE TODO) ---
 # Esto es necesario para que encuentre 'src' y 'render_aura'

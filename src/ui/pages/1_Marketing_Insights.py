@@ -5,6 +5,11 @@ import pandas as pd
 import numpy as np
 import sys
 from pathlib import Path
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -289,3 +294,6 @@ if not mkt_df.empty:
 
 else:
     st.warning("No hay datos disponibles.")
+# --- 7. AURA CHATBOT ---
+# --- AURA FLOTANTE ---
+render_aura(context="El usuario está en esta página: [NOMBRE DE LA PÁGINA].")
