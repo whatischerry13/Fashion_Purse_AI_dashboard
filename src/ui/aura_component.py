@@ -1,116 +1,88 @@
 import streamlit as st
 from src.rag.engine import LuxuryAssistant
 import gc
+import traceback
 
-# --- 1. MOTOR DE IA (CACHÉ INTELIGENTE) ---
+# --- 1. MOTOR DE IA (CON DIAGNÓSTICO VISIBLE) ---
 @st.cache_resource(show_spinner=False)
 def get_engine_instance():
     """
-    Carga el modelo UNA sola vez y lo comparte.
-    Si falla, devuelve None para que podamos manejarlo.
+    Intenta cargar el cerebro. Si falla, MUESTRA EL ERROR EXACTO.
     """
     try:
-        gc.collect() # Limpieza de memoria preventiva
+        gc.collect()
         return LuxuryAssistant()
     except Exception as e:
+        # AQUÍ ESTÁ EL CAMBIO: Guardamos el error para mostrarlo
+        error_trace = traceback.format_exc()
+        st.session_state.startup_error = f"{str(e)} \n\n {error_trace}"
+        print(f"❌ Error Crítico iniciando Aura: {e}")
         return None
 
 def force_reset_aura():
-    """Borra la caché y fuerza un reinicio limpio."""
+    """Borra caché y fuerza reinicio."""
     st.cache_resource.clear()
-    if "aura_bot" in st.session_state:
-        del st.session_state["aura_bot"]
-    if "aura_history" in st.session_state:
-        st.session_state.aura_history = []
+    for key in ["aura_bot", "aura_history", "startup_error"]:
+        if key in st.session_state:
+            del st.session_state[key]
     st.rerun()
 
-# --- 2. RENDERIZADO DEL CHAT ---
+# --- 2. RENDERIZADO ---
 def render_aura(context=""):
-    """
-    Renderiza la burbuja flotante con gestión de errores visible.
-    """
     
-    # CSS: Burbuja Flotante + Botón de Reinicio
+    # CSS
     st.markdown("""
     <style>
         div[data-testid="stPopover"] { position: fixed; bottom: 30px; right: 30px; z-index: 99999; }
         div[data-testid="stPopover"] > button {
             width: 60px; height: 60px; border-radius: 50%;
             background-color: #0F172A; color: white; border: 1px solid #334155;
-            box-shadow: 0 4px 12px rgba(0,0,0,0.3); font-size: 24px; transition: transform 0.2s;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3); font-size: 24px;
         }
-        div[data-testid="stPopover"] > button:hover { transform: scale(1.1); background-color: #000000; }
-        
-        .aura-user-msg { background: #F1F5F9; color: #1E293B; padding: 10px; border-radius: 12px 12px 2px 12px; margin-bottom: 8px; text-align: right; margin-left: 20px; font-size: 0.9rem;}
-        .aura-bot-msg { background: #FFFFFF; color: #0F172A; padding: 10px; border: 1px solid #E2E8F0; border-radius: 12px 12px 12px 2px; margin-bottom: 8px; font-size: 0.9rem;}
-        .aura-error-msg { background: #FEE2E2; color: #991B1B; padding: 10px; border: 1px solid #F87171; border-radius: 8px; margin-bottom: 8px; font-size: 0.85rem;}
+        .aura-error-msg { background: #FEE2E2; color: #991B1B; padding: 10px; border: 1px solid #F87171; border-radius: 8px; font-size: 0.8rem;}
     </style>
     """, unsafe_allow_html=True)
 
     # Inicializar Historial
     if "aura_history" not in st.session_state:
-        st.session_state.aura_history = [{"role": "assistant", "content": "Hola. Soy Aura. ¿En qué puedo ayudarte?"}]
+        st.session_state.aura_history = [{"role": "assistant", "content": "Hola. Soy Aura."}]
 
-    # --- LÓGICA DE CONEXIÓN ---
+    # Intentar conectar
     if "aura_bot" not in st.session_state or st.session_state.aura_bot is None:
         engine = get_engine_instance()
-        if engine and hasattr(engine, 'chain') and engine.chain:
+        if engine and hasattr(engine, 'chain'):
             st.session_state.aura_bot = engine
         else:
-            # Si falla la carga, no bloqueamos, pero avisamos dentro del chat
             st.session_state.aura_bot = None
 
-    # --- UI DE LA BURBUJA ---
+    # UI BURBUJA
     with st.popover("💬", use_container_width=False):
-        # Cabecera con Botón de Reinicio
         c1, c2 = st.columns([3, 1])
-        with c1:
-            st.markdown("### Aura AI")
-            st.caption("Asistente Virtual")
-        with c2:
-            if st.button("♻️", help="Reiniciar Aura"):
-                force_reset_aura()
+        with c1: st.markdown("### Aura AI")
+        with c2: 
+            if st.button("♻️"): force_reset_aura()
 
-        # Contenedor de Chat
-        chat_container = st.container(height=350)
+        # SI HAY ERROR DE ARRANQUE, LO MOSTRAMOS AQUÍ EN ROJO
+        if "startup_error" in st.session_state:
+            st.error("🚨 ERROR DE ARRANQUE DETECTADO:")
+            st.code(st.session_state.startup_error, language="bash")
+        
+        # Chat Normal
+        chat_container = st.container(height=300)
         with chat_container:
             for msg in st.session_state.aura_history:
-                if msg["role"] == "user":
-                    st.markdown(f"<div class='aura-user-msg'>{msg['content']}</div>", unsafe_allow_html=True)
-                elif msg["role"] == "error":
-                    st.markdown(f"<div class='aura-error-msg'>⚠️ {msg['content']}</div>", unsafe_allow_html=True)
-                else:
-                    st.markdown(f"<div class='aura-bot-msg'>{msg['content']}</div>", unsafe_allow_html=True)
+                role_icon = "✨" if msg["role"] == "assistant" else "👤"
+                st.markdown(f"**{role_icon}**: {msg['content']}")
 
-        # Input de Usuario
-        if prompt := st.chat_input("Escribe aquí...", key="aura_float_input"):
-            # 1. Pintar usuario
+        if prompt := st.chat_input("Escribe..."):
             st.session_state.aura_history.append({"role": "user", "content": prompt})
             
-            # 2. Generar respuesta
             if st.session_state.aura_bot:
                 try:
-                    with st.spinner("Aura está pensando..."):
-                        # Contexto + Prompt
-                        full_prompt = f"[Contexto Pantalla: {context}] {prompt}"
-                        
-                        # LLAMADA AL CEREBRO (Esta es la línea crítica)
-                        response = st.session_state.aura_bot.ask(full_prompt)
-                        
-                        # Extraer respuesta
-                        if isinstance(response, dict) and "answer" in response:
-                            answer = response["answer"]
-                        else:
-                            answer = str(response)
-
-                        st.session_state.aura_history.append({"role": "assistant", "content": answer})
-                        st.rerun()
-                        
-                except Exception as e:
-                    # SI FALLA, LO MOSTRAMOS EN ROJO
-                    error_msg = f"Error técnico: {str(e)}"
-                    st.session_state.aura_history.append({"role": "error", "content": error_msg})
+                    response = st.session_state.aura_bot.ask(f"[Ctx: {context}] {prompt}")
+                    st.session_state.aura_history.append({"role": "assistant", "content": response["answer"]})
                     st.rerun()
+                except Exception as e:
+                    st.error(f"Error respondiendo: {e}")
             else:
-                st.session_state.aura_history.append({"role": "error", "content": "Aura desconectada. Pulsa ♻️ arriba."})
-                st.rerun()
+                st.error("⚠️ Aura no pudo arrancar. Mira el error arriba.")
