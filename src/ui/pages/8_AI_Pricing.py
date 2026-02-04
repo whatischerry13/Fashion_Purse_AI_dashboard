@@ -6,6 +6,11 @@ from pathlib import Path
 import sys
 import plotly.graph_objects as go
 import datetime
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
@@ -338,3 +343,5 @@ with st.expander("Trazabilidad del Algoritmo"):
     * **Error Medio:** +/- 5% (Validado con RMSE).
     * **Competencia:** Datos scrapeados de Vestiaire/StockX simulados.
     """)
+# --- AURA INTEGRATION ---
+render_aura(context="AI Pricing. El usuario define la estrategia de precios, analiza la elasticidad de la demanda y compara precios con competidores del sector lujo.")

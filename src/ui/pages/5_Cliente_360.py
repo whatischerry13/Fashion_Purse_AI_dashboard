@@ -5,6 +5,11 @@ import numpy as np
 import sys
 from pathlib import Path
 from datetime import datetime, timedelta, time
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -501,3 +506,5 @@ if sel_client_name:
         
         with c_a: st.markdown(clean_html(f'<a href="mailto:{c["Email"]}" class="btn-contact" style="display:block;">Email</a>'), unsafe_allow_html=True)
         with c_b: st.markdown(clean_html(f'<a href="{wa_url}" target="_blank" class="btn-contact" style="display:block; background-color:#16A34A;">WhatsApp</a>'), unsafe_allow_html=True)
+        # --- AURA INTEGRATION ---
+render_aura(context="Cliente 360 (CRM). El usuario analiza fichas individuales de clientes VIP, historial de compras, Lifetime Value (LTV) y preferencias personales.")

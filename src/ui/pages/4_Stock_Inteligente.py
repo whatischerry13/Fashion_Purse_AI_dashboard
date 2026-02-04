@@ -5,6 +5,11 @@ import numpy as np
 import sys
 from pathlib import Path
 from datetime import timedelta
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -310,3 +315,6 @@ st.markdown(f"""
     </div>
 </div>
 """, unsafe_allow_html=True)
+# --- 7. AURA CHATBOT ---
+# --- AURA INTEGRATION ---
+render_aura(context="Stock Inteligente. El usuario gestiona el inventario, revisa la rotación de productos, días de cobertura y alertas de rotura de stock.")

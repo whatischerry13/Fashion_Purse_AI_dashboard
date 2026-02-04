@@ -5,6 +5,11 @@ from pathlib import Path
 import sys
 import datetime
 import os
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -369,3 +374,6 @@ else:
         <p>Utilice la barra lateral para buscar por nombre, ID o filtrar por segmentos estratégicos.</p>
     </div>
     """, unsafe_allow_html=True)
+# --- 7. AURA CHATBOT ---
+# --- AURA INTEGRATION ---
+render_aura(context="Cross Selling IA. El usuario busca oportunidades de venta cruzada, recomendaciones de productos complementarios (bolsos + accesorios) y reglas de asociación.")

@@ -4,6 +4,11 @@ import pandas as pd
 import numpy as np
 import sys
 from pathlib import Path
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -255,3 +260,5 @@ with c_summary:
         </div>
     </div>
     """, unsafe_allow_html=True)
+# --- AURA INTEGRATION ---
+render_aura(context="Simulador Estratégico. El usuario está ejecutando escenarios 'What-If', proyectando resultados financieros y ajustando palancas de negocio para ver impactos futuros.")

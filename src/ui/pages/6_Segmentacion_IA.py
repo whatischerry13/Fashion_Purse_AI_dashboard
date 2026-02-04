@@ -6,6 +6,11 @@ import numpy as np
 import sys
 import re
 from pathlib import Path
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -414,3 +419,6 @@ with tab_action:
                 </div>
             </div>
             """, unsafe_allow_html=True)
+# --- 7. AURA CHATBOT ---
+# --- AURA INTEGRATION ---
+render_aura(context="Segmentación IA. El usuario analiza clusters de clientes agrupados por comportamiento (RFM), demografía y patrones de compra predictivos.")

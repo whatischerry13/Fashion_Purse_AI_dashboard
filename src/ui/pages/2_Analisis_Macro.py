@@ -6,6 +6,11 @@ import numpy as np
 import sys
 from pathlib import Path
 from datetime import datetime, timedelta
+# --- IMPORTAR AURA ---
+try:
+    from src.ui.aura_component import render_aura
+except ImportError:
+    pass
 # 1. Importar common (que ya incluye el path root)
 from src.ui.common import setup_page_config, get_project_root, load_data
 
@@ -344,3 +349,6 @@ with c_right:
     )
     
     st.plotly_chart(fig_matrix, use_container_width=True)
+# --- 7. AURA CHATBOT ---
+# --- AURA INTEGRATION ---
+render_aura(context="Análisis Macroeconómico. El usuario revisa indicadores globales, inflación, tendencias del sector lujo internacional y factores externos que afectan la demanda.")
