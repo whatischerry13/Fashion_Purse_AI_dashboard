@@ -295,5 +295,5 @@ if not mkt_df.empty:
 else:
     st.warning("No hay datos disponibles.")
 # --- 7. AURA CHATBOT ---
-# --- AURA FLOTANTE ---
-render_aura(context="El usuario está en esta página: [NOMBRE DE LA PÁGINA].")
+# --- AURA INTEGRATION ---
+render_aura(context="Marketing Insights. El usuario analiza el ROI de campañas, engagement en redes sociales, canales de adquisición y tendencias de marketing digital.")
